@@ -39,3 +39,13 @@ def test_continuation_row_inherits_company():
 def test_key_uses_apply_url():
     jobs = parse_table(FIXTURE, "SWE")
     assert jobs[0].key() == "https://jobs.rivian.com/apply/123"
+
+
+def test_age_days_ordering():
+    from jobfinder.email_report import _age_days
+
+    assert _age_days("2d") < _age_days("13d")
+    assert _age_days("5h") < _age_days("1d")
+    assert _age_days("1w") == 7.0
+    assert _age_days("0d") == 0.0
+    assert _age_days("") == float("inf")

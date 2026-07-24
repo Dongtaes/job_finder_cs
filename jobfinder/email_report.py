@@ -1,5 +1,6 @@
 """Build the HTML digest and send it over SMTP (or write it out on a dry run)."""
 import html
+import re
 import smtplib
 import ssl
 from datetime import date
@@ -10,6 +11,21 @@ from . import config
 from .geofilter import GROUP_GERMANY, GROUP_EUROPE, GROUP_REMOTE
 
 GROUP_ORDER = [GROUP_GERMANY, GROUP_EUROPE, GROUP_REMOTE]
+
+# Approximate age in days per unit, for freshest-first sorting.
+_AGE_UNIT_DAYS = {"h": 1 / 24, "d": 1.0, "w": 7.0, "mo": 30.0, "m": 30.0, "y": 365.0}
+_AGE_RE = re.compile(r"(\d+)\s*(mo|[hdwmy])", re.IGNORECASE)
+
+
+def _age_days(age):
+    """Parse an age string like '3d', '5h', '2w' into a number of days.
+
+    Unknown/empty ages sort to the very end (treated as very old).
+    """
+    m = _AGE_RE.search(age or "")
+    if not m:
+        return float("inf")
+    return int(m.group(1)) * _AGE_UNIT_DAYS.get(m.group(2).lower(), 1.0)
 
 _STYLES = """
 body { font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
@@ -86,8 +102,9 @@ def build_html(jobs):
     by_group = {g: [] for g in GROUP_ORDER}
     for job in jobs:
         by_group.setdefault(job.group, []).append(job)
+    # Freshest first; company/position break ties for equal ages.
     for group_jobs in by_group.values():
-        group_jobs.sort(key=lambda j: (j.company.lower(), j.position.lower()))
+        group_jobs.sort(key=lambda j: (_age_days(j.age), j.company.lower(), j.position.lower()))
 
     sections = "\n".join(
         _group_html(g, by_group.get(g, []), highlight=(g == GROUP_GERMANY))
