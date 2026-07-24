@@ -25,6 +25,10 @@ th { background: #f6f8fa; font-size: 12px; text-transform: uppercase; color: #55
 a.apply { display: inline-block; padding: 4px 12px; background: #2563eb; color: #fff;
           border-radius: 6px; text-decoration: none; font-size: 13px; }
 .muted { color: #888; font-size: 12px; }
+.section.highlight { background: #fff7ed; border: 2px solid #f59e0b;
+                     border-radius: 10px; padding: 6px 16px 12px; margin-top: 20px; }
+.section.highlight h2 { color: #b45309; border-bottom-color: #fcd34d; }
+.note { color: #b45309; font-weight: 600; font-size: 13px; margin: 6px 0 8px; }
 """
 
 
@@ -51,33 +55,53 @@ def _row_html(job):
     )
 
 
-def _group_html(title, jobs):
+def _group_html(title, jobs, highlight=False):
     if not jobs:
         return ""
     rows = "\n".join(_row_html(j) for j in jobs)
+    cls = "section highlight" if highlight else "section"
+    flag = "🇩🇪 " if highlight else ""
+    note = (
+        "<p class='note'>⭐ Top priority — roles located in Germany.</p>"
+        if highlight
+        else ""
+    )
     return (
-        f"<h2>{_esc(title)} <span class='muted'>({len(jobs)})</span></h2>"
+        f"<div class='{cls}'>"
+        f"<h2>{flag}{_esc(title)} <span class='muted'>({len(jobs)})</span></h2>"
+        f"{note}"
         "<table><thead><tr>"
         "<th>Company</th><th>Position</th><th>Location</th><th>Age</th><th></th>"
         "</tr></thead><tbody>"
         f"{rows}</tbody></table>"
+        "</div>"
     )
 
 
 def build_html(jobs):
-    """Render the grouped HTML digest for ``jobs`` (each must have ``.group``)."""
+    """Render the grouped HTML digest for ``jobs`` (each must have ``.group``).
+
+    Germany is shown first and visually highlighted as the top-priority group.
+    """
     by_group = {g: [] for g in GROUP_ORDER}
     for job in jobs:
         by_group.setdefault(job.group, []).append(job)
     for group_jobs in by_group.values():
         group_jobs.sort(key=lambda j: (j.company.lower(), j.position.lower()))
 
-    sections = "\n".join(_group_html(g, by_group.get(g, [])) for g in GROUP_ORDER)
+    sections = "\n".join(
+        _group_html(g, by_group.get(g, []), highlight=(g == GROUP_GERMANY))
+        for g in GROUP_ORDER
+    )
+    counts = {g: len(by_group.get(g, [])) for g in GROUP_ORDER}
     today = date.today().isoformat()
     return (
         f"<html><head><meta charset='utf-8'><style>{_STYLES}</style></head><body>"
         f"<p class='muted'>Daily intern-jobs digest &middot; {today} &middot; "
-        f"{len(jobs)} new role(s)</p>"
+        f"{len(jobs)} new role(s) &middot; "
+        f"🇩🇪 {counts[GROUP_GERMANY]} Germany &middot; "
+        f"{counts[GROUP_EUROPE]} Europe &middot; "
+        f"{counts[GROUP_REMOTE]} remote/unspecified</p>"
         f"{sections}"
         "<p class='muted'>Sources: speedyapply 2027 SWE &amp; AI College Jobs "
         "(INTERN_INTL).</p>"
@@ -86,7 +110,12 @@ def build_html(jobs):
 
 
 def subject_line(jobs):
-    return f"🇩🇪 {len(jobs)} new intern roles (Germany/Europe) — {date.today().isoformat()}"
+    germany = sum(1 for j in jobs if j.group == GROUP_GERMANY)
+    other = len(jobs) - germany
+    return (
+        f"🇩🇪 {germany} new Germany + {other} EU/remote intern roles "
+        f"— {date.today().isoformat()}"
+    )
 
 
 def send(jobs, out_path="out.html"):
