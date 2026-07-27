@@ -3,4 +3,5 @@ __pycache__/
 .venv/
 venv/
 out.html
+out-*.html
 .pytest_cache/

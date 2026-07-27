@@ -1,41 +1,55 @@
-"""Orchestrate: fetch -> parse -> filter -> diff against state -> email digest."""
+"""Run each job category (Internships, New Grad) as an independent pipeline:
+fetch -> parse -> filter -> diff against that category's state -> email digest.
+"""
+import re
 import sys
 
 from jobfinder import config, email_report, fetch, geofilter, state
 from jobfinder.parse import parse_table
 
 
-def collect_jobs():
-    """Fetch and parse all sources into a flat list of Job objects."""
+def collect_jobs(sources):
+    """Fetch and parse a category's sources into a flat list of Job objects."""
     jobs = []
-    for label, markdown in fetch.fetch_all():
+    for label, markdown in fetch.fetch_all(sources):
         parsed = parse_table(markdown, label)
-        print(f"Parsed {len(parsed)} rows from {label}")
+        print(f"  parsed {len(parsed)} rows from {label}")
         jobs.extend(parsed)
     return jobs
 
 
-def main():
-    jobs = collect_jobs()
-    kept = geofilter.filter_jobs(jobs)
-    print(f"Kept {len(kept)} Germany/Europe/unspecified roles (of {len(jobs)} total)")
+def _slug(text):
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
-    seen = state.load()
+
+def run_category(category, cfg):
+    """Run one category end-to-end. Returns the count of new roles emailed."""
+    print(f"[{category}]")
+    jobs = collect_jobs(cfg["sources"])
+    kept = geofilter.filter_jobs(jobs)
+    print(f"  kept {len(kept)} Germany/Europe/unspecified (of {len(jobs)} total)")
+
+    path = config.state_path(cfg["state"])
+    seen = state.load(path)
     new_jobs = [j for j in kept if j.key() not in seen]
-    print(f"{len(new_jobs)} new role(s) since last run")
+    print(f"  {len(new_jobs)} new role(s) since last run")
 
     if new_jobs:
-        email_report.send(new_jobs)
+        email_report.send(new_jobs, category, out_path=f"out-{_slug(category)}.html")
     else:
-        print("Nothing new — no email sent.")
+        print("  nothing new — no email sent.")
 
-    # A dry run must not mutate persisted state (it's just for eyeballing output).
     if config.is_dry_run():
-        print("[dry-run] state not persisted.")
-        return 0
+        print("  [dry-run] state not persisted.")
+    else:
+        # Persist the currently-live set so the file self-prunes to what's active.
+        state.save({j.key() for j in kept}, path)
+    return len(new_jobs)
 
-    # Persist the currently-live set so the state file self-prunes to what's active.
-    state.save({j.key() for j in kept})
+
+def main():
+    for category, cfg in config.CATEGORIES.items():
+        run_category(category, cfg)
     return 0
 
 

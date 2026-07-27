@@ -1,10 +1,26 @@
 """Configuration: source URLs, country lists, and environment/secret reading."""
 import os
 
-# Raw markdown sources (tagged by source label).
-SOURCES = {
-    "SWE": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/INTERN_INTL.md",
-    "AI": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/INTERN_INTL.md",
+_SWE = "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main"
+_AI = "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main"
+
+# Each category is an independent pipeline: its own raw sources (tagged by
+# source label), its own persisted state file, and its own email.
+CATEGORIES = {
+    "Internships": {
+        "state": "seen.json",
+        "sources": {
+            "SWE": f"{_SWE}/INTERN_INTL.md",
+            "AI": f"{_AI}/INTERN_INTL.md",
+        },
+    },
+    "New Grad": {
+        "state": "seen_newgrad.json",
+        "sources": {
+            "SWE": f"{_SWE}/NEW_GRAD_INTL.md",
+            "AI": f"{_AI}/NEW_GRAD_INTL.md",
+        },
+    },
 }
 
 # Country part is grouped as "Germany" on its own; the rest fall under "Europe".
@@ -51,8 +67,12 @@ EUROPE_COUNTRIES = {
     "malta",
 }
 
-# Path where the "seen jobs" state is persisted (committed back by CI).
-STATE_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "seen.json")
+# Directory where per-category "seen jobs" state is persisted (committed by CI).
+DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
+
+
+def state_path(filename):
+    return os.path.join(DATA_DIR, filename)
 
 
 def smtp_config():

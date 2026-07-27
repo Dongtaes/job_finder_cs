@@ -94,10 +94,11 @@ def _group_html(title, jobs, highlight=False):
     )
 
 
-def build_html(jobs):
+def build_html(jobs, category="Roles"):
     """Render the grouped HTML digest for ``jobs`` (each must have ``.group``).
 
     Germany is shown first and visually highlighted as the top-priority group.
+    ``category`` labels the digest (e.g. "Internships", "New Grad").
     """
     by_group = {g: [] for g in GROUP_ORDER}
     for job in jobs:
@@ -114,38 +115,39 @@ def build_html(jobs):
     today = date.today().isoformat()
     return (
         f"<html><head><meta charset='utf-8'><style>{_STYLES}</style></head><body>"
-        f"<p class='muted'>Daily intern-jobs digest &middot; {today} &middot; "
+        f"<h1 style='font-size:20px;margin:0 0 4px'>{_esc(category)}</h1>"
+        f"<p class='muted'>Daily {_esc(category)} digest &middot; {today} &middot; "
         f"{len(jobs)} new role(s) &middot; "
         f"🇩🇪 {counts[GROUP_GERMANY]} Germany &middot; "
         f"{counts[GROUP_EUROPE]} Europe &middot; "
         f"{counts[GROUP_REMOTE]} remote/unspecified</p>"
         f"{sections}"
         "<p class='muted'>Sources: speedyapply 2027 SWE &amp; AI College Jobs "
-        "(INTERN_INTL).</p>"
+        "(international).</p>"
         "</body></html>"
     )
 
 
-def subject_line(jobs):
+def subject_line(jobs, category="Roles"):
     germany = sum(1 for j in jobs if j.group == GROUP_GERMANY)
     other = len(jobs) - germany
     return (
-        f"🇩🇪 {germany} new Germany + {other} EU/remote intern roles "
+        f"🇩🇪 {germany} Germany + {other} EU/remote {category} "
         f"— {date.today().isoformat()}"
     )
 
 
-def send(jobs, out_path="out.html"):
+def send(jobs, category="Roles", out_path="out.html"):
     """Send the digest via SMTP, or write it to ``out_path`` on a dry run.
 
     Returns the rendered HTML.
     """
-    body = build_html(jobs)
+    body = build_html(jobs, category)
 
     if config.is_dry_run():
         with open(out_path, "w", encoding="utf-8") as fh:
             fh.write(body)
-        print(f"[dry-run] wrote digest to {out_path}")
+        print(f"[dry-run] wrote {category} digest to {out_path}")
         return body
 
     cfg = config.smtp_config()
@@ -154,7 +156,7 @@ def send(jobs, out_path="out.html"):
         raise RuntimeError(f"Missing SMTP config: {', '.join(missing)}")
 
     msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject_line(jobs)
+    msg["Subject"] = subject_line(jobs, category)
     msg["From"] = cfg["username"]
     msg["To"] = cfg["recipient"]
     msg.attach(MIMEText(body, "html", "utf-8"))
@@ -163,5 +165,5 @@ def send(jobs, out_path="out.html"):
     with smtplib.SMTP_SSL(cfg["host"], cfg["port"], context=context) as server:
         server.login(cfg["username"], cfg["password"])
         server.sendmail(cfg["username"], [cfg["recipient"]], msg.as_string())
-    print(f"Sent digest with {len(jobs)} role(s) to {cfg['recipient']}")
+    print(f"Sent {category} digest with {len(jobs)} role(s) to {cfg['recipient']}")
     return body
