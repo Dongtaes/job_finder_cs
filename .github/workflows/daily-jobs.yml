@@ -2,8 +2,9 @@ name: Daily Germany/Europe Jobs (Interns + New Grad)
 
 on:
   schedule:
-    # 06:00 UTC daily (~07:00-08:00 Germany time depending on DST).
-    - cron: "0 6 * * *"
+    # GitHub cron is UTC and does not observe DST.
+    # 04:00 UTC = 06:00 in Germany during CEST (summer); 05:00 during CET (winter).
+    - cron: "0 4 * * *"
   workflow_dispatch: {}
 
 permissions:
