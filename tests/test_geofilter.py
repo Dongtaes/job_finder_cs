@@ -59,3 +59,66 @@ def test_filter_jobs_keeps_and_labels():
     groups = sorted(j.group for j in kept)
     assert len(kept) == 3
     assert groups == [GROUP_EUROPE, GROUP_GERMANY, GROUP_REMOTE]
+
+
+def test_classify_uses_resolved_hidden_locations():
+    # "+1" hides a German site: the role must be promoted, not dropped.
+    assert geofilter.classify(
+        "Vancouver, Canada +1", ["Vancouver, Canada", "Munich, Germany"]
+    ) == GROUP_GERMANY
+    # Europe beats a non-European first city.
+    assert geofilter.classify(
+        "Tel Aviv, Israel +1", ["Tel Aviv, Israel", "Dublin, Ireland"]
+    ) == GROUP_EUROPE
+    # A better group in the visible cell is never downgraded by the extras.
+    assert geofilter.classify(
+        "Munich, Germany +1", ["Munich, Germany", "Bengaluru, India"]
+    ) == GROUP_GERMANY
+    # All hidden sites non-European: still dropped.
+    assert geofilter.classify(
+        "Waterloo, Canada +1", ["Waterloo, Canada", "Toronto, Canada"]
+    ) is None
+
+
+def test_classify_country_order_independent():
+    # Workday reports "Country, City"; Greenhouse "City, Country".
+    assert geofilter.classify("Germany, Munich") == GROUP_GERMANY
+    assert geofilter.classify("China, Beijing") is None
+
+
+def test_classify_bare_city_fallback():
+    # Lever and Google often give a city with no country at all.
+    assert geofilter.classify("Munich") == GROUP_GERMANY
+    assert geofilter.classify("Zurich") == GROUP_EUROPE
+    assert geofilter.classify("Bengaluru") is None
+    # A named non-European country wins over a same-named European city.
+    assert geofilter.classify("London, Canada") is None
+    assert geofilter.classify("London, United Kingdom") == GROUP_EUROPE
+
+
+def test_filter_jobs_keeps_resolved_germany():
+    job = make("Vancouver, Canada +1")
+    job.resolved_locations = ["Vancouver, Canada", "Munich, Germany"]
+    kept = geofilter.filter_jobs([job, make("Waterloo, Canada +2")])
+    assert [j.group for j in kept] == [GROUP_GERMANY]
+
+
+def test_display_location_shows_resolved_list():
+    job = make("Vancouver, Canada +1")
+    assert geofilter.display_location(job) == "Vancouver, Canada +1"
+    job.resolved_locations = ["Vancouver, Canada", "Munich, Germany"]
+    assert geofilter.display_location(job) == "Vancouver, Canada · Munich, Germany"
+
+
+def test_classify_ignores_parenthetical_qualifiers():
+    # Grafana-style "Spain (Remote)" must still read as its country.
+    assert geofilter.classify("Remote - EMEA +1", ["EMEA", "Spain (Remote)"]) == GROUP_EUROPE
+    assert geofilter.classify("Munich (Hybrid), Germany") == GROUP_GERMANY
+
+
+def test_classify_bare_city_respects_non_european_regions():
+    # "Cambridge, Ontario" names no country but is plainly not Cambridge UK.
+    assert geofilter.classify("Cambridge, Ontario") is None
+    assert geofilter.classify(
+        "Cambridge, Canada +1", ["Cambridge, Ontario", "Toronto, Ontario"]
+    ) is None

@@ -4,7 +4,7 @@ fetch -> parse -> filter -> diff against that category's state -> email digest.
 import re
 import sys
 
-from jobfinder import config, email_report, fetch, geofilter, state
+from jobfinder import config, email_report, fetch, geofilter, resolve, state
 from jobfinder.parse import parse_table
 
 
@@ -26,6 +26,16 @@ def run_category(category, cfg):
     """Run one category end-to-end. Returns the count of new roles emailed."""
     print(f"[{category}]")
     jobs = collect_jobs(cfg["sources"])
+
+    # Rows whose location ends in "+N" hide their other sites; re-read those
+    # postings so a role that is also in Germany is not judged by its first city.
+    hidden = sum(1 for j in jobs if resolve.hidden_count(j.location))
+    if hidden and config.resolve_enabled():
+        found = resolve.resolve_jobs(jobs, config.state_path(cfg["locations"]))
+        print(f"  resolved {found}/{hidden} multi-location row(s)")
+    elif hidden:
+        print(f"  {hidden} multi-location row(s) left unresolved (RESOLVE_LOCATIONS=0)")
+
     kept = geofilter.filter_jobs(jobs)
     print(f"  kept {len(kept)} Germany/Europe/unspecified (of {len(jobs)} total)")
 

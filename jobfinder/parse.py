@@ -14,6 +14,9 @@ class Job:
     age: str
     source: str
     group: str = field(default="")
+    # Locations recovered from the posting when the row's location cell ended in
+    # a "+N" suffix that hid them (see ``jobfinder.resolve``).
+    resolved_locations: list = field(default_factory=list)
 
     def key(self):
         """Stable dedup key: the apply URL, else a hash of the identifying fields."""

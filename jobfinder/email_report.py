@@ -8,7 +8,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 from . import config
-from .geofilter import GROUP_GERMANY, GROUP_EUROPE, GROUP_REMOTE
+from .geofilter import GROUP_GERMANY, GROUP_EUROPE, GROUP_REMOTE, display_location
 
 GROUP_ORDER = [GROUP_GERMANY, GROUP_EUROPE, GROUP_REMOTE]
 
@@ -59,7 +59,7 @@ def _row_html(job):
     apply = ""
     if job.apply_url:
         apply = f'<a class="apply" href="{_esc(job.apply_url)}">Apply</a>'
-    location = _esc(job.location) or '<span class="muted">unspecified</span>'
+    location = _esc(display_location(job)) or '<span class="muted">unspecified</span>'
     return (
         "<tr>"
         f'<td class="company">{company}<span class="src">{_esc(job.source)}</span></td>'

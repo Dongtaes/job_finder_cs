@@ -1,0 +1,923 @@
+{
+  "locations": {
+    "http://www.cannondesign.com/careers/?gh_jid=8643101002": {
+      "locations": [
+        "Mumbai, Maharashtra, India"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://20four7va.breezy.hr/p/1b118146b28d-i-cpt-0033-ai-ml-developer": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Getafe-Area/Junior-Solution-Architect---Cloud-Native--IaaS---AI-Infrastructure--m-f-d-_JR10433806-1": {
+      "locations": [
+        "Getafe Area",
+        "Manching",
+        "München Area"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://aimco.wd10.myworkdayjobs.com/en-US/aimcocareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891": {
+      "locations": [
+        "Edmonton",
+        "Calgary"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/Philippines-Cavite-jp/Associate-Engineer--Software-Support-Engineering_R263961": {
+      "locations": [
+        "Philippines, Cavite (jp)"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/alten-mexico-1/j/BA502694BB/": {
+      "locations": [
+        "Santiago de Querétaro, Mexico",
+        "Puebla, Mexico",
+        "Monterrey, Mexico"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/alten-mexico-1/j/F5E6B57FF3/": {
+      "locations": [
+        "Santiago de Querétaro, Mexico",
+        "Puebla, Mexico"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/capgemini-insurance/j/8F4EE0B2C5/": {
+      "locations": [
+        "Pune, India",
+        "Hyderabad, India"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/chaingpt/j/A50FF1150F/": {
+      "locations": [
+        "South Africa",
+        "Nigeria",
+        "Kenya",
+        "Egypt",
+        "Morocco",
+        "Ghana"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/chaingpt/j/AB4912BB25/": {
+      "locations": [
+        "Argentina",
+        "Brazil",
+        "Colombia",
+        "Mexico",
+        "Chile",
+        "Uruguay"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/chaingpt/j/B97342EDDA/": {
+      "locations": [
+        "South Africa",
+        "Nigeria",
+        "Kenya",
+        "Egypt",
+        "Ghana",
+        "Morocco"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/chaingpt/j/DAEE9DFB86/": {
+      "locations": [
+        "Poland",
+        "Romania",
+        "Serbia",
+        "Portugal",
+        "Spain",
+        "Ukraine"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/emerging-travel-group/j/2E469C9A6B/": {
+      "locations": [
+        "Serbia",
+        "Armenia",
+        "Georgia",
+        "Kazakhstan",
+        "Uzbekistan",
+        "Vietnam"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/emerging-travel-group/j/C70ACA3696/": {
+      "locations": [
+        "Cyprus",
+        "Montenegro",
+        "Poland",
+        "Portugal",
+        "Thailand"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/european-dynamics/j/20BADA7218/": {
+      "locations": [
+        "Thessaloniki, Greece",
+        "Athens, Greece",
+        "Cyprus"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/ista-2/j/47A1582A33/": {
+      "locations": [
+        "South Africa"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/nology/j/01DA38C157/": {
+      "locations": [
+        "Birmingham, United Kingdom",
+        "Worcester, United Kingdom",
+        "Leicester, United Kingdom",
+        "Stoke-on-Trent, United Kingdom",
+        "Warwick, United Kingdom"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/robusta/j/907BF83357/": {
+      "locations": [
+        "Egypt",
+        "India",
+        "Jordan"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/supportyourapp/j/1AA9E2286D/": {
+      "locations": [
+        "Ukraine",
+        "Kyiv, Ukraine",
+        "Lviv, Ukraine",
+        "Cherkasy, Ukraine",
+        "Chernivtsi, Ukraine",
+        "Poland"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/supportyourapp/j/2D5D2ED023/": {
+      "locations": [
+        "Ukraine",
+        "Poland",
+        "Spain",
+        "Czechia",
+        "Romania"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/supportyourapp/j/75685F587D/": {
+      "locations": [
+        "Ukraine",
+        "Lviv, Ukraine",
+        "Cherkasy, Ukraine",
+        "Ivano-Frankivsk, Ukraine",
+        "Warsaw, Poland",
+        "Madrid, Spain"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/tehora/j/364007C1C6/": {
+      "locations": [
+        "Québec City, Canada",
+        "Montreal, Canada",
+        "Levis, Canada",
+        "Ottawa, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/tehora/j/7BECF7E823/": {
+      "locations": [
+        "Québec City, Canada",
+        "Montreal, Canada",
+        "Levis, Canada",
+        "Ottawa, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/tehora/j/EB1ED99104/": {
+      "locations": [
+        "Québec City, Canada",
+        "Montreal, Canada",
+        "Levis, Canada",
+        "Ottawa, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/EMEA---Poland---Krakw---Lubomirskiego/Full-Stack-Software-Development-Engineer_26WD100101-1": {
+      "locations": [
+        "EMEA - Poland - Kraków - Lubomirskiego"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/EMEA---Poland---Krakw---Lubomirskiego/Full-Stack-Software-Development-Engineer_26WD100347": {
+      "locations": [
+        "EMEA - Poland - Kraków - Lubomirskiego"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://cancareers-yelp.icims.com/jobs/14018/entry-level-data-backend-engineer---trust-%26-safety-%28remote---canada%29/job": {
+      "locations": [
+        "Toronto, ON, Canada",
+        "Vancouver, BC, Canada",
+        "Calgary, AB, Canada",
+        "Montreal, QC, Canada",
+        "Remote-Remote, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://cancareers-yelp.icims.com/jobs/14019/entry-level-machine-learning-engineer-%28remote---canada%29/job": {
+      "locations": [
+        "Toronto, ON, Canada",
+        "Vancouver, BC, Canada",
+        "Calgary, AB, Canada",
+        "Montreal, QC, Canada",
+        "Remote-Remote, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://cancareers-yelp.icims.com/jobs/14025/entry-level-full-stack-engineer---chat-platform-%28remote---canada%29/job": {
+      "locations": [
+        "Toronto, ON, Canada",
+        "Vancouver, BC, Canada",
+        "Montreal, QC, Canada",
+        "Calgary, AB, Canada",
+        "Remote-Remote, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://careers-bdobelgium.icims.com/jobs/1760/software-%28erp%29-implementation-junior-consultant-%282026%29/job": {
+      "locations": [
+        "Zaventem, VBR, Belgium",
+        "Antwerp, VAN, Belgium"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://careers-bdobelgium.icims.com/jobs/1776/data-engineer-junior-consultant-%28september-2026%29/job": {
+      "locations": [
+        "Zaventem, VBR, Belgium",
+        "Antwerp, VAN, Belgium",
+        "BDO Antwerp North, VAN, Belgium",
+        "Brussels, BRU, Belgium",
+        "Ghent, Belgium",
+        "Hasselt, Belgium",
+        "La Hulpe, WBR, Belgium",
+        "Battice, WLG, Belgium",
+        "Isnes, WNA, Belgium",
+        "Roeselare, VWV, Belgium"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://careers-international-realpagepms.icims.com/jobs/13413/trainer-ii---with-ai-fluency/job": {
+      "locations": [
+        "Manila, Pasig, Philippines",
+        "Cebu City, Philippines"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://careers-personifyhealth.icims.com/jobs/4814/site-reliability-engineer-i/job": {
+      "locations": [
+        "Tuzla, BIH",
+        "Sarajevo, BIH"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://corporate.trustpilot.com/careers/job/7984603?gh_jid=7984603": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://corporate.trustpilot.com/careers/job/8015796?gh_jid=8015796": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Junior-Software-Developer_31992": {
+      "locations": [
+        "Brazil Remote",
+        "Mexico Remote",
+        "Colombia Remote"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://draftkings.wd1.myworkdayjobs.com/en-US/draftkings/job/Remote---Bulgaria/Fullstack-Engineer_JR14941": {
+      "locations": [
+        "Remote - Bulgaria",
+        "Plovdiv, BG",
+        "Sofia, BG"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Bulgaria/Frontend-Engineer_JR14917-1": {
+      "locations": [
+        "Remote - Bulgaria",
+        "Plovdiv, BG",
+        "Sofia, BG"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Bulgaria/Fullstack-Engineer_JR14941-4": {
+      "locations": [
+        "Remote - Bulgaria",
+        "Plovdiv, BG",
+        "Sofia, BG"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/Early-Career-Software-Developer--Embedded-Software_JR-202618368": {
+      "locations": [
+        "Markham, Ontario, Canada",
+        "Oshawa, Ontario, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://globalcareers-yelp.icims.com/jobs/14007/entry-level-full-stack-engineer---yelp-host-%28remote-mexico%29/job": {
+      "locations": [
+        "Mexico City-Mexico City, Mexico",
+        "Monterrey, NLE, Mexico",
+        "Remote-Remote, Mexico"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/IN---Chennai/Data-Analyst_36368": {
+      "locations": [
+        "IN - Chennai",
+        "IN - Trivandrum"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://infobip.wd3.myworkdayjobs.com/en-US/infobipcareers/job/Osijek-Croatia/Junior-Mid-Software-Engineer_JR104909": {
+      "locations": [
+        "Osijek (Croatia)",
+        "Vodnjan (Croatia)",
+        "Zagreb (Croatia)"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Beijing-China/Proposal-Developer-1_R1557010-1": {
+      "locations": [
+        "Beijing, China",
+        "Shanghai, China"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Halifax-Nova-Scotia-Canada/Analyste-associ-en-donnes---Analytique-de-l-adjudication-des-demandes-de-remboursement-Associate-Data-Analyst---Reimbursement-Claims-Adjudication-Analytics_R1558815": {
+      "locations": [
+        "Halifax, Nova Scotia, Canada",
+        "Quebec, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4926017101": {
+      "locations": [
+        "EMEA",
+        "Prague, Czechia"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4926018101": {
+      "locations": [
+        "EMEA",
+        "Lisbon, Portugal"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4965715101": {
+      "locations": [
+        "EMEA",
+        "Warsaw, Poland"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4965716101": {
+      "locations": [
+        "EMEA",
+        "Prague, Czechia"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4965717101": {
+      "locations": [
+        "EMEA",
+        "Lisbon, Portugal"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7807508003": {
+      "locations": [
+        "Remote Spain",
+        "Remote Poland"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7809761003": {
+      "locations": [
+        "Remote Poland",
+        "Remote Spain"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/affirm/jobs/7809763003": {
+      "locations": [
+        "Remote Poland",
+        "Remote Spain"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/canonical/jobs/8130859": {
+      "locations": [
+        "Home Based - Worldwide",
+        "Home Based - Americas",
+        "Home Based - APAC",
+        "Home based - EMEA"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/cultureamp/jobs/8054867": {
+      "locations": [
+        "Melbourne",
+        "Sydney"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/dvtrading/jobs/4719984005": {
+      "locations": [
+        "Dubai",
+        "London"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/goremutualinsurance/jobs/4709293006": {
+      "locations": [
+        "Cambridge, Ontario",
+        "Toronto, Ontario",
+        "Cambridge, Ontario, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/grafanalabs/jobs/5999669004": {
+      "locations": [
+        "EMEA",
+        "Republic of Ireland (Remote)"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/grafanalabs/jobs/5999670004": {
+      "locations": [
+        "EMEA",
+        "Spain (Remote)"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/grafanalabs/jobs/5999672004": {
+      "locations": [
+        "EMEA",
+        "Sweden (Remote)"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/grafanalabs/jobs/5999673004": {
+      "locations": [
+        "EMEA",
+        "United Kingdom (Remote)"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/constructor/7fe40d9e-a06b-4f8b-963b-7b5d172a2f78": {
+      "locations": [
+        "Remote, Germany",
+        "Remote - Serbia, Serbia",
+        "Remote - Spain, Spain",
+        "Remote - Croatia, Croatia",
+        "Remote - Poland, Poland",
+        "Remote - UK, United Kingdom",
+        "Remote - Portugal, Portugal",
+        "Remote - Armenia, Armenia"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/docebo/8db6d80e-2327-45a7-bfd3-6967d30083ab": {
+      "locations": [
+        "Biassono, Italy, Italy",
+        "Milan, Italy, Italy"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/hirehangar/3c708fbc-3ef1-437f-b45b-7277ed2e3adf": {
+      "locations": [
+        "Panama - Panama City, Panama",
+        "Parugauy - Asuncion, Paraguay",
+        "Ecuador - Guayaquil, Ecuador",
+        "Bolivia - Santa Cruz de la Sierra, Bolivia",
+        "Mexico - Monterrey, Mexico",
+        "Egypt - Cairo, Egypt",
+        "Philippines - Davao City, Philippines",
+        "South Africa - Johannesburg, South Africa",
+        "Yemen - Sana'a, Yemen",
+        "Columbia - Bogotá, Colombia",
+        "Columbia - Medellín, Colombia",
+        "Chile - Santiago, Chile",
+        "Uruguay - Montevideo, Uruguay",
+        "Peru - Lima, Peru",
+        "Dominican Republic - Santo Domingo, Dominican Republic",
+        "Nicaragua - Managua, Nicaragua",
+        "Jamaica - Kingston, Jamaica",
+        "Argentina - Buenos Aires, Argentina",
+        "Honduras - Tegucigalpa, Honduras",
+        "South Africa - Cape Town, South Africa",
+        "Mexico - Mexico City, Mexico"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/nelly/f596c6e1-7c20-4dc9-a6d4-00800129711c": {
+      "locations": [
+        "Hamburg, Germany",
+        "Berlin, Germany"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/obrio/9f1f4adb-f78d-403c-8ecb-1512d5f2bc13": {
+      "locations": [
+        "Remote – Ukraine, Ukraine",
+        "Warsaw (Office), Poland",
+        "Remote – Poland, Poland",
+        "Kyiv (Office), Ukraine",
+        "Lviv (Office), Ukraine"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/passport/ab3739eb-bd55-4e38-904f-89381b3f2b49": {
+      "locations": [
+        "Mexico",
+        "Peru",
+        "Colombia"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/peek/cc80104d-5aef-45cc-829e-e619f9a5704e": {
+      "locations": [
+        "Mexico City, Mexico",
+        "Cabo San Lucas, Mexico, Mexico",
+        "Monterrey, Mexico",
+        "Hermosillo, Mexico",
+        "Guadalajara, Mexico",
+        "Cancún, Mexico"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/scale%20army%20careers/db536f20-02d6-43f0-80cc-c605e0247798": {
+      "locations": [
+        "Egypt",
+        "Argentina",
+        "Ethiopia",
+        "South Africa",
+        "Nigeria"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/solidgate/db614431-dd7a-4c36-b71c-2a94678a65e7": {
+      "locations": [
+        "Kyiv, Ukraine",
+        "Warsaw, Poland",
+        "Lviv, Ukraine"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/telepatia/338df9b2-fe95-4663-ae82-d743fb4959d5": {
+      "locations": [
+        "Bogotá, Colombia",
+        "São Paulo, Brazil",
+        "Medellín, Colombia"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91": {
+      "locations": [
+        "Calgary",
+        "Edmonton"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/altaml/bd8167f5-e84c-48b1-9cad-2831bf71dea1": {
+      "locations": [
+        "Edmonton",
+        "Toronto",
+        "Calgary"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/binance/38bc828a-8273-4000-83c8-1c666db2207a": {
+      "locations": [
+        "Asia",
+        "Hong Kong",
+        "Taiwan, Taipei",
+        "Australia, Sydney"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573": {
+      "locations": [
+        "Asia",
+        "Hong Kong",
+        "Taiwan, Taipei"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/binance/990a9661-c72f-4d91-a69d-c0ada1de40b0": {
+      "locations": [
+        "Asia",
+        "Hong Kong",
+        "Taiwan, Taipei",
+        "Kuala Lumpur",
+        "Thailand, Bangkok",
+        "UAE, Dubai"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/binance/fdee019b-d17e-4655-99c4-b8d31d8e61c5": {
+      "locations": [
+        "Asia",
+        "Hong Kong",
+        "Taiwan, Taipei",
+        "Kuala Lumpur",
+        "Thailand, Bangkok",
+        "UAE, Dubai"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/swissborg/1dc0e5fc-c001-4e6b-891e-7b3fdec92015": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006656": {
+      "locations": [
+        "Ulm",
+        "Stuttgart"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Wirtschaftsinformatik-Schwerpunkt-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006810": {
+      "locations": [
+        "Ulm",
+        "Stuttgart"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Pune---Business-Bay/Specialist---Data-Analytics---Insight_R_362297-1": {
+      "locations": [
+        "Pune - Business Bay"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://nttlimited.wd3.myworkdayjobs.com/en-US/ntt_careers/job/hyderabad/Graduate-Engineer---AI--Offensive--Application-Security_R-148973": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Raanana/Networking-Software-Architect_JR2024815": {
+      "locations": [
+        "Israel, Raanana",
+        "Israel, Tel Aviv",
+        "Israel, Yokneam"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2023370": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/System-Software-Engineer--SOC--New-College-Graduate_JR2020781": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Leuven/ML-Model-Security---Privacy-Architect--m-f-d-_R-10060435": {
+      "locations": [
+        "Leuven",
+        "Gratkorn"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000003130": {
+      "locations": [
+        "Noida, India",
+        "Hyderabad, India"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1": {
+      "locations": [
+        "RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO",
+        "VANCOUVER, British Columbia, Canada",
+        "TORONTO, Ontario, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499-1": {
+      "locations": [
+        "TORONTO, Ontario, Canada",
+        "CALGARY, Alberta, Canada",
+        "777 BAY ST, TH 27:TORONTO",
+        "401 GEORGIA ST W:VANCOUVER"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491": {
+      "locations": [
+        "RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO",
+        "VANCOUVER, British Columbia, Canada",
+        "TORONTO, Ontario, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Machine-Learning-Software-Engineer--4-8-Months_R-0000184499": {
+      "locations": [
+        "TORONTO, Ontario, Canada",
+        "CALGARY, Alberta, Canada",
+        "777 BAY ST, TH 27:TORONTO",
+        "401 GEORGIA ST W:VANCOUVER"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://suncor.wd1.myworkdayjobs.com/en-US/suncor_external/job/Calgary-AB-CAN/Data-Science-Student---January-2027_R0017534": {
+      "locations": [
+        "Calgary, AB, CAN",
+        "St. John's, NL, CAN",
+        "Fort McMurray (Base Plant), AB, CAN",
+        "Fort McMurray (Fort Hills), AB, CAN",
+        "Fort McMurray (Mildred Lake), AB, CAN"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://suncor.wd1.myworkdayjobs.com/en-US/suncor_external/job/Fort-McMurray-Base-Plant-AB-CAN/Automation--Software-or-Computer-Engineering-Student---January-2027_R0017525": {
+      "locations": [
+        "Fort McMurray (Base Plant), AB, CAN",
+        "Fort McMurray (Aurora), AB, CAN",
+        "St. John's, NL, CAN",
+        "Calgary, AB, CAN",
+        "Fort McMurray (Mildred Lake), AB, CAN"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Associate-Software-Engineer_JR00127248": {
+      "locations": [
+        "Toronto, Ontario",
+        "Waterloo, Ontario"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Toronto-Ontario/Associate-Software-Engineer_JR00127248-1": {
+      "locations": [
+        "Toronto, Ontario",
+        "Waterloo, Ontario"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Manager--Data-Science_R_1504116": {
+      "locations": [
+        "Toronto, Ontario",
+        "Markham, Ontario"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://www.asm.com/open-vacancies/?gh_jid=4891961101": {
+      "locations": [
+        "Singapore (ASM Front-End Mfg (S) Ltd)",
+        "Singapore"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/113019524512391878": {
+      "locations": [
+        "Tel Aviv, Israel",
+        "Haifa, Israel"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/120686451305128646": {
+      "locations": [
+        "Waterloo, ON, Canada",
+        "Montreal, QC, Canada"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/89728653453075142": {
+      "locations": [
+        "Tel Aviv, Israel",
+        "Haifa, Israel"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://www.jumptrading.com/hr/job?gh_jid=7457888": {
+      "locations": [
+        "London",
+        "Paris"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
+      "locations": [
+        "Amsterdam"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610": {
+      "locations": [],
+      "fetched": "2026-09-07"
+    },
+    "https://www.suvoda.com/careers/job-openings?gh_jid=8655252002": {
+      "locations": [
+        "Bucharest",
+        "Iasi",
+        "Bucharest, Romania",
+        "Iasi, Romania",
+        "Remote - Romania"
+      ],
+      "fetched": "2026-09-07"
+    },
+    "https://www.suvoda.com/careers/job-openings?gh_jid=8655889002": {
+      "locations": [
+        "Bucharest",
+        "Bucharest, Romania",
+        "Iasi, Romania",
+        "Remote - Romania"
+      ],
+      "fetched": "2026-09-07"
+    }
+  }
+}

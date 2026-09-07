@@ -6,10 +6,10 @@ Fetches listings from the speedyapply job boards, keeps roles in **Germany**,
 
 It runs **two independent pipelines**, each sending its own email:
 
-| Category        | Source files (SWE + AI)      | State file               |
-|-----------------|------------------------------|--------------------------|
-| **Internships** | `INTERN_INTL.md`             | `data/seen.json`         |
-| **New Grad**    | `NEW_GRAD_INTL.md`           | `data/seen_newgrad.json` |
+| Category        | Source files (SWE + AI)      | State file               | Location cache                |
+|-----------------|------------------------------|--------------------------|-------------------------------|
+| **Internships** | `INTERN_INTL.md`             | `data/seen.json`         | `data/locations.json`         |
+| **New Grad**    | `NEW_GRAD_INTL.md`           | `data/seen_newgrad.json` | `data/locations_newgrad.json` |
 
 Sources:
 - [2027 SWE College Jobs](https://github.com/speedyapply/2027-SWE-College-Jobs) — `INTERN_INTL.md`, `NEW_GRAD_INTL.md`
@@ -21,14 +21,34 @@ Sources:
 
 1. `jobfinder/fetch.py` downloads the raw markdown for that category's sources.
 2. `jobfinder/parse.py` turns the HTML-cell markdown tables into `Job` objects.
-3. `jobfinder/geofilter.py` keeps Germany / Europe / unspecified roles and labels each group.
-4. `jobfinder/state.py` compares against the category's state file to find new roles.
-5. `jobfinder/email_report.py` builds a grouped HTML digest (Germany highlighted and
+3. `jobfinder/resolve.py` re-reads any posting whose location cell ends in `+N` (see
+   *Multi-location rows* below) to recover the sites the markdown hid.
+4. `jobfinder/geofilter.py` keeps Germany / Europe / unspecified roles and labels each group.
+5. `jobfinder/state.py` compares against the category's state file to find new roles.
+6. `jobfinder/email_report.py` builds a grouped HTML digest (Germany highlighted and
    first, then Europe, then Remote/Unspecified; freshest first within each group) and
    sends it via SMTP.
 
 Jobs are de-duplicated by their apply URL. Each state file is rewritten every run to the
 set of currently-live roles (so stale entries self-prune) and committed back by CI.
+
+### Multi-location rows
+
+The source tables print only a posting's first location plus a counter — `Vancouver,
+Canada +1` — and the hidden locations appear nowhere in the markdown, so a role that is
+*also* in Munich used to be judged by Vancouver alone and dropped.
+
+For every `+N` row, `resolve.py` re-reads the posting itself: Ashby, Greenhouse (direct
+and embedded via `?gh_jid=`), Lever, Workable, Workday, iCIMS and Google Careers have
+their locations read from their own APIs/pages, and anything else falls back to the
+posting's JSON-LD. A role is then filed under the best group across *all* its locations,
+and the digest shows the full list. Roughly 80% of `+N` rows resolve; the rest (bot-walled
+career sites) keep their old, first-location-only behaviour.
+
+Lookups are cached per category in `data/locations.json` / `data/locations_newgrad.json`
+(committed by CI), so only postings never seen before hit the network — successes are
+reused for 30 days, failures retried after 3. Set `RESOLVE_LOCATIONS=0` to skip the
+lookups entirely.
 
 ## Local usage
 
@@ -80,8 +100,8 @@ Setup:
    `MAIL_PASSWORD`, `MAIL_TO`.
 3. Actions tab → *Daily Germany/Europe Jobs* → **Run workflow** to test.
 
-The workflow commits the updated state files (`data/seen.json`,
-`data/seen_newgrad.json`) back to the repo so the "new roles only" state persists across
+The workflow commits everything under `data/` (the seen-job state and the location
+caches) back to the repo so the "new roles only" state persists across
 runs. It runs `git pull --rebase --autostash` before committing so the push always
 fast-forwards.
 
