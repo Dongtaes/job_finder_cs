@@ -1,12 +1,5 @@
 {
   "locations": {
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/Data-Science-Internship-Program--She-He-They-_R00354431": {
-      "locations": [
-        "Warsaw",
-        "Krakow"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
       "locations": [
         "Assago, Via del Mulino 11a",
@@ -363,6 +356,13 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://www.google.com/about/careers/applications/jobs/results/109976286780105414": {
+      "locations": [
+        "Bengaluru, Karnataka, India",
+        "Hyderabad, Telangana, India"
+      ],
+      "fetched": "2026-09-09"
+    },
     "https://www.google.com/about/careers/applications/jobs/results/111285665542349510": {
       "locations": [
         "Zürich, Switzerland"
@@ -490,13 +490,6 @@
         "Singapore",
         "Sydney",
         "Singapore, Hong Kong, Shanghai, Sydney"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://zeissgroup.wd3.myworkdayjobs.com/en-US/external/job/Mnchen/Intern-Computer-Vision-and-Automation-in-Electron-Microscopy--f-m-x-_JR_1049859-3": {
-      "locations": [
-        "München",
-        "Dresden"
       ],
       "fetched": "2026-09-07"
     }
