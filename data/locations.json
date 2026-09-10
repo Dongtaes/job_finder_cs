@@ -1,5 +1,20 @@
 {
   "locations": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331": {
+      "locations": [
+        "Assago, Via del Mulino 11a",
+        "Roma",
+        "Torino, Via Nizza 262 int. 57/59"
+      ],
+      "fetched": "2026-09-10"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434": {
+      "locations": [
+        "Warsaw",
+        "Krakow"
+      ],
+      "fetched": "2026-09-10"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
       "locations": [
         "Assago, Via del Mulino 11a",
@@ -92,11 +107,14 @@
       "locations": [],
       "fetched": "2026-09-07"
     },
-    "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Body-Controls-Calibration-and-System-Test-Developer_JR-202618823": {
+    "https://fticonsulting.wd108.myworkdayjobs.com/en-US/fticonsultingcareers/job/Frankfurt-Germany/Praktikant--m-w-d--Data---AI_JR261104": {
       "locations": [
-        "Oshawa Elevation Centre - Oshawa Elevation Centre"
+        "Frankfurt, Germany",
+        "Hamburg, Germany",
+        "Munchen, Germany",
+        "Dusseldorf, Germany"
       ],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-10"
     },
     "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353": {
       "locations": [
@@ -108,6 +126,35 @@
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
       "fetched": "2026-09-07"
+    },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Mississauga-Ontario-CAN/Test-Automation-Developer-I---4-months-Co-op-Internship--Winter-2027-_R155229": {
+      "locations": [
+        "Mississauga, Ontario, CAN",
+        "Toronto, Ontario, CAN"
+      ],
+      "fetched": "2026-09-10"
+    },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132": {
+      "locations": [
+        "Montréal, Quebec, CAN",
+        "Québec, Quebec, CAN"
+      ],
+      "fetched": "2026-09-10"
+    },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565": {
+      "locations": [
+        "Montréal, Quebec, CAN",
+        "St-Hyacinthe, Quebec, CAN"
+      ],
+      "fetched": "2026-09-10"
+    },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/DevOps-I---4-months-Co-op-Internship--Winter-2027-_R155186-1": {
+      "locations": [
+        "Toronto, Ontario, CAN",
+        "Vancouver, British Columbia, CAN",
+        "Montréal, Quebec, CAN"
+      ],
+      "fetched": "2026-09-10"
     },
     "https://internships-adlittle.icims.com/jobs/2116/data%26ai-analyst-intern/job": {
       "locations": [
@@ -257,6 +304,19 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Edge-AI-Field-Application-Engineer-Intern_R-10066533": {
+      "locations": [
+        "Shanghai (Pudong)",
+        "Shanghai (JingAn)"
+      ],
+      "fetched": "2026-09-10"
+    },
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Edge-AI-Field-Application-Engineer-Intern_R-10066551": {
+      "locations": [
+        "Shanghai (Pudong)"
+      ],
+      "fetched": "2026-09-10"
+    },
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
       "locations": [
         "Shanghai (Pudong)",
@@ -270,6 +330,28 @@
         "Suzhou"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Cloud---DevOps-Co-op---Intern---Winter-2027-_R_1509822": {
+      "locations": [
+        "Toronto, Ontario",
+        "Mississauga, Ontario"
+      ],
+      "fetched": "2026-09-10"
+    },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Data-Analyst-Co-op---Intern---Winter-2027-_R_1509804": {
+      "locations": [
+        "Toronto, Ontario",
+        "Dieppe, New Brunswick"
+      ],
+      "fetched": "2026-09-10"
+    },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790": {
+      "locations": [
+        "Toronto, Ontario",
+        "Mississauga, Ontario",
+        "London, Ontario"
+      ],
+      "fetched": "2026-09-10"
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],

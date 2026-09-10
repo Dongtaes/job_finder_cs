@@ -10,18 +10,22 @@
       "locations": [],
       "fetched": "2026-09-07"
     },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
+      "locations": [
+        "Bologna",
+        "Padova",
+        "Roma",
+        "Cagliari",
+        "Torino",
+        "Napoli"
+      ],
+      "fetched": "2026-09-10"
+    },
     "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Getafe-Area/Junior-Solution-Architect---Cloud-Native--IaaS---AI-Infrastructure--m-f-d-_JR10433806-1": {
       "locations": [
         "Getafe Area",
         "Manching",
         "München Area"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://aimco.wd10.myworkdayjobs.com/en-US/aimcocareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891": {
-      "locations": [
-        "Edmonton",
-        "Calgary"
       ],
       "fetched": "2026-09-07"
     },
@@ -133,6 +137,14 @@
         "Cyprus"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
+      "locations": [
+        "Athens, Greece",
+        "Thessaloniki, Greece",
+        "Greece"
+      ],
+      "fetched": "2026-09-10"
     },
     "https://apply.workable.com/ista-2/j/47A1582A33/": {
       "locations": [
@@ -315,14 +327,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://draftkings.wd1.myworkdayjobs.com/en-US/draftkings/job/Remote---Bulgaria/Fullstack-Engineer_JR14941": {
-      "locations": [
-        "Remote - Bulgaria",
-        "Plovdiv, BG",
-        "Sofia, BG"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Bulgaria/Frontend-Engineer_JR14917-1": {
       "locations": [
         "Remote - Bulgaria",
@@ -354,6 +358,19 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://globalcareers-yelp.icims.com/jobs/14057/entry-level---site-reliability-engineer---%28remote---united-kingdom%29/job": {
+      "locations": [
+        "London, United Kingdom",
+        "Remote-Remote, United Kingdom",
+        "Leeds, United Kingdom",
+        "Glasgow, United Kingdom",
+        "Birmingham, United Kingdom",
+        "Belfast, United Kingdom",
+        "Manchester, United Kingdom",
+        "Edinburgh, United Kingdom"
+      ],
+      "fetched": "2026-09-10"
+    },
     "https://infobip.wd3.myworkdayjobs.com/en-US/infobipcareers/job/Osijek-Croatia/Junior-Mid-Software-Engineer_JR104909": {
       "locations": [
         "Osijek (Croatia)",
@@ -361,6 +378,10 @@
         "Zagreb (Croatia)"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Bangalore-India/AI-Engineer_R1555457": {
+      "locations": [],
+      "fetched": "2026-09-10"
     },
     "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Beijing-China/Proposal-Developer-1_R1557010-1": {
       "locations": [
@@ -490,6 +511,13 @@
         "United Kingdom (Remote)"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/xtillion/jobs/5383270008": {
+      "locations": [
+        "San Juan",
+        "San Juan, Puerto Rico"
+      ],
+      "fetched": "2026-09-10"
     },
     "https://jobs.ashbyhq.com/constructor/7fe40d9e-a06b-4f8b-963b-7b5d172a2f78": {
       "locations": [
@@ -664,12 +692,6 @@
       "locations": [
         "Ulm",
         "Stuttgart"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Pune---Business-Bay/Specialist---Data-Analytics---Insight_R_362297-1": {
-      "locations": [
-        "Pune - Business Bay"
       ],
       "fetched": "2026-09-07"
     },
@@ -873,6 +895,10 @@
         "Remote - Romania"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5228736007": {
+      "locations": [],
+      "fetched": "2026-09-10"
     }
   }
 }
