@@ -8,7 +8,7 @@
     },
     "https://20four7va.breezy.hr/p/1b118146b28d-i-cpt-0033-ai-ml-developer": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
@@ -138,14 +138,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
-      "locations": [
-        "Athens, Greece",
-        "Thessaloniki, Greece",
-        "Greece"
-      ],
-      "fetched": "2026-09-10"
-    },
     "https://apply.workable.com/ista-2/j/47A1582A33/": {
       "locations": [
         "South Africa"
@@ -229,25 +221,9 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/EMEA---Poland---Krakw---Lubomirskiego/Full-Stack-Software-Development-Engineer_26WD100101-1": {
-      "locations": [
-        "EMEA - Poland - Kraków - Lubomirskiego"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/EMEA---Poland---Krakw---Lubomirskiego/Full-Stack-Software-Development-Engineer_26WD100347": {
       "locations": [
         "EMEA - Poland - Kraków - Lubomirskiego"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://cancareers-yelp.icims.com/jobs/14018/entry-level-data-backend-engineer---trust-%26-safety-%28remote---canada%29/job": {
-      "locations": [
-        "Toronto, ON, Canada",
-        "Vancouver, BC, Canada",
-        "Calgary, AB, Canada",
-        "Montreal, QC, Canada",
-        "Remote-Remote, Canada"
       ],
       "fetched": "2026-09-07"
     },
@@ -309,15 +285,15 @@
     },
     "https://corporate.trustpilot.com/careers/job/7984603?gh_jid=7984603": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://corporate.trustpilot.com/careers/job/8015796?gh_jid=8015796": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Junior-Software-Developer_31992": {
       "locations": [
@@ -379,10 +355,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Bangalore-India/AI-Engineer_R1555457": {
-      "locations": [],
-      "fetched": "2026-09-10"
-    },
     "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Beijing-China/Proposal-Developer-1_R1557010-1": {
       "locations": [
         "Beijing, China",
@@ -396,6 +368,14 @@
         "Quebec, Canada"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Sofia-Bulgaria/Proposal-Developer-1---IQL-Laboratories_R1562623": {
+      "locations": [
+        "Sofia, Bulgaria",
+        "Centurion, South Africa",
+        "Bratislava, Slovakia"
+      ],
+      "fetched": "2026-09-11"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4926017101": {
       "locations": [
@@ -473,14 +453,6 @@
       "locations": [
         "Dubai",
         "London"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://job-boards.greenhouse.io/goremutualinsurance/jobs/4709293006": {
-      "locations": [
-        "Cambridge, Ontario",
-        "Toronto, Ontario",
-        "Cambridge, Ontario, Canada"
       ],
       "fetched": "2026-09-07"
     },
@@ -601,16 +573,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://jobs.ashbyhq.com/scale%20army%20careers/db536f20-02d6-43f0-80cc-c605e0247798": {
-      "locations": [
-        "Egypt",
-        "Argentina",
-        "Ethiopia",
-        "South Africa",
-        "Nigeria"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://jobs.ashbyhq.com/solidgate/db614431-dd7a-4c36-b71c-2a94678a65e7": {
       "locations": [
         "Kyiv, Ukraine",
@@ -695,6 +657,16 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/COL---Cundinamarca---Bogot-Colpatria/Jr-Clinical-Data-Engineer_R412950": {
+      "locations": [
+        "COL - Cundinamarca - Bogotá (Colpatria)"
+      ],
+      "fetched": "2026-09-11"
+    },
+    "https://nttlimited.wd3.myworkdayjobs.com/en-US/ntt_careers/job/hyderabad/Graduate-Engineer---AI--Offensive--Application-Security_R-148973": {
+      "locations": [],
+      "fetched": "2026-09-11"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
         "China, Shanghai",
@@ -763,6 +735,16 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--8-Months_R-0000184557-1": {
+      "locations": [
+        "TORONTO, Ontario, Canada",
+        "CALGARY, Alberta, Canada",
+        "MONTRÉAL, Quebec, Canada",
+        "HALIFAX, Nova Scotia, Canada",
+        "745 THURLOW ST:VANCOUVER"
+      ],
+      "fetched": "2026-09-11"
+    },
     "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Associate-Software-Engineer_JR00127248": {
       "locations": [
         "Toronto, Ontario",
@@ -777,13 +759,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Manager--Data-Science_R_1504116": {
-      "locations": [
-        "Toronto, Ontario",
-        "Markham, Ontario"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://www.asm.com/open-vacancies/?gh_jid=4891961101": {
       "locations": [
         "Singapore (ASM Front-End Mfg (S) Ltd)",
@@ -793,47 +768,47 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.google.com/about/careers/applications/jobs/results/113019524512391878": {
       "locations": [
@@ -848,6 +823,13 @@
         "Montreal, QC, Canada"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/75076499224306374": {
+      "locations": [
+        "Gurugram, Haryana, India",
+        "Hyderabad, Telangana, India"
+      ],
+      "fetched": "2026-09-11"
     },
     "https://www.google.com/about/careers/applications/jobs/results/89728653453075142": {
       "locations": [
@@ -865,16 +847,12 @@
     },
     "https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002": {
       "locations": [],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-11"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [
         "Amsterdam"
       ],
-      "fetched": "2026-09-07"
-    },
-    "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610": {
-      "locations": [],
       "fetched": "2026-09-07"
     },
     "https://www.suvoda.com/careers/job-openings?gh_jid=8655252002": {
@@ -895,10 +873,6 @@
         "Remote - Romania"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5228736007": {
-      "locations": [],
-      "fetched": "2026-09-10"
     }
   }
 }
