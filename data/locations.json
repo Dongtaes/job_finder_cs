@@ -98,12 +98,29 @@
       ],
       "fetched": "2026-09-10"
     },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/DevOps-I---4-months-Co-op-Internship--Winter-2027-_R155186-1": {
+      "locations": [
+        "Toronto, Ontario, CAN",
+        "Vancouver, British Columbia, CAN",
+        "Montréal, Quebec, CAN"
+      ],
+      "fetched": "2026-09-13"
+    },
     "https://internships-adlittle.icims.com/jobs/2116/data%26ai-analyst-intern/job": {
       "locations": [
         "Milan, Italy",
         "Rome, Italy"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
+      "locations": [
+        "Hong Kong SAR",
+        "Kuala Lumpur Tech Office",
+        "Remote General",
+        "APAC - Remote"
+      ],
+      "fetched": "2026-09-13"
     },
     "https://job-boards.greenhouse.io/gardacp/jobs/6146408004": {
       "locations": [
@@ -255,6 +272,13 @@
         "Suzhou"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Data-Analyst-Co-op---Intern---Winter-2027-_R_1509804": {
+      "locations": [
+        "Toronto, Ontario",
+        "Dieppe, New Brunswick"
+      ],
+      "fetched": "2026-09-13"
     },
     "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790": {
       "locations": [
