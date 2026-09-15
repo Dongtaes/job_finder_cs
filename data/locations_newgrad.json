@@ -8,7 +8,14 @@
     },
     "https://20four7va.breezy.hr/p/1b118146b28d-i-cpt-0033-ai-ml-developer": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bratislava/Junior-Salesforce-Developer_R00311644": {
+      "locations": [
+        "Bratislava",
+        "Kosice"
+      ],
+      "fetched": "2026-09-15"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
@@ -28,6 +35,14 @@
         "München Area"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mnchen-Area/Junior-Cloud---DevOps-Engineer---Kubernetes-Specialist--f-m-d-_JR10430847": {
+      "locations": [
+        "München Area",
+        "Getafe Area",
+        "Manching"
+      ],
+      "fetched": "2026-09-15"
     },
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/Ireland-Limerick/FY27-Software-Engineering-Graduate-Opportunities_R265823": {
       "locations": [
@@ -143,6 +158,14 @@
         "South Africa"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/lucidya/j/8120FF802B/": {
+      "locations": [
+        "Riyadh, Saudi Arabia",
+        "Jeddah, Saudi Arabia",
+        "Al Khobar, Saudi Arabia"
+      ],
+      "fetched": "2026-09-15"
     },
     "https://apply.workable.com/nology/j/01DA38C157/": {
       "locations": [
@@ -631,6 +654,20 @@
       ],
       "fetched": "2026-09-13"
     },
+    "https://jobs.lever.co/viseven/8ce9699e-7799-4d3f-9349-b27119cef04e": {
+      "locations": [
+        "Casablanca",
+        "Rabat"
+      ],
+      "fetched": "2026-09-15"
+    },
+    "https://jobs.lever.co/viseven/dd365f29-4e83-412d-ad23-697370f2b6f7": {
+      "locations": [
+        "Tunis",
+        "Sfax"
+      ],
+      "fetched": "2026-09-15"
+    },
     "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006656": {
       "locations": [
         "Ulm",
@@ -644,12 +681,6 @@
         "Stuttgart"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/COL---Cundinamarca---Bogot-Colpatria/Jr-Clinical-Data-Engineer_R412950": {
-      "locations": [
-        "COL - Cundinamarca - Bogotá (Colpatria)"
-      ],
-      "fetched": "2026-09-11"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
@@ -719,13 +750,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Associate-Software-Engineer_JR00127248": {
-      "locations": [
-        "Toronto, Ontario",
-        "Waterloo, Ontario"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://www.asm.com/open-vacancies/?gh_jid=4891961101": {
       "locations": [
         "Singapore (ASM Front-End Mfg (S) Ltd)",
@@ -735,47 +759,47 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.google.com/about/careers/applications/jobs/results/113019524512391878": {
       "locations": [
@@ -814,7 +838,7 @@
     },
     "https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002": {
       "locations": [],
-      "fetched": "2026-09-11"
+      "fetched": "2026-09-15"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [
