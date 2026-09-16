@@ -23,14 +23,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://apply.careers.microsoft.com/careers/job/1970393556978345": {
-      "locations": [
-        "Sydney, NSW,AU, Australia",
-        "Melbourne, VIC,AU, Australia",
-        "Brisbane, QLD,AU, Australia"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://apply.workable.com/fioneer/j/44D612236D/": {
       "locations": [
         "Munich, Germany",
@@ -46,6 +38,22 @@
         "Düsseldorf, Germany"
       ],
       "fetched": "2026-09-12"
+    },
+    "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Oakville/Co-op-or-Intern--DevOps-Engineer--September-2026-_JR7058": {
+      "locations": [
+        "Oakville",
+        "Halifax - Mumford Rd",
+        "Toronto - Bay St"
+      ],
+      "fetched": "2026-09-16"
+    },
+    "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057": {
+      "locations": [
+        "Toronto - Bay St",
+        "Ottawa - Kent St",
+        "Oakville"
+      ],
+      "fetched": "2026-09-16"
     },
     "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": {
       "locations": [
@@ -91,20 +99,19 @@
       "locations": [],
       "fetched": "2026-09-15"
     },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Mississauga-Ontario-CAN/Test-Automation-Developer-I---4-months-Co-op-Internship--Winter-2027-_R155229": {
+      "locations": [
+        "Mississauga, Ontario, CAN",
+        "Toronto, Ontario, CAN"
+      ],
+      "fetched": "2026-09-16"
+    },
     "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132": {
       "locations": [
         "Montréal, Quebec, CAN",
         "Québec, Quebec, CAN"
       ],
       "fetched": "2026-09-10"
-    },
-    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/DevOps-I---4-months-Co-op-Internship--Winter-2027-_R155186-1": {
-      "locations": [
-        "Toronto, Ontario, CAN",
-        "Vancouver, British Columbia, CAN",
-        "Montréal, Quebec, CAN"
-      ],
-      "fetched": "2026-09-13"
     },
     "https://internships-adlittle.icims.com/jobs/2116/data%26ai-analyst-intern/job": {
       "locations": [
@@ -181,6 +188,23 @@
         "São Paulo, Brazil, Brazil"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e": {
+      "locations": [
+        "Singapore",
+        "Bangalore",
+        "Chennai",
+        "Delhi",
+        "Hyderabad",
+        "Kolkata",
+        "Mumbai",
+        "Cebu",
+        "Manila",
+        "Bangkok",
+        "Hanoi",
+        "Ho Chi Minh"
+      ],
+      "fetched": "2026-09-16"
     },
     "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216": {
       "locations": [
@@ -259,12 +283,13 @@
       ],
       "fetched": "2026-09-10"
     },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Cloud---DevOps-Co-op---Intern---Winter-2027-_R_1509822": {
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790": {
       "locations": [
         "Toronto, Ontario",
-        "Mississauga, Ontario"
+        "Mississauga, Ontario",
+        "London, Ontario"
       ],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-16"
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
