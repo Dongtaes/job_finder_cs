@@ -1,5 +1,12 @@
 {
   "locations": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Lodz-University-Business-Park/AWS-Backend-Developer--Python-Nodejs--Internship-Program--She-He-They-_R00311112": {
+      "locations": [
+        "Lodz, University Business Park",
+        "Katowice, Silesia Business Park Bldg C"
+      ],
+      "fetched": "2026-09-17"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
       "locations": [
         "Assago, Via del Mulino 11a",
@@ -99,13 +106,6 @@
       "locations": [],
       "fetched": "2026-09-15"
     },
-    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Mississauga-Ontario-CAN/Test-Automation-Developer-I---4-months-Co-op-Internship--Winter-2027-_R155229": {
-      "locations": [
-        "Mississauga, Ontario, CAN",
-        "Toronto, Ontario, CAN"
-      ],
-      "fetched": "2026-09-16"
-    },
     "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132": {
       "locations": [
         "Montréal, Quebec, CAN",
@@ -188,6 +188,12 @@
         "São Paulo, Brazil, Brazil"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://jobs.lever.co/dilitrust/4b750be0-0edc-4940-b3d7-194a0daf9c8b": {
+      "locations": [
+        "Paris - La Défense"
+      ],
+      "fetched": "2026-09-17"
     },
     "https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e": {
       "locations": [
@@ -282,14 +288,6 @@
         "Shanghai (Pudong)"
       ],
       "fetched": "2026-09-10"
-    },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790": {
-      "locations": [
-        "Toronto, Ontario",
-        "Mississauga, Ontario",
-        "London, Ontario"
-      ],
-      "fetched": "2026-09-16"
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
