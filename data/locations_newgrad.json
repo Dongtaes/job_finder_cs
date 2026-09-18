@@ -10,24 +10,6 @@
       "locations": [],
       "fetched": "2026-09-15"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bratislava/Junior-Salesforce-Developer_R00311644": {
-      "locations": [
-        "Bratislava",
-        "Kosice"
-      ],
-      "fetched": "2026-09-15"
-    },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg-Building-Beta/Junior-Frontend-Developer--all-genders-_R00354171": {
-      "locations": [
-        "Kronberg, Building Beta",
-        "Stuttgart",
-        "Hamburg",
-        "Dusseldorf",
-        "Munich",
-        "Berlin"
-      ],
-      "fetched": "2026-09-17"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
         "Bologna",
@@ -47,6 +29,13 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Immenstaad-am-Bodensee/Junior-Backend-Engineer--m-w-d-_JR10434602-1": {
+      "locations": [
+        "Immenstaad am Bodensee",
+        "Bremen"
+      ],
+      "fetched": "2026-09-18"
+    },
     "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mnchen-Area/Junior-Cloud---DevOps-Engineer---Kubernetes-Specialist--f-m-d-_JR10430847": {
       "locations": [
         "München Area",
@@ -63,11 +52,11 @@
       ],
       "fetched": "2026-09-09"
     },
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/Philippines-Cavite-jp/Associate-Engineer--Software-Support-Engineering_R263961": {
+    "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/Philippines-Cavite-jp/Associate-Engineer--Software-Support-Engineering_R265568": {
       "locations": [
         "Philippines, Cavite (jp)"
       ],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-18"
     },
     "https://apply.workable.com/alten-mexico-1/j/BA502694BB/": {
       "locations": [
@@ -164,14 +153,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
-      "locations": [
-        "Athens, Greece",
-        "Thessaloniki, Greece",
-        "Greece"
-      ],
-      "fetched": "2026-09-17"
-    },
     "https://apply.workable.com/lucidya/j/8120FF802B/": {
       "locations": [
         "Riyadh, Saudi Arabia",
@@ -262,6 +243,18 @@
         "EMEA - Poland - Kraków - Lubomirskiego"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065": {
+      "locations": [
+        "Toronto - Bay St",
+        "Calgary - 8th Ave SW",
+        "Edmonton - 103 St",
+        "Halifax - Mumford Rd",
+        "Montreal - 1000 Rue De La Gauchetière Ouest",
+        "Oakville",
+        "Ottawa - Kent St"
+      ],
+      "fetched": "2026-09-18"
     },
     "https://cancareers-yelp.icims.com/jobs/14019/entry-level-machine-learning-engineer-%28remote---canada%29/job": {
       "locations": [
@@ -621,6 +614,19 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://jobs.lever.co/swissborg/1dc0e5fc-c001-4e6b-891e-7b3fdec92015": {
+      "locations": [
+        "Remote - Europe Timezone",
+        "Warsaw",
+        "Lisbon",
+        "Estonia",
+        "Brussels",
+        "Athens",
+        "Bucharest",
+        "Tallinn"
+      ],
+      "fetched": "2026-09-18"
+    },
     "https://jobs.lever.co/sysdig/af7fe5ab-9d5a-453c-8d6b-45772713246c": {
       "locations": [
         "Flexible - Spain",
@@ -687,6 +693,14 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Kolkata-AC---Bangalore---RMZ-Hebbal/Assurance---Financial-Market---Data-Engineer---Associate_762167WD": {
+      "locations": [
+        "Kolkata (AC) - Bangalore - RMZ Hebbal",
+        "Kolkata",
+        "Kolkata (AC) - DLF Cyber City - Gurugram"
+      ],
+      "fetched": "2026-09-18"
+    },
     "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000003130": {
       "locations": [
         "Noida, India",
@@ -717,6 +731,10 @@
       ],
       "fetched": "2026-09-17"
     },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648": {
+      "locations": [],
+      "fetched": "2026-09-18"
+    },
     "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Crawley/DevOps-I-Platform-I-Tools-Engineer_R0338078-2": {
       "locations": [
         "Crawley",
@@ -728,6 +746,14 @@
         "Belfast"
       ],
       "fetched": "2026-09-16"
+    },
+    "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
+      "locations": [
+        "Quebec, Canada - Remote",
+        "Argentina - Remote",
+        "Ontario, Canada - Remote"
+      ],
+      "fetched": "2026-09-18"
     },
     "https://www.asm.com/open-vacancies/?gh_jid=4891961101": {
       "locations": [

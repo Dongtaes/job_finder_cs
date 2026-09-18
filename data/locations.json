@@ -1,12 +1,5 @@
 {
   "locations": {
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Lodz-University-Business-Park/AWS-Backend-Developer--Python-Nodejs--Internship-Program--She-He-They-_R00311112": {
-      "locations": [
-        "Lodz, University Business Park",
-        "Katowice, Silesia Business Park Bldg C"
-      ],
-      "fetched": "2026-09-17"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
       "locations": [
         "Assago, Via del Mulino 11a",
@@ -53,6 +46,18 @@
         "Toronto - Bay St"
       ],
       "fetched": "2026-09-16"
+    },
+    "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061": {
+      "locations": [
+        "Toronto - Bay St",
+        "Calgary - 8th Ave SW",
+        "Halifax - Mumford Rd",
+        "Montreal - 1000 Rue De La Gauchetière Ouest",
+        "Vancouver",
+        "Oakville",
+        "Ottawa - Kent St"
+      ],
+      "fetched": "2026-09-18"
     },
     "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057": {
       "locations": [
@@ -106,6 +111,14 @@
       "locations": [],
       "fetched": "2026-09-15"
     },
+    "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": {
+      "locations": [
+        "Quebec, Quebec",
+        "Montreal, Quebec",
+        "Vancouver, British Columbia"
+      ],
+      "fetched": "2026-09-18"
+    },
     "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132": {
       "locations": [
         "Montréal, Quebec, CAN",
@@ -113,12 +126,12 @@
       ],
       "fetched": "2026-09-10"
     },
-    "https://internships-adlittle.icims.com/jobs/2116/data%26ai-analyst-intern/job": {
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565": {
       "locations": [
-        "Milan, Italy",
-        "Rome, Italy"
+        "Montréal, Quebec, CAN",
+        "St-Hyacinthe, Quebec, CAN"
       ],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-18"
     },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
       "locations": [
@@ -268,6 +281,13 @@
         "China, Beijing"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-09-18"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301": {
       "locations": [
