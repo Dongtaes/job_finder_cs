@@ -32,13 +32,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://apply.workable.com/interpath-advisory/j/F284D44AD2/": {
-      "locations": [
-        "Munich, Germany",
-        "Düsseldorf, Germany"
-      ],
-      "fetched": "2026-09-12"
-    },
     "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Oakville/Co-op-or-Intern--DevOps-Engineer--September-2026-_JR7058": {
       "locations": [
         "Oakville",
@@ -89,7 +82,7 @@
     },
     "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://fticonsulting.wd108.myworkdayjobs.com/en-US/fticonsultingcareers/job/Frankfurt-Germany/Praktikant--m-w-d--Data---AI_JR261104": {
       "locations": [
@@ -109,7 +102,7 @@
     },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": {
       "locations": [
@@ -125,13 +118,6 @@
         "Québec, Quebec, CAN"
       ],
       "fetched": "2026-09-10"
-    },
-    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565": {
-      "locations": [
-        "Montréal, Quebec, CAN",
-        "St-Hyacinthe, Quebec, CAN"
-      ],
-      "fetched": "2026-09-18"
     },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
       "locations": [
@@ -309,69 +295,76 @@
       ],
       "fetched": "2026-09-10"
     },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Cloud---DevOps-Co-op---Intern---Winter-2027-_R_1509822": {
+      "locations": [
+        "Toronto, Ontario",
+        "Mississauga, Ontario"
+      ],
+      "fetched": "2026-09-19"
+    },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadel.com/careers/details/software-engineer-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.citadelsecurities.com/careers/details/software-engineer-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-15"
+      "fetched": "2026-09-19"
     },
     "https://www.google.com/about/careers/applications/jobs/results/103632882076918470": {
       "locations": [
