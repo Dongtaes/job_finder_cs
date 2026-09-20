@@ -1,5 +1,16 @@
 {
   "locations": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786": {
+      "locations": [
+        "Katowice, Silesia Business Park Bldg C",
+        "Warsaw, Sienna 39",
+        "Lodz",
+        "Krakow",
+        "Wroclaw, Dominikanski Center",
+        "Katowice"
+      ],
+      "fetched": "2026-09-20"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
       "locations": [
         "Assago, Via del Mulino 11a",
@@ -118,6 +129,13 @@
         "Québec, Quebec, CAN"
       ],
       "fetched": "2026-09-10"
+    },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565": {
+      "locations": [
+        "Montréal, Quebec, CAN",
+        "St-Hyacinthe, Quebec, CAN"
+      ],
+      "fetched": "2026-09-20"
     },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
       "locations": [
@@ -240,6 +258,14 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559": {
+      "locations": [
+        "China, Beijing",
+        "China, Shanghai",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-09-20"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122": {
       "locations": [
         "China, Beijing",
@@ -295,12 +321,12 @@
       ],
       "fetched": "2026-09-10"
     },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Cloud---DevOps-Co-op---Intern---Winter-2027-_R_1509822": {
+    "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Amsterdam/Internship--Data-Science-for-Multidimensional-Market-Modelling_590671": {
       "locations": [
-        "Toronto, Ontario",
-        "Mississauga, Ontario"
+        "Amsterdam",
+        "Best"
       ],
-      "fetched": "2026-09-19"
+      "fetched": "2026-09-20"
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],

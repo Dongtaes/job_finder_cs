@@ -21,21 +21,6 @@
       ],
       "fetched": "2026-09-10"
     },
-    "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Getafe-Area/Junior-Solution-Architect---Cloud-Native--IaaS---AI-Infrastructure--m-f-d-_JR10433806-1": {
-      "locations": [
-        "Getafe Area",
-        "Manching",
-        "München Area"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Immenstaad-am-Bodensee/Junior-Backend-Engineer--m-w-d-_JR10434602-1": {
-      "locations": [
-        "Immenstaad am Bodensee",
-        "Bremen"
-      ],
-      "fetched": "2026-09-18"
-    },
     "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mnchen-Area/Junior-Cloud---DevOps-Engineer---Kubernetes-Specialist--f-m-d-_JR10430847": {
       "locations": [
         "München Area",
@@ -256,32 +241,20 @@
       ],
       "fetched": "2026-09-18"
     },
-    "https://cancareers-yelp.icims.com/jobs/14019/entry-level-machine-learning-engineer-%28remote---canada%29/job": {
-      "locations": [
-        "Toronto, ON, Canada",
-        "Vancouver, BC, Canada",
-        "Calgary, AB, Canada",
-        "Montreal, QC, Canada",
-        "Remote-Remote, Canada"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://cancareers-yelp.icims.com/jobs/14025/entry-level-full-stack-engineer---chat-platform-%28remote---canada%29/job": {
-      "locations": [
-        "Toronto, ON, Canada",
-        "Vancouver, BC, Canada",
-        "Montreal, QC, Canada",
-        "Calgary, AB, Canada",
-        "Remote-Remote, Canada"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://careers-bdobelgium.icims.com/jobs/1760/software-%28erp%29-implementation-junior-consultant-%282026%29/job": {
       "locations": [
         "Zaventem, VBR, Belgium",
         "Antwerp, VAN, Belgium"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://careers-globalexcel.icims.com/jobs/3233/analytics-developer-i-%2812-month-contract%29/job": {
+      "locations": [
+        "Sherbrooke, QC, Canada",
+        "Windsor, ON, Canada",
+        "Montréal, QC, Canada"
+      ],
+      "fetched": "2026-09-20"
     },
     "https://careers-international-realpagepms.icims.com/jobs/13413/trainer-ii---with-ai-fluency/job": {
       "locations": [
@@ -328,30 +301,17 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://globalcareers-yelp.icims.com/jobs/14007/entry-level-full-stack-engineer---yelp-host-%28remote-mexico%29/job": {
-      "locations": [
-        "Mexico City-Mexico City, Mexico",
-        "Monterrey, NLE, Mexico",
-        "Remote-Remote, Mexico"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://globalcareers-yelp.icims.com/jobs/14057/entry-level---site-reliability-engineer---%28remote---united-kingdom%29/job": {
-      "locations": [
-        "London, United Kingdom",
-        "Remote-Remote, United Kingdom",
-        "Leeds, United Kingdom",
-        "Glasgow, United Kingdom",
-        "Birmingham, United Kingdom",
-        "Belfast, United Kingdom",
-        "Manchester, United Kingdom",
-        "Edinburgh, United Kingdom"
-      ],
-      "fetched": "2026-09-10"
-    },
     "https://helsing.ai/jobs/4976480101?gh_jid=4976480101": {
       "locations": [],
       "fetched": "2026-09-17"
+    },
+    "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
+      "locations": [],
+      "fetched": "2026-09-20"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2": {
+      "locations": [],
+      "fetched": "2026-09-20"
     },
     "https://infobip.wd3.myworkdayjobs.com/en-US/infobipcareers/job/Osijek-Croatia/Junior-Mid-Software-Engineer_JR104909": {
       "locations": [
@@ -549,6 +509,15 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56": {
+      "locations": [
+        "Remote - Canada, Canada",
+        "Remote - UK, United Kingdom",
+        "Remote - Mexico, Mexico",
+        "Remote - Brazil, Brazil"
+      ],
+      "fetched": "2026-09-20"
+    },
     "https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91": {
       "locations": [
         "Calgary",
@@ -690,18 +659,19 @@
       ],
       "fetched": "2026-09-18"
     },
+    "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Mexico---Reforma-445/Salesforce-Developer---Associate_746107WD": {
+      "locations": [
+        "Mexico - Reforma 445",
+        "Queretaro",
+        "Monterrey",
+        "Guadalajara"
+      ],
+      "fetched": "2026-09-20"
+    },
     "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000003130": {
       "locations": [
         "Noida, India",
         "Hyderabad, India"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1": {
-      "locations": [
-        "RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO",
-        "VANCOUVER, British Columbia, Canada",
-        "TORONTO, Ontario, Canada"
       ],
       "fetched": "2026-09-07"
     },
@@ -720,10 +690,6 @@
       ],
       "fetched": "2026-09-17"
     },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648": {
-      "locations": [],
-      "fetched": "2026-09-18"
-    },
     "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Crawley/DevOps-I-Platform-I-Tools-Engineer_R0338078-2": {
       "locations": [
         "Crawley",
@@ -735,6 +701,10 @@
         "Belfast"
       ],
       "fetched": "2026-09-16"
+    },
+    "https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Pune/C--C---developer_19041588": {
+      "locations": [],
+      "fetched": "2026-09-20"
     },
     "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
       "locations": [
@@ -848,6 +818,10 @@
         "Remote - Romania"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5228738007": {
+      "locations": [],
+      "fetched": "2026-09-20"
     }
   }
 }
