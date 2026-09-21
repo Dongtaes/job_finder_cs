@@ -1,16 +1,5 @@
 {
   "locations": {
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786": {
-      "locations": [
-        "Katowice, Silesia Business Park Bldg C",
-        "Warsaw, Sienna 39",
-        "Lodz",
-        "Krakow",
-        "Wroclaw, Dominikanski Center",
-        "Katowice"
-      ],
-      "fetched": "2026-09-20"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
       "locations": [
         "Assago, Via del Mulino 11a",
@@ -123,19 +112,19 @@
       ],
       "fetched": "2026-09-18"
     },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Mississauga-Ontario-CAN/Test-Automation-Developer-I---4-months-Co-op-Internship--Winter-2027-_R155229": {
+      "locations": [
+        "Mississauga, Ontario, CAN",
+        "Toronto, Ontario, CAN"
+      ],
+      "fetched": "2026-09-21"
+    },
     "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132": {
       "locations": [
         "Montréal, Quebec, CAN",
         "Québec, Quebec, CAN"
       ],
       "fetched": "2026-09-10"
-    },
-    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565": {
-      "locations": [
-        "Montréal, Quebec, CAN",
-        "St-Hyacinthe, Quebec, CAN"
-      ],
-      "fetched": "2026-09-20"
     },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
       "locations": [

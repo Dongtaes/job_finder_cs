@@ -303,15 +303,7 @@
     },
     "https://helsing.ai/jobs/4976480101?gh_jid=4976480101": {
       "locations": [],
-      "fetched": "2026-09-17"
-    },
-    "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
-      "locations": [],
-      "fetched": "2026-09-20"
-    },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2": {
-      "locations": [],
-      "fetched": "2026-09-20"
+      "fetched": "2026-09-21"
     },
     "https://infobip.wd3.myworkdayjobs.com/en-US/infobipcareers/job/Osijek-Croatia/Junior-Mid-Software-Engineer_JR104909": {
       "locations": [
@@ -675,6 +667,10 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1": {
+      "locations": [],
+      "fetched": "2026-09-21"
+    },
     "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491": {
       "locations": [
         "RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO",
@@ -682,13 +678,6 @@
         "TORONTO, Ontario, Canada"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/Applied-Machine-Learning-Scientist-II--AI-ML---Model-Validation--GenAI---Agentic-AI-_R_1511156": {
-      "locations": [
-        "New York, New York",
-        "Boston, Massachusetts"
-      ],
-      "fetched": "2026-09-17"
     },
     "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Crawley/DevOps-I-Platform-I-Tools-Engineer_R0338078-2": {
       "locations": [
@@ -701,10 +690,6 @@
         "Belfast"
       ],
       "fetched": "2026-09-16"
-    },
-    "https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Pune/C--C---developer_19041588": {
-      "locations": [],
-      "fetched": "2026-09-20"
     },
     "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
       "locations": [
