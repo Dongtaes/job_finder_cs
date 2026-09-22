@@ -112,19 +112,19 @@
       ],
       "fetched": "2026-09-18"
     },
-    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Mississauga-Ontario-CAN/Test-Automation-Developer-I---4-months-Co-op-Internship--Winter-2027-_R155229": {
-      "locations": [
-        "Mississauga, Ontario, CAN",
-        "Toronto, Ontario, CAN"
-      ],
-      "fetched": "2026-09-21"
-    },
     "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132": {
       "locations": [
         "Montréal, Quebec, CAN",
         "Québec, Quebec, CAN"
       ],
       "fetched": "2026-09-10"
+    },
+    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Test-Automation-Developer---4-months-Internship-Coop--Winter-2027--_R155565": {
+      "locations": [
+        "Montréal, Quebec, CAN",
+        "St-Hyacinthe, Quebec, CAN"
+      ],
+      "fetched": "2026-09-22"
     },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
       "locations": [
@@ -276,6 +276,14 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-09-22"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645": {
       "locations": [
         "China, Shanghai",
@@ -289,6 +297,13 @@
         "Taiwan, Hsinchu"
       ],
       "fetched": "2026-09-18"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-09-22"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301": {
       "locations": [
@@ -506,6 +521,10 @@
         "Paris"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://www.monks.com/careers/6100057004/job?gh_jid=6100057004": {
+      "locations": [],
+      "fetched": "2026-09-22"
     },
     "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002": {
       "locations": [

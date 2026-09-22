@@ -10,6 +10,15 @@
       "locations": [],
       "fetched": "2026-09-19"
     },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Chennai/Custom-Software-Engineer_ATCI-5355079-S1950132-1": {
+      "locations": [
+        "Chennai",
+        "Bengaluru",
+        "Coimbatore",
+        "Hyderabad"
+      ],
+      "fetched": "2026-09-22"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
         "Bologna",
@@ -664,18 +673,6 @@
       "locations": [
         "Noida, India",
         "Hyderabad, India"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1": {
-      "locations": [],
-      "fetched": "2026-09-21"
-    },
-    "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491": {
-      "locations": [
-        "RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO",
-        "VANCOUVER, British Columbia, Canada",
-        "TORONTO, Ontario, Canada"
       ],
       "fetched": "2026-09-07"
     },
