@@ -15,14 +15,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Madrid-Castellana-85/Avanade-Campus--Prcticas-en-Software-Engineering-con-Tecnologas-Microsoft-Octubre-2026_R00338672": {
-      "locations": [
-        "Madrid, Castellana 85",
-        "Malaga, I+D6 - South Building",
-        "Barcelona, La Rotonda"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://apply.workable.com/fioneer/j/44D612236D/": {
       "locations": [
         "Munich, Germany",
@@ -60,11 +52,11 @@
       ],
       "fetched": "2026-09-16"
     },
-    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": {
+    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Tax-Intern---Tax-Technology---AI-Enablement_123617": {
       "locations": [
         "Montreal (St. Laurent)"
       ],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-24"
     },
     "https://careers-international-realpagepms.icims.com/jobs/14421/intern-%28professional-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job": {
       "locations": [
@@ -118,14 +110,6 @@
         "Québec, Quebec, CAN"
       ],
       "fetched": "2026-09-10"
-    },
-    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/DevOps-I---4-months-Co-op-Internship--Winter-2027-_R155186-1": {
-      "locations": [
-        "Toronto, Ontario, CAN",
-        "Vancouver, British Columbia, CAN",
-        "Montréal, Quebec, CAN"
-      ],
-      "fetched": "2026-09-23"
     },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
       "locations": [
@@ -219,6 +203,13 @@
       ],
       "fetched": "2026-09-16"
     },
+    "https://lighting.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Amsterdam/AI---Classic-search-expert-Intern_366402": {
+      "locations": [
+        "Amsterdam",
+        "Eindhoven"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216": {
       "locations": [
         "Shanghai",
@@ -270,12 +261,47 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177": {
+      "locations": [
+        "China, Beijing",
+        "China, Shanghai"
+      ],
+      "fetched": "2026-09-24"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-09-24"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-09-24"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1": {
       "locations": [
         "China, Shanghai",
         "China, Beijing"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-09-24"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701": {
       "locations": [
@@ -313,6 +339,12 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/AI-Develop-Intern_R-10066739": {
+      "locations": [
+        "Shanghai (Pudong)"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Edge-AI-Field-Application-Engineer-Intern_R-10066533": {
       "locations": [
         "Shanghai (Pudong)",
@@ -332,6 +364,27 @@
         "Best"
       ],
       "fetched": "2026-09-20"
+    },
+    "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560": {
+      "locations": [
+        "Pune - Tower 6",
+        "Bangalore - Carina"
+      ],
+      "fetched": "2026-09-24"
+    },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Cloud---DevOps-Co-op---Intern---Winter-2027-_R_1509822": {
+      "locations": [
+        "Toronto, Ontario",
+        "Mississauga, Ontario"
+      ],
+      "fetched": "2026-09-24"
+    },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Data-Analyst-Co-op---Intern---Winter-2027-_R_1509804": {
+      "locations": [
+        "Toronto, Ontario",
+        "Dieppe, New Brunswick"
+      ],
+      "fetched": "2026-09-24"
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],

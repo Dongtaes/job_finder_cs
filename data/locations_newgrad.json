@@ -1,11 +1,5 @@
 {
   "locations": {
-    "http://www.cannondesign.com/careers/?gh_jid=8643101002": {
-      "locations": [
-        "Mumbai, Maharashtra, India"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://20four7va.breezy.hr/p/1b118146b28d-i-cpt-0033-ai-ml-developer": {
       "locations": [],
       "fetched": "2026-09-23"
@@ -155,6 +149,16 @@
       ],
       "fetched": "2026-09-23"
     },
+    "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
+      "locations": [
+        "Munich, Germany",
+        "Walldorf, Germany",
+        "Belgrade, Serbia",
+        "Berlin, Germany",
+        "Cluj-Napoca, Romania"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://apply.workable.com/lucidya/j/8120FF802B/": {
       "locations": [
         "Riyadh, Saudi Arabia",
@@ -295,15 +299,46 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Bulgaria/Frontend-Engineer_JR14917-1": {
+    "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/PA---Work-from-home/Encounter-Data-Analyst--DSNP--Dual-Eligible-Special-Needs-Plan-_R1016439": {
       "locations": [
-        "Remote - Bulgaria",
-        "Plovdiv, BG",
-        "Sofia, BG"
+        "PA - Work from home",
+        "Work At Home-Idaho",
+        "Work At Home-Arkansas",
+        "Work At Home-Georgia",
+        "Work At Home-Vermont",
+        "Work At Home-Texas",
+        "Work At Home-Minnesota",
+        "Work At Home-Iowa",
+        "Work At Home-Michigan",
+        "Work At Home-Maine",
+        "Work At Home-Wisconsin",
+        "Work At Home-New York",
+        "Work At Home-Kansas",
+        "Work At Home-Indiana",
+        "Work At Home-New Jersey",
+        "Work At Home-Connecticut",
+        "Work At Home-Rhode Island",
+        "Work At Home-Louisiana",
+        "Work At Home-Tennessee",
+        "Work At Home-Kentucky",
+        "Work At Home-Mississippi",
+        "Work At Home-Ohio",
+        "Work At Home-West Virginia",
+        "Work At Home-Maryland",
+        "Work At Home-Massachusetts",
+        "Work At Home-South Carolina",
+        "Work At Home-Alabama",
+        "Work At Home-Missouri",
+        "Work At Home-Virginia",
+        "Work At Home-Illinois",
+        "Work At Home-North Carolina",
+        "Work At Home-Florida",
+        "Work At Home-Pennsylvania",
+        "Work At Home-Delaware"
       ],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-24"
     },
-    "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Bulgaria/Fullstack-Engineer_JR14941-4": {
+    "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Bulgaria/Frontend-Engineer_JR14917-1": {
       "locations": [
         "Remote - Bulgaria",
         "Plovdiv, BG",
@@ -318,9 +353,22 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/UK--London--New-Oxford-Street/Programming--Statistics---Data-Science--Multiple-Roles--Industrial-Placement--2027_446656": {
+      "locations": [
+        "UK – London – New Oxford Street"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://helsing.ai/jobs/4976480101?gh_jid=4976480101": {
       "locations": [],
       "fetched": "2026-09-21"
+    },
+    "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
+      "locations": [
+        "Sant Cugat del Valles, Barcelona, Spain",
+        "Las Rozas, Madrid, Spain"
+      ],
+      "fetched": "2026-09-24"
     },
     "https://infobip.wd3.myworkdayjobs.com/en-US/infobipcareers/job/Osijek-Croatia/Junior-Mid-Software-Engineer_JR104909": {
       "locations": [
@@ -336,21 +384,6 @@
         "Shanghai, China"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Halifax-Nova-Scotia-Canada/Analyste-associ-en-donnes---Analytique-de-l-adjudication-des-demandes-de-remboursement-Associate-Data-Analyst---Reimbursement-Claims-Adjudication-Analytics_R1558815": {
-      "locations": [
-        "Halifax, Nova Scotia, Canada",
-        "Quebec, Canada"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Sofia-Bulgaria/Proposal-Developer-1---IQL-Laboratories_R1562623": {
-      "locations": [
-        "Sofia, Bulgaria",
-        "Centurion, South Africa",
-        "Bratislava, Slovakia"
-      ],
-      "fetched": "2026-09-11"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4926017101": {
       "locations": [
@@ -387,6 +420,13 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://job-boards.greenhouse.io/affirm/jobs/7807506003": {
+      "locations": [
+        "Remote Poland",
+        "Remote Spain"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://job-boards.greenhouse.io/affirm/jobs/7807508003": {
       "locations": [
         "Remote Spain",
@@ -408,6 +448,15 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://job-boards.greenhouse.io/axon/jobs/8001665003": {
+      "locations": [
+        "Australia-Remote",
+        "Australia",
+        "Melbourne, Victoria, Australia",
+        "Sydney, New South Wales, Australia"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://job-boards.greenhouse.io/canonical/jobs/8130859": {
       "locations": [
         "Home Based - Worldwide",
@@ -417,19 +466,21 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://job-boards.greenhouse.io/cultureamp/jobs/8054867": {
-      "locations": [
-        "Melbourne",
-        "Sydney"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://job-boards.greenhouse.io/dvtrading/jobs/4719984005": {
       "locations": [
         "Dubai",
         "London"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/sezzle/jobs/8001111003": {
+      "locations": [
+        "Bogota, Colombia",
+        "Latin America [Remote]",
+        "Turkey",
+        "Peru"
+      ],
+      "fetched": "2026-09-24"
     },
     "https://job-boards.greenhouse.io/xtillion/jobs/5383270008": {
       "locations": [
@@ -502,6 +553,16 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://jobs.ashbyhq.com/scale%20army%20careers/db536f20-02d6-43f0-80cc-c605e0247798": {
+      "locations": [
+        "Egypt",
+        "Argentina",
+        "Ethiopia",
+        "South Africa",
+        "Nigeria"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://jobs.ashbyhq.com/solidgate/db614431-dd7a-4c36-b71c-2a94678a65e7": {
       "locations": [
         "Kyiv, Ukraine",
@@ -523,14 +584,6 @@
       "locations": [
         "Calgary",
         "Edmonton"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://jobs.lever.co/altaml/bd8167f5-e84c-48b1-9cad-2831bf71dea1": {
-      "locations": [
-        "Edmonton",
-        "Toronto",
-        "Calgary"
       ],
       "fetched": "2026-09-07"
     },
@@ -676,6 +729,13 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642": {
+      "locations": [
+        "Toronto, Ontario",
+        "Montréal, Québec"
+      ],
+      "fetched": "2026-09-24"
+    },
     "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Crawley/DevOps-I-Platform-I-Tools-Engineer_R0338078-2": {
       "locations": [
         "Crawley",
@@ -768,13 +828,6 @@
       ],
       "fetched": "2026-09-11"
     },
-    "https://www.jumptrading.com/hr/job?gh_jid=7457888": {
-      "locations": [
-        "London",
-        "Paris"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002": {
       "locations": [],
       "fetched": "2026-09-23"
@@ -793,10 +846,6 @@
         "Remote - Romania"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5228738007": {
-      "locations": [],
-      "fetched": "2026-09-20"
     }
   }
 }
