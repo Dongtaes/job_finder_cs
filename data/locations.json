@@ -96,6 +96,20 @@
       "locations": [],
       "fetched": "2026-09-23"
     },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-09-25"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-09-25"
+    },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": {
       "locations": [
         "Quebec, Quebec",
@@ -103,6 +117,13 @@
         "Vancouver, British Columbia"
       ],
       "fetched": "2026-09-18"
+    },
+    "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire-en-actuariat-et-science-des-donnes--Hiver-2027-_JR10027606": {
+      "locations": [
+        "Quebec, Quebec",
+        "Montreal, Quebec"
+      ],
+      "fetched": "2026-09-25"
     },
     "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Data-Scientist-I---4-Month-Internship-Co-op--Winter-2027-_R155132": {
       "locations": [
@@ -214,13 +235,6 @@
       "locations": [
         "Shanghai",
         "CN - Wuhan"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786": {
-      "locations": [
-        "Ulm",
-        "Stuttgart"
       ],
       "fetched": "2026-09-07"
     },
@@ -369,20 +383,6 @@
       "locations": [
         "Pune - Tower 6",
         "Bangalore - Carina"
-      ],
-      "fetched": "2026-09-24"
-    },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Cloud---DevOps-Co-op---Intern---Winter-2027-_R_1509822": {
-      "locations": [
-        "Toronto, Ontario",
-        "Mississauga, Ontario"
-      ],
-      "fetched": "2026-09-24"
-    },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Data-Analyst-Co-op---Intern---Winter-2027-_R_1509804": {
-      "locations": [
-        "Toronto, Ontario",
-        "Dieppe, New Brunswick"
       ],
       "fetched": "2026-09-24"
     },

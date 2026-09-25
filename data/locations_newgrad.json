@@ -4,14 +4,12 @@
       "locations": [],
       "fetched": "2026-09-23"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Chennai/Custom-Software-Engineer_ATCI-5355079-S1950132-1": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/Junior-Software-Engineer_R00358462-1": {
       "locations": [
-        "Chennai",
-        "Bengaluru",
-        "Coimbatore",
-        "Hyderabad"
+        "Warsaw",
+        "Krakow"
       ],
-      "fetched": "2026-09-22"
+      "fetched": "2026-09-25"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
@@ -140,14 +138,6 @@
         "Cyprus"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
-      "locations": [
-        "Athens, Greece",
-        "Thessaloniki, Greece",
-        "Greece"
-      ],
-      "fetched": "2026-09-23"
     },
     "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
       "locations": [
@@ -353,6 +343,13 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://gflenv.wd3.myworkdayjobs.com/en-US/careers/job/1034-Toy-AvePickeringON/Front-End-Driver_R39468": {
+      "locations": [
+        "1034 Toy Ave,Pickering,ON",
+        "Toronto, Ontario"
+      ],
+      "fetched": "2026-09-25"
+    },
     "https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/UK--London--New-Oxford-Street/Programming--Statistics---Data-Science--Multiple-Roles--Industrial-Placement--2027_446656": {
       "locations": [
         "UK – London – New Oxford Street"
@@ -361,7 +358,7 @@
     },
     "https://helsing.ai/jobs/4976480101?gh_jid=4976480101": {
       "locations": [],
-      "fetched": "2026-09-21"
+      "fetched": "2026-09-25"
     },
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
       "locations": [
@@ -369,6 +366,17 @@
         "Las Rozas, Madrid, Spain"
       ],
       "fetched": "2026-09-24"
+    },
+    "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788": {
+      "locations": [
+        "Sant Cugat del Valles, Barcelona, Spain",
+        "Las Rozas, Madrid, Spain"
+      ],
+      "fetched": "2026-09-25"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2": {
+      "locations": [],
+      "fetched": "2026-09-25"
     },
     "https://infobip.wd3.myworkdayjobs.com/en-US/infobipcareers/job/Osijek-Croatia/Junior-Mid-Software-Engineer_JR104909": {
       "locations": [
@@ -472,6 +480,13 @@
         "London"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://job-boards.greenhouse.io/geotab/jobs/5413943008": {
+      "locations": [
+        "Poland",
+        "Krakow, Poland - Poland"
+      ],
+      "fetched": "2026-09-25"
     },
     "https://job-boards.greenhouse.io/sezzle/jobs/8001111003": {
       "locations": [
@@ -827,6 +842,13 @@
         "Hyderabad, Telangana, India"
       ],
       "fetched": "2026-09-11"
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/90699029372904134": {
+      "locations": [
+        "Tel Aviv, Israel",
+        "Haifa, Israel"
+      ],
+      "fetched": "2026-09-25"
     },
     "https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002": {
       "locations": [],
