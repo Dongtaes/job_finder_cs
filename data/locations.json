@@ -7,13 +7,16 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Madrid-Castellana-85/Avanade-Campus--Prcticas-en-Data-Analytics-con-tecnologas-Microsoft---Octubre-2026_R00338599": {
+    "https://apply.workable.com/cloudlinux-1/j/40DA3A987A/": {
       "locations": [
-        "Madrid, Castellana 85",
-        "Malaga, I+D6 - South Building",
-        "Barcelona, La Rotonda"
+        "Warsaw, Poland",
+        "Tbilisi, Georgia",
+        "Yerevan, Armenia",
+        "Podgorica, Montenegro",
+        "Sofia, Bulgaria",
+        "Madrid, Spain"
       ],
-      "fetched": "2026-09-07"
+      "fetched": "2026-09-26"
     },
     "https://apply.workable.com/fioneer/j/44D612236D/": {
       "locations": [
@@ -96,6 +99,34 @@
       "locations": [],
       "fetched": "2026-09-23"
     },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-09-26"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-09-26"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-09-26"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-09-26"
+    },
     "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274": {
       "locations": [
         "Aguadilla, Puerto Rico, Puerto Rico",
@@ -103,12 +134,12 @@
       ],
       "fetched": "2026-09-25"
     },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275": {
+    "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Dveloppeur-euse-_JR10027589": {
       "locations": [
-        "Aguadilla, Puerto Rico, Puerto Rico",
-        "San Juan, Puerto Rico, Puerto Rico"
+        "Quebec, Quebec",
+        "Montreal, Quebec"
       ],
-      "fetched": "2026-09-25"
+      "fetched": "2026-09-26"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": {
       "locations": [
@@ -131,6 +162,12 @@
         "Québec, Quebec, CAN"
       ],
       "fetched": "2026-09-10"
+    },
+    "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286936": {
+      "locations": [
+        "MYS - Penang, Malaysia"
+      ],
+      "fetched": "2026-09-26"
     },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
       "locations": [
@@ -353,6 +390,13 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--Agentic-AI-for-Signal-Processing-in-Embedded-Systems_R-10064059": {
+      "locations": [
+        "Munich",
+        "Dresden"
+      ],
+      "fetched": "2026-09-26"
+    },
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/AI-Develop-Intern_R-10066739": {
       "locations": [
         "Shanghai (Pudong)"
@@ -378,13 +422,6 @@
         "Best"
       ],
       "fetched": "2026-09-20"
-    },
-    "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560": {
-      "locations": [
-        "Pune - Tower 6",
-        "Bangalore - Carina"
-      ],
-      "fetched": "2026-09-24"
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
@@ -575,10 +612,6 @@
         "Paris"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://www.monks.com/careers/6100057004/job?gh_jid=6100057004": {
-      "locations": [],
-      "fetched": "2026-09-22"
     },
     "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002": {
       "locations": [
