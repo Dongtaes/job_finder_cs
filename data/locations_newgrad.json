@@ -2,20 +2,15 @@
   "locations": {
     "https://20four7va.breezy.hr/p/1b118146b28d-i-cpt-0033-ai-ml-developer": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
+    "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Aleksandrow-Lodzki-Lodz-Poland/Junior-Control-Software-Engineer_JR00048815": {
       "locations": [
-        "Kronberg",
-        "Dusseldorf",
-        "Essen, Schalthaus II",
-        "Dresden",
-        "Stuttgart",
-        "Hamburg",
-        "Munich",
-        "Berlin"
+        "Aleksandrow Lodzki, Lodz, Poland",
+        "Warszawa, Masovian, Poland",
+        "Katowice, Silesian, Poland"
       ],
-      "fetched": "2026-09-29"
+      "fetched": "2026-10-01"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/Data---AI-Strategy-Analyst---Consultant--She-He-They----ICH-Europe_R00307697-1": {
       "locations": [
@@ -61,12 +56,6 @@
         "Ireland, Dublin"
       ],
       "fetched": "2026-09-09"
-    },
-    "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/Philippines-Cavite-jp/Associate-Engineer--Software-Support-Engineering_R265568": {
-      "locations": [
-        "Philippines, Cavite (jp)"
-      ],
-      "fetched": "2026-09-18"
     },
     "https://apply.workable.com/alten-mexico-1/j/BA502694BB/": {
       "locations": [
@@ -305,6 +294,13 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
+      "locations": [
+        "Brazil Remote",
+        "Colombia Remote"
+      ],
+      "fetched": "2026-10-01"
+    },
     "https://draftkings.wd1.myworkdayjobs.com/en-US/employee_referral_portal/job/Remote---Bulgaria/Frontend-Engineer_JR14917-1": {
       "locations": [
         "Remote - Bulgaria",
@@ -365,6 +361,13 @@
         "Shanghai, China"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/So-Paulo-Brazil/AI---Advanced-Analytics-Consultant_R1554031": {
+      "locations": [
+        "São Paulo, Brazil",
+        "Mexico City, Mexico"
+      ],
+      "fetched": "2026-10-01"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4926017101": {
       "locations": [
@@ -539,13 +542,6 @@
       ],
       "fetched": "2026-09-20"
     },
-    "https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91": {
-      "locations": [
-        "Calgary",
-        "Edmonton"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://jobs.lever.co/binance/38bc828a-8273-4000-83c8-1c666db2207a": {
       "locations": [
         "Asia",
@@ -635,6 +631,13 @@
       ],
       "fetched": "2026-09-29"
     },
+    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
+      "locations": [
+        "Gatineau, Canada",
+        "Ottawa, Canada"
+      ],
+      "fetched": "2026-10-01"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
         "China, Shanghai",
@@ -656,13 +659,6 @@
         "Israel, Raanana",
         "Israel, Tel Aviv",
         "Israel, Yokneam"
-      ],
-      "fetched": "2026-09-07"
-    },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2023370": {
-      "locations": [
-        "Taiwan, Taipei",
-        "Taiwan, Hsinchu"
       ],
       "fetched": "2026-09-07"
     },
@@ -697,12 +693,25 @@
       ],
       "fetched": "2026-09-26"
     },
+    "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Mexico-City/Acceleration-Center---DAT-Assurance----AI--Experience-Associate_740851WD-1": {
+      "locations": [
+        "Mexico City",
+        "Queretaro",
+        "Monterrey",
+        "Guadalajara"
+      ],
+      "fetched": "2026-10-01"
+    },
     "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000003130": {
       "locations": [
         "Noida, India",
         "Hyderabad, India"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://rbs.wd3.myworkdayjobs.com/en-US/rbs/job/Chennai/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2026-Graduates_R-00285898": {
+      "locations": [],
+      "fetched": "2026-10-01"
     },
     "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642": {
       "locations": [
@@ -740,47 +749,47 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.google.com/about/careers/applications/jobs/results/113019524512391878": {
       "locations": [
@@ -812,7 +821,7 @@
     },
     "https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [

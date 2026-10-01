@@ -7,16 +7,14 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://apply.workable.com/cloudlinux-1/j/40DA3A987A/": {
+    "https://apply.careers.microsoft.com/careers/job/1970393557007677": {
       "locations": [
-        "Warsaw, Poland",
-        "Tbilisi, Georgia",
-        "Yerevan, Armenia",
-        "Podgorica, Montenegro",
-        "Sofia, Bulgaria",
-        "Madrid, Spain"
+        "Bucharest, Bucharest,RO, Romania",
+        "Iași, IS,RO, Romania",
+        "Timișoara, TM,RO, Romania",
+        "Romania"
       ],
-      "fetched": "2026-09-26"
+      "fetched": "2026-10-01"
     },
     "https://apply.workable.com/fioneer/j/44D612236D/": {
       "locations": [
@@ -84,16 +82,9 @@
       ],
       "fetched": "2026-09-10"
     },
-    "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353": {
-      "locations": [
-        "Markham, Ontario, Canada",
-        "Oshawa, Ontario, Canada"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3": {
       "locations": [
@@ -109,13 +100,6 @@
       ],
       "fetched": "2026-09-30"
     },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1": {
-      "locations": [
-        "Aguadilla, Puerto Rico, Puerto Rico",
-        "San Juan, Puerto Rico, Puerto Rico"
-      ],
-      "fetched": "2026-09-26"
-    },
     "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": {
       "locations": [
         "Aguadilla, Puerto Rico, Puerto Rico",
@@ -129,6 +113,13 @@
         "San Juan, Puerto Rico, Puerto Rico"
       ],
       "fetched": "2026-09-25"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-10-01"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Dveloppeur-euse-_JR10027589": {
       "locations": [
@@ -252,13 +243,6 @@
       ],
       "fetched": "2026-09-24"
     },
-    "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216": {
-      "locations": [
-        "Shanghai",
-        "CN - Wuhan"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002": {
       "locations": [
         "China, Beijing",
@@ -360,6 +344,13 @@
       ],
       "fetched": "2026-09-18"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-10-01"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783": {
       "locations": [
         "Taiwan, Taipei",
@@ -393,6 +384,13 @@
       ],
       "fetched": "2026-09-10"
     },
+    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914": {
+      "locations": [
+        "Montréal, Québec",
+        "Toronto, Ontario"
+      ],
+      "fetched": "2026-10-01"
+    },
     "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Software-Engineer-Co-op---Intern--Winter-2027-_R_1509790": {
       "locations": [
         "Toronto, Ontario",
@@ -403,67 +401,67 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadel.com/careers/details/software-engineer-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.citadelsecurities.com/careers/details/software-engineer-intern-asia/": {
       "locations": [],
-      "fetched": "2026-09-27"
+      "fetched": "2026-10-01"
     },
     "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8851660002": {
       "locations": [],
@@ -600,10 +598,6 @@
         "London"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673": {
-      "locations": [],
-      "fetched": "2026-09-30"
     },
     "https://www.tower-research.com/open-positions/?gh_jid=8168634": {
       "locations": [
