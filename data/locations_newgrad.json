@@ -12,17 +12,27 @@
       ],
       "fetched": "2026-10-01"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/Data---AI-Strategy-Analyst---Consultant--She-He-They----ICH-Europe_R00307697-1": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
       "locations": [
-        "Warsaw",
-        "Lodz",
-        "Wroclaw, Dominikanski Center",
-        "Krakow",
-        "Lodz, University Business Park",
-        "Gdansk, Olivia Four",
-        "Wroclaw"
+        "Kronberg",
+        "Dusseldorf",
+        "Essen, Schalthaus II",
+        "Dresden",
+        "Stuttgart",
+        "Hamburg",
+        "Munich",
+        "Berlin"
       ],
-      "fetched": "2026-09-30"
+      "fetched": "2026-10-02"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Sydney/CyberCX---Microsoft-Cloud-Engineer_R00350859": {
+      "locations": [
+        "Sydney",
+        "Perth",
+        "Brisbane",
+        "Canberra"
+      ],
+      "fetched": "2026-10-02"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
@@ -71,6 +81,14 @@
         "Puebla, Mexico"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://apply.workable.com/c-serv/j/8CFBEE225D/": {
+      "locations": [
+        "Bengaluru, India",
+        "Hyderabad, India",
+        "Gurugram, India"
+      ],
+      "fetched": "2026-10-02"
     },
     "https://apply.workable.com/capgemini-insurance/j/8F4EE0B2C5/": {
       "locations": [
@@ -247,12 +265,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/EMEA---Poland---Krakw---Lubomirskiego/Full-Stack-Software-Development-Engineer_26WD100347": {
-      "locations": [
-        "EMEA - Poland - Kraków - Lubomirskiego"
-      ],
-      "fetched": "2026-09-07"
-    },
     "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Business-Analyst---Data---Analytics---New-Grad--January-2027-_JR7065": {
       "locations": [
         "Toronto - Bay St",
@@ -354,13 +366,6 @@
         "Montréal, Quebec, CAN"
       ],
       "fetched": "2026-09-30"
-    },
-    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Beijing-China/Proposal-Developer-1_R1557010-1": {
-      "locations": [
-        "Beijing, China",
-        "Shanghai, China"
-      ],
-      "fetched": "2026-09-07"
     },
     "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/So-Paulo-Brazil/AI---Advanced-Analytics-Consultant_R1554031": {
       "locations": [
@@ -581,6 +586,14 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
+      "locations": [
+        "Noida",
+        "Mumbai",
+        "Pune"
+      ],
+      "fetched": "2026-10-02"
+    },
     "https://jobs.lever.co/sysdig/af7fe5ab-9d5a-453c-8d6b-45772713246c": {
       "locations": [
         "Flexible - Spain",
@@ -709,9 +722,19 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://rbs.wd3.myworkdayjobs.com/en-US/rbs/job/Chennai/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2026-Graduates_R-00285898": {
-      "locations": [],
-      "fetched": "2026-10-01"
+    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241": {
+      "locations": [
+        "Toronto, Ontario",
+        "Waterloo, Ontario"
+      ],
+      "fetched": "2026-10-02"
+    },
+    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Toronto-Ontario/Data-Scientist_JR00128241-1": {
+      "locations": [
+        "Toronto, Ontario",
+        "Waterloo, Ontario"
+      ],
+      "fetched": "2026-10-02"
     },
     "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642": {
       "locations": [
