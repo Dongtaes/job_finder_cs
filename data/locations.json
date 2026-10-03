@@ -1,20 +1,29 @@
 {
   "locations": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786": {
+      "locations": [
+        "Katowice, Silesia Business Park Bldg C",
+        "Warsaw, Sienna 39",
+        "Lodz",
+        "Krakow",
+        "Wroclaw, Dominikanski Center",
+        "Katowice"
+      ],
+      "fetched": "2026-10-03"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434": {
+      "locations": [
+        "Warsaw",
+        "Krakow"
+      ],
+      "fetched": "2026-10-03"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
       "locations": [
         "Assago, Via del Mulino 11a",
         "Roma"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://apply.careers.microsoft.com/careers/job/1970393557007677": {
-      "locations": [
-        "Bucharest, Bucharest,RO, Romania",
-        "Iași, IS,RO, Romania",
-        "Timișoara, TM,RO, Romania",
-        "Romania"
-      ],
-      "fetched": "2026-10-01"
     },
     "https://apply.workable.com/fioneer/j/44D612236D/": {
       "locations": [
@@ -24,14 +33,6 @@
         "Dresden, Germany"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Oakville/Co-op-or-Intern--DevOps-Engineer--September-2026-_JR7058": {
-      "locations": [
-        "Oakville",
-        "Halifax - Mumford Rd",
-        "Toronto - Bay St"
-      ],
-      "fetched": "2026-09-16"
     },
     "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061": {
       "locations": [
@@ -44,14 +45,6 @@
         "Ottawa - Kent St"
       ],
       "fetched": "2026-09-18"
-    },
-    "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057": {
-      "locations": [
-        "Toronto - Bay St",
-        "Ottawa - Kent St",
-        "Oakville"
-      ],
-      "fetched": "2026-09-16"
     },
     "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Tax-Intern---Tax-Technology---AI-Enablement_123617": {
       "locations": [
@@ -82,6 +75,13 @@
       ],
       "fetched": "2026-09-10"
     },
+    "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353": {
+      "locations": [
+        "Markham, Ontario, Canada",
+        "Oshawa, Ontario, Canada"
+      ],
+      "fetched": "2026-10-03"
+    },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
       "fetched": "2026-10-01"
@@ -92,13 +92,6 @@
         "San Juan, Puerto Rico, Puerto Rico"
       ],
       "fetched": "2026-09-26"
-    },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3": {
-      "locations": [
-        "Aguadilla, Puerto Rico, Puerto Rico",
-        "San Juan, Puerto Rico, Puerto Rico"
-      ],
-      "fetched": "2026-09-30"
     },
     "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1": {
       "locations": [
@@ -114,12 +107,12 @@
       ],
       "fetched": "2026-09-26"
     },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275": {
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274": {
       "locations": [
         "Aguadilla, Puerto Rico, Puerto Rico",
         "San Juan, Puerto Rico, Puerto Rico"
       ],
-      "fetched": "2026-10-01"
+      "fetched": "2026-10-03"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Dveloppeur-euse-_JR10027589": {
       "locations": [
@@ -396,13 +389,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Munich/Intern--f-m-d--Agentic-AI-for-Signal-Processing-in-Embedded-Systems_R-10064059": {
-      "locations": [
-        "Munich",
-        "Dresden"
-      ],
-      "fetched": "2026-09-26"
-    },
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/AI-Develop-Intern_R-10066739": {
       "locations": [
         "Shanghai (Pudong)"
@@ -415,9 +401,12 @@
       ],
       "fetched": "2026-09-10"
     },
-    "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Amsterdam/Internship--Data-Science-for-Multidimensional-Market-Modelling_590671": {
-      "locations": [],
-      "fetched": "2026-10-02"
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
+      "locations": [
+        "Shanghai (Pudong)",
+        "Suzhou"
+      ],
+      "fetched": "2026-10-03"
     },
     "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914": {
       "locations": [
