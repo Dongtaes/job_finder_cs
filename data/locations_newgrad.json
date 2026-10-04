@@ -192,14 +192,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
-      "locations": [
-        "Athens, Greece",
-        "Thessaloniki, Greece",
-        "Greece"
-      ],
-      "fetched": "2026-10-03"
-    },
     "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
       "locations": [
         "Munich, Germany",
@@ -471,6 +463,13 @@
       ],
       "fetched": "2026-09-10"
     },
+    "https://jobs.ashbyhq.com/docebo/8db6d80e-2327-45a7-bfd3-6967d30083ab": {
+      "locations": [
+        "Biassono, Italy, Italy",
+        "Milan, Italy, Italy"
+      ],
+      "fetched": "2026-10-04"
+    },
     "https://jobs.ashbyhq.com/hirehangar/3c708fbc-3ef1-437f-b45b-7277ed2e3adf": {
       "locations": [
         "Panama - Panama City, Panama",
@@ -513,6 +512,15 @@
         "Lviv (Office), Ukraine"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://jobs.ashbyhq.com/salmon-group/c86be88e-8dbe-4953-b66e-15a01e181434": {
+      "locations": [
+        "Kazakhstan",
+        "Armenia",
+        "Serbia",
+        "Georgia"
+      ],
+      "fetched": "2026-10-04"
     },
     "https://jobs.ashbyhq.com/scale%20army%20careers/db536f20-02d6-43f0-80cc-c605e0247798": {
       "locations": [
@@ -813,10 +821,6 @@
         "Haifa, Israel"
       ],
       "fetched": "2026-09-25"
-    },
-    "https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002": {
-      "locations": [],
-      "fetched": "2026-10-01"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [
