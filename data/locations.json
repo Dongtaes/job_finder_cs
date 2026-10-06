@@ -1,16 +1,5 @@
 {
   "locations": {
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Katowice-Silesia-Business-Park-Bldg-C/Data-Engineer---Data-Analyst-Internship-Program--She-He-They-_R00287786": {
-      "locations": [
-        "Katowice, Silesia Business Park Bldg C",
-        "Warsaw, Sienna 39",
-        "Lodz",
-        "Krakow",
-        "Wroclaw, Dominikanski Center",
-        "Katowice"
-      ],
-      "fetched": "2026-10-03"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434": {
       "locations": [
         "Warsaw",
@@ -100,12 +89,12 @@
       ],
       "fetched": "2026-10-04"
     },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274": {
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1": {
       "locations": [
         "Aguadilla, Puerto Rico, Puerto Rico",
         "San Juan, Puerto Rico, Puerto Rico"
       ],
-      "fetched": "2026-10-03"
+      "fetched": "2026-10-06"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Dveloppeur-euse-_JR10027589": {
       "locations": [
@@ -113,14 +102,6 @@
         "Montreal, Quebec"
       ],
       "fetched": "2026-09-26"
-    },
-    "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": {
-      "locations": [
-        "Quebec, Quebec",
-        "Montreal, Quebec",
-        "Vancouver, British Columbia"
-      ],
-      "fetched": "2026-09-18"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire-en-actuariat-et-science-des-donnes--Hiver-2027-_JR10027606": {
       "locations": [
@@ -344,6 +325,17 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708": {
+      "locations": [
+        "Germany, Munich",
+        "France, Courbevoie",
+        "UK, Bristol",
+        "Switzerland, Zurich",
+        "Germany, Wuerselen",
+        "Germany, Berlin"
+      ],
+      "fetched": "2026-10-06"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
       "locations": [
         "Switzerland, Zurich",
@@ -394,12 +386,12 @@
       ],
       "fetched": "2026-09-10"
     },
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern--Linux-Yocto_R-10066617": {
       "locations": [
         "Shanghai (Pudong)",
         "Suzhou"
       ],
-      "fetched": "2026-10-03"
+      "fetched": "2026-10-06"
     },
     "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914": {
       "locations": [
@@ -545,6 +537,14 @@
       ],
       "fetched": "2026-09-07"
     },
+    "https://www.hubspot.com/careers/jobs/8176420?gh_jid=8176420": {
+      "locations": [],
+      "fetched": "2026-10-06"
+    },
+    "https://www.hubspot.com/careers/jobs/8176430?gh_jid=8176430": {
+      "locations": [],
+      "fetched": "2026-10-06"
+    },
     "https://www.jumptrading.com/hr/job?gh_jid=8010307": {
       "locations": [
         "Amsterdam",
@@ -607,6 +607,14 @@
         "London"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673": {
+      "locations": [
+        "Gurgaon - Ascendas",
+        "Gurgaon, India",
+        "Pune, India"
+      ],
+      "fetched": "2026-10-06"
     },
     "https://www.tower-research.com/open-positions/?gh_jid=8168634": {
       "locations": [
