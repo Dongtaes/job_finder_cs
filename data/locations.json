@@ -1,12 +1,5 @@
 {
   "locations": {
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434": {
-      "locations": [
-        "Warsaw",
-        "Krakow"
-      ],
-      "fetched": "2026-10-03"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
       "locations": [
         "Assago, Via del Mulino 11a",
@@ -95,6 +88,13 @@
         "San Juan, Puerto Rico, Puerto Rico"
       ],
       "fetched": "2026-10-06"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-10-07"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Dveloppeur-euse-_JR10027589": {
       "locations": [
@@ -336,6 +336,13 @@
       ],
       "fetched": "2026-10-06"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025": {
+      "locations": [
+        "Switzerland, Zurich",
+        "Germany, Munich"
+      ],
+      "fetched": "2026-10-07"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
       "locations": [
         "Switzerland, Zurich",
@@ -345,6 +352,20 @@
         "Germany, Munich"
       ],
       "fetched": "2026-10-02"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-10-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-10-07"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538": {
       "locations": [

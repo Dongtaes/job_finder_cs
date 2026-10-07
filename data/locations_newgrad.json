@@ -25,17 +25,21 @@
       ],
       "fetched": "2026-10-02"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/Data---AI-Strategy-Analyst---Consultant--She-He-They----ICH-Europe_R00307697-1": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Microsoft-Cloud-Engineer_R00350805-1": {
       "locations": [
-        "Warsaw",
-        "Lodz",
-        "Wroclaw, Dominikanski Center",
-        "Krakow",
-        "Lodz, University Business Park",
-        "Gdansk, Olivia Four",
-        "Wroclaw"
+        "Sydney, International House, 3 Sussex St",
+        "Perth",
+        "Brisbane",
+        "Adelaide"
       ],
-      "fetched": "2026-10-03"
+      "fetched": "2026-10-07"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Vilnius/Junior-AI-Native-Engineer_R00346490": {
+      "locations": [
+        "Vilnius",
+        "Riga"
+      ],
+      "fetched": "2026-10-07"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
@@ -172,14 +176,6 @@
       ],
       "fetched": "2026-09-07"
     },
-    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
-      "locations": [
-        "Athens, Greece",
-        "Thessaloniki, Greece",
-        "Greece"
-      ],
-      "fetched": "2026-10-05"
-    },
     "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
       "locations": [
         "Munich, Germany",
@@ -263,15 +259,7 @@
     },
     "https://careers.n-ix.com/jobs/4994532101?gh_jid=4994532101": {
       "locations": [],
-      "fetched": "2026-10-03"
-    },
-    "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Junior-Software-Developer_31992": {
-      "locations": [
-        "Brazil Remote",
-        "Mexico Remote",
-        "Colombia Remote"
-      ],
-      "fetched": "2026-09-07"
+      "fetched": "2026-10-07"
     },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
@@ -288,7 +276,7 @@
     },
     "https://helsing.ai/jobs/4976480101?gh_jid=4976480101": {
       "locations": [],
-      "fetched": "2026-10-03"
+      "fetched": "2026-10-07"
     },
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
       "locations": [
@@ -325,6 +313,14 @@
         "São Paulo, Brazil"
       ],
       "fetched": "2026-10-03"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Sofia-Bulgaria/Proposal-Developer-1---IQL-Laboratories_R1562623": {
+      "locations": [
+        "Sofia, Bulgaria",
+        "Centurion, South Africa",
+        "Bratislava, Slovakia"
+      ],
+      "fetched": "2026-10-07"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4926017101": {
       "locations": [
@@ -399,14 +395,6 @@
         "London"
       ],
       "fetched": "2026-09-07"
-    },
-    "https://job-boards.greenhouse.io/geotab/jobs/5434061008": {
-      "locations": [
-        "Toronto",
-        "Toronto, Ontario - Canada",
-        "Waterloo, Ontario - Canada"
-      ],
-      "fetched": "2026-10-03"
     },
     "https://job-boards.greenhouse.io/sezzle/jobs/8001111003": {
       "locations": [
@@ -614,6 +602,13 @@
       ],
       "fetched": "2026-10-01"
     },
+    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
+      "locations": [
+        "Ontario Remote Work",
+        "British Columbia Remote Work"
+      ],
+      "fetched": "2026-10-07"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
         "China, Shanghai",
@@ -647,6 +642,15 @@
       ],
       "fetched": "2026-09-26"
     },
+    "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Mexico---Reforma-445/Salesforce-Developer---Associate_765340WD": {
+      "locations": [
+        "Mexico - Reforma 445",
+        "Queretaro",
+        "Monterrey",
+        "Guadalajara"
+      ],
+      "fetched": "2026-10-07"
+    },
     "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Mexico-City/Acceleration-Center---DAT-Assurance----AI--Experience-Associate_740851WD-1": {
       "locations": [
         "Mexico City",
@@ -662,6 +666,13 @@
         "Hyderabad, India"
       ],
       "fetched": "2026-09-07"
+    },
+    "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Gdansk-Poland/Junior-Software-Engineer_R-793923": {
+      "locations": [
+        "Gdansk, Poland",
+        "BIG - Zielinskiego Krakow"
+      ],
+      "fetched": "2026-10-07"
     },
     "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241": {
       "locations": [
