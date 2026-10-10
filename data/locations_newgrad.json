@@ -12,34 +12,12 @@
       ],
       "fetched": "2026-10-01"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bratislava/Junior-Software-Engineer---Pega-Career-Path_R00299753": {
       "locations": [
-        "Kronberg",
-        "Dusseldorf",
-        "Essen, Schalthaus II",
-        "Dresden",
-        "Stuttgart",
-        "Hamburg",
-        "Munich",
-        "Berlin"
+        "Bratislava",
+        "Kosice"
       ],
-      "fetched": "2026-10-02"
-    },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Microsoft-Cloud-Engineer_R00350805-1": {
-      "locations": [
-        "Sydney, International House, 3 Sussex St",
-        "Perth",
-        "Brisbane",
-        "Adelaide"
-      ],
-      "fetched": "2026-10-07"
-    },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Vilnius/Junior-AI-Native-Engineer_R00346490": {
-      "locations": [
-        "Vilnius",
-        "Riga"
-      ],
-      "fetched": "2026-10-07"
+      "fetched": "2026-10-10"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
@@ -59,12 +37,12 @@
       ],
       "fetched": "2026-09-26"
     },
-    "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Stuttgart-Area/Junior-Software-Developer-Embedded--Systems---AI-d-m-w-_JR10442968-1": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Stockholm/Junior-Data-Engineer-Microsoft-Fabric---Azure_R00362624": {
       "locations": [
-        "Stuttgart Area",
-        "Backnang"
+        "Stockholm",
+        "Gothenburg"
       ],
-      "fetched": "2026-09-29"
+      "fetched": "2026-10-10"
     },
     "https://airliquidehr.wd3.myworkdayjobs.com/en-US/airliquideexternalcareer/job/1-Powerhouse-HO---Sales---IM-BOS/SFE-Data-Analyst_R10086432": {
       "locations": [
@@ -82,7 +60,7 @@
         "Ireland, Cork",
         "Ireland, Dublin"
       ],
-      "fetched": "2026-09-09"
+      "fetched": "2026-10-10"
     },
     "https://apply.workable.com/alten-mexico-1/j/BA502694BB/": {
       "locations": [
@@ -195,14 +173,6 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
-      "locations": [
-        "Athens, Greece",
-        "Thessaloniki, Greece",
-        "Greece"
-      ],
-      "fetched": "2026-10-09"
-    },
     "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
       "locations": [
         "Munich, Germany",
@@ -221,10 +191,6 @@
       ],
       "fetched": "2026-09-15"
     },
-    "https://apply.workable.com/nology/j/01DA38C157/": {
-      "locations": [],
-      "fetched": "2026-10-08"
-    },
     "https://apply.workable.com/supportyourapp/j/2D5D2ED023/": {
       "locations": [
         "Ukraine",
@@ -234,6 +200,13 @@
         "Romania"
       ],
       "fetched": "2026-10-08"
+    },
+    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1": {
+      "locations": [
+        "Mirabel",
+        "Montreal - 8585 Cote-De-Liesse, QC, Canada"
+      ],
+      "fetched": "2026-10-10"
     },
     "https://careers-bdobelgium.icims.com/jobs/1760/software-%28erp%29-implementation-junior-consultant-%282026%29/job": {
       "locations": [
@@ -259,6 +232,13 @@
     "https://careers.n-ix.com/jobs/4994532101?gh_jid=4994532101": {
       "locations": [],
       "fetched": "2026-10-07"
+    },
+    "https://centricsoftware.wd501.myworkdayjobs.com/en-US/centric/job/Toronto-ON/Azure-Cloud-Engineer_JR397": {
+      "locations": [
+        "Toronto, ON",
+        "Montreal, QC"
+      ],
+      "fetched": "2026-10-10"
     },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
@@ -291,14 +271,6 @@
       ],
       "fetched": "2026-09-25"
     },
-    "https://infobip.wd3.myworkdayjobs.com/en-US/infobipcareers/job/Osijek-Croatia/Junior-Mid-Software-Engineer_JR104909": {
-      "locations": [
-        "Osijek (Croatia)",
-        "Vodnjan (Croatia)",
-        "Zagreb (Croatia)"
-      ],
-      "fetched": "2026-10-08"
-    },
     "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934": {
       "locations": [
         "Toronto, Ontario, CAN",
@@ -306,12 +278,16 @@
       ],
       "fetched": "2026-09-30"
     },
-    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Mexico-City-Mexico/Proposal-Developer_R1568594": {
+    "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Penang/Graduate-Talent--Software-Application-Development-Engineer-_JR0287836": {
       "locations": [
-        "Mexico City, Mexico",
-        "São Paulo, Brazil"
+        "Malaysia, Penang",
+        "Malaysia, Kulim"
       ],
-      "fetched": "2026-10-03"
+      "fetched": "2026-10-10"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/So-Paulo-Brazil/AI---Advanced-Analytics-Consultant_R1554031": {
+      "locations": [],
+      "fetched": "2026-10-10"
     },
     "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Sofia-Bulgaria/Proposal-Developer-1---IQL-Laboratories_R1562623": {
       "locations": [
@@ -321,25 +297,33 @@
       ],
       "fetched": "2026-10-07"
     },
-    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4926017101": {
-      "locations": [],
-      "fetched": "2026-10-08"
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999603101": {
+      "locations": [
+        "EMEA",
+        "Warsaw, Poland"
+      ],
+      "fetched": "2026-10-10"
     },
-    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4926018101": {
-      "locations": [],
-      "fetched": "2026-10-08"
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999979101": {
+      "locations": [
+        "EMEA",
+        "Warsaw, Poland"
+      ],
+      "fetched": "2026-10-10"
     },
-    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4965715101": {
-      "locations": [],
-      "fetched": "2026-10-08"
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999980101": {
+      "locations": [
+        "EMEA",
+        "Prague, Czechia"
+      ],
+      "fetched": "2026-10-10"
     },
-    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4965716101": {
-      "locations": [],
-      "fetched": "2026-10-08"
-    },
-    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4965717101": {
-      "locations": [],
-      "fetched": "2026-10-08"
+    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999981101": {
+      "locations": [
+        "EMEA",
+        "Lisbon, Portugal"
+      ],
+      "fetched": "2026-10-10"
     },
     "https://job-boards.greenhouse.io/affirm/jobs/7807506003": {
       "locations": [
@@ -466,10 +450,6 @@
       ],
       "fetched": "2026-09-24"
     },
-    "https://jobs.ashbyhq.com/solidgate/db614431-dd7a-4c36-b71c-2a94678a65e7": {
-      "locations": [],
-      "fetched": "2026-10-08"
-    },
     "https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56": {
       "locations": [
         "Remote - Canada, Canada",
@@ -479,42 +459,11 @@
       ],
       "fetched": "2026-09-20"
     },
-    "https://jobs.lever.co/binance/38bc828a-8273-4000-83c8-1c666db2207a": {
-      "locations": [
-        "Hong Kong",
-        "Taiwan, Taipei",
-        "Australia, Sydney",
-        "Asia"
-      ],
-      "fetched": "2026-10-08"
-    },
     "https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573": {
       "locations": [
         "Asia",
         "Hong Kong",
         "Taiwan, Taipei"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://jobs.lever.co/binance/990a9661-c72f-4d91-a69d-c0ada1de40b0": {
-      "locations": [
-        "Hong Kong",
-        "Taiwan, Taipei",
-        "Kuala Lumpur",
-        "Thailand, Bangkok",
-        "UAE, Dubai",
-        "Asia"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://jobs.lever.co/binance/fdee019b-d17e-4655-99c4-b8d31d8e61c5": {
-      "locations": [
-        "Hong Kong",
-        "Taiwan, Taipei",
-        "Kuala Lumpur",
-        "Thailand, Bangkok",
-        "UAE, Dubai",
-        "Asia"
       ],
       "fetched": "2026-10-08"
     },
@@ -730,6 +679,13 @@
         "Haifa, Israel"
       ],
       "fetched": "2026-10-08"
+    },
+    "https://www.google.com/about/careers/applications/jobs/results/134469159198040774": {
+      "locations": [
+        "Tel Aviv, Israel",
+        "Haifa, Israel"
+      ],
+      "fetched": "2026-10-10"
     },
     "https://www.google.com/about/careers/applications/jobs/results/75076499224306374": {
       "locations": [
