@@ -28,7 +28,7 @@
         "Torino",
         "Napoli"
       ],
-      "fetched": "2026-09-10"
+      "fetched": "2026-10-11"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Cagliari-Piazzetta-lUnione-Sarda-24/Junior-Data-Engineer-Avanade_R00297510": {
       "locations": [
@@ -231,7 +231,7 @@
     },
     "https://careers.n-ix.com/jobs/4994532101?gh_jid=4994532101": {
       "locations": [],
-      "fetched": "2026-10-07"
+      "fetched": "2026-10-11"
     },
     "https://centricsoftware.wd501.myworkdayjobs.com/en-US/centric/job/Toronto-ON/Azure-Cloud-Engineer_JR397": {
       "locations": [
@@ -255,7 +255,7 @@
     },
     "https://helsing.ai/jobs/4976480101?gh_jid=4976480101": {
       "locations": [],
-      "fetched": "2026-10-07"
+      "fetched": "2026-10-11"
     },
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
       "locations": [
@@ -283,10 +283,6 @@
         "Malaysia, Penang",
         "Malaysia, Kulim"
       ],
-      "fetched": "2026-10-10"
-    },
-    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/So-Paulo-Brazil/AI---Advanced-Analytics-Consultant_R1554031": {
-      "locations": [],
       "fetched": "2026-10-10"
     },
     "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Sofia-Bulgaria/Proposal-Developer-1---IQL-Laboratories_R1562623": {
@@ -365,6 +361,34 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://job-boards.greenhouse.io/encora10/jobs/5249306007": {
+      "locations": [
+        "Campinas",
+        "Costa Rica"
+      ],
+      "fetched": "2026-10-11"
+    },
+    "https://job-boards.greenhouse.io/encora10/jobs/5262806007": {
+      "locations": [
+        "Campinas",
+        "Peru"
+      ],
+      "fetched": "2026-10-11"
+    },
+    "https://job-boards.greenhouse.io/encora10/jobs/5262807007": {
+      "locations": [
+        "Campinas",
+        "Colombia"
+      ],
+      "fetched": "2026-10-11"
+    },
+    "https://job-boards.greenhouse.io/encora10/jobs/5262808007": {
+      "locations": [
+        "Campinas",
+        "Bolivia"
+      ],
+      "fetched": "2026-10-11"
+    },
     "https://job-boards.greenhouse.io/sezzle/jobs/8001111003": {
       "locations": [
         "Bogota, Colombia",
@@ -379,7 +403,7 @@
         "San Juan",
         "San Juan, Puerto Rico"
       ],
-      "fetched": "2026-09-10"
+      "fetched": "2026-10-11"
     },
     "https://jobs.ashbyhq.com/docebo/8db6d80e-2327-45a7-bfd3-6967d30083ab": {
       "locations": [
@@ -525,13 +549,6 @@
       ],
       "fetched": "2026-09-29"
     },
-    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
-      "locations": [
-        "Ontario Remote Work",
-        "British Columbia Remote Work"
-      ],
-      "fetched": "2026-10-07"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
         "China, Shanghai",
@@ -672,13 +689,6 @@
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
       "fetched": "2026-10-09"
-    },
-    "https://www.google.com/about/careers/applications/jobs/results/113019524512391878": {
-      "locations": [
-        "Tel Aviv, Israel",
-        "Haifa, Israel"
-      ],
-      "fetched": "2026-10-08"
     },
     "https://www.google.com/about/careers/applications/jobs/results/134469159198040774": {
       "locations": [

@@ -34,6 +34,12 @@
       ],
       "fetched": "2026-10-10"
     },
+    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": {
+      "locations": [
+        "Montreal (St. Laurent)"
+      ],
+      "fetched": "2026-10-11"
+    },
     "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1": {
       "locations": [
         "Montreal (St. Laurent)"
@@ -88,7 +94,7 @@
         "Munchen, Germany",
         "Dusseldorf, Germany"
       ],
-      "fetched": "2026-09-10"
+      "fetched": "2026-10-11"
     },
     "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Data-Engineering-Software-Developer_JR-202618353": {
       "locations": [
@@ -97,23 +103,30 @@
       ],
       "fetched": "2026-10-03"
     },
+    "https://genesys.wd1.myworkdayjobs.com/en-US/genesys/job/Brest-France/Software-Engineer-Intern_JR112584": {
+      "locations": [
+        "Brest, France",
+        "Brest"
+      ],
+      "fetched": "2026-10-11"
+    },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
       "fetched": "2026-10-09"
     },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3": {
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274": {
       "locations": [
         "Aguadilla, Puerto Rico, Puerto Rico",
         "San Juan, Puerto Rico, Puerto Rico"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-10-11"
     },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3": {
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275": {
       "locations": [
         "Aguadilla, Puerto Rico, Puerto Rico",
         "San Juan, Puerto Rico, Puerto Rico"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-10-11"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire-en-actuariat-et-science-des-donnes--Hiver-2027-_JR10027606": {
       "locations": [
@@ -264,6 +277,13 @@
         "Eindhoven"
       ],
       "fetched": "2026-09-24"
+    },
+    "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Shanghai/Optical-Module-Software-Firmware-Intern_2604216": {
+      "locations": [
+        "Shanghai",
+        "CN - Wuhan"
+      ],
+      "fetched": "2026-10-11"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002": {
       "locations": [
@@ -450,18 +470,19 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/AI-Develop-Intern_R-10066739": {
-      "locations": [
-        "Shanghai (Pudong)"
-      ],
-      "fetched": "2026-09-24"
-    },
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
       "locations": [
         "Shanghai (Pudong)",
         "Suzhou"
       ],
       "fetched": "2026-10-10"
+    },
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern--Linux-Yocto_R-10066617": {
+      "locations": [
+        "Shanghai (Pudong)",
+        "Suzhou"
+      ],
+      "fetched": "2026-10-11"
     },
     "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186": {
       "locations": [
