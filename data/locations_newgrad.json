@@ -12,6 +12,19 @@
       ],
       "fetched": "2026-10-01"
     },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
+      "locations": [
+        "Kronberg",
+        "Dusseldorf",
+        "Essen, Schalthaus II",
+        "Dresden",
+        "Stuttgart",
+        "Hamburg",
+        "Munich",
+        "Berlin"
+      ],
+      "fetched": "2026-10-14"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
         "Bologna",
@@ -233,6 +246,17 @@
       ],
       "fetched": "2026-10-10"
     },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055": {
+      "locations": [],
+      "fetched": "2026-10-14"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166": {
+      "locations": [
+        "Ottawa, Ontario, Canada",
+        "Kanata, Ontario, Canada"
+      ],
+      "fetched": "2026-10-14"
+    },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
         "Brazil Remote",
@@ -240,15 +264,19 @@
       ],
       "fetched": "2026-10-01"
     },
+    "https://flaschenpost.wd103.myworkdayjobs.com/en-US/flaschenpost/job/Office-Mnster/Junior-Analyst--m-w-d----Category-Management---AI-Enablement_JR1258": {
+      "locations": [
+        "Office Münster",
+        "Office Köln",
+        "Hybrid"
+      ],
+      "fetched": "2026-10-14"
+    },
     "https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/UK--London--New-Oxford-Street/Programming--Statistics---Data-Science--Multiple-Roles--Industrial-Placement--2027_446656": {
       "locations": [
         "UK – London – New Oxford Street"
       ],
       "fetched": "2026-09-24"
-    },
-    "https://helsing.ai/jobs/4976480101?gh_jid=4976480101": {
-      "locations": [],
-      "fetched": "2026-10-11"
     },
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
       "locations": [
@@ -263,13 +291,6 @@
         "Las Rozas, Madrid, Spain"
       ],
       "fetched": "2026-09-25"
-    },
-    "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934": {
-      "locations": [
-        "Toronto, Ontario, CAN",
-        "Montréal, Quebec, CAN"
-      ],
-      "fetched": "2026-09-30"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Penang/Graduate-Talent--Software-Application-Development-Engineer-_JR0287836": {
       "locations": [
@@ -476,6 +497,14 @@
       ],
       "fetched": "2026-09-20"
     },
+    "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
+      "locations": [],
+      "fetched": "2026-10-14"
+    },
+    "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/11764": {
+      "locations": [],
+      "fetched": "2026-10-14"
+    },
     "https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573": {
       "locations": [
         "Asia",
@@ -494,19 +523,10 @@
     },
     "https://jobs.lever.co/sysdig/af7fe5ab-9d5a-453c-8d6b-45772713246c": {
       "locations": [
-        "Flexible - Spain",
+        "Flexible, Spain",
         "Flexible - Costa Rica"
       ],
-      "fetched": "2026-09-13"
-    },
-    "https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Aschaffenburg-Germany/Cloud-Platform-Engineer--m-w-d-_JR-0082847-1": {
-      "locations": [
-        "Aschaffenburg, Germany",
-        "Reutlingen, Germany",
-        "Hamburg, Germany",
-        "Frankfurt am Main, Germany"
-      ],
-      "fetched": "2026-09-29"
+      "fetched": "2026-10-14"
     },
     "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006656": {
       "locations": [
@@ -542,6 +562,13 @@
       ],
       "fetched": "2026-09-29"
     },
+    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
+      "locations": [
+        "Ontario Remote Work",
+        "British Columbia Remote Work"
+      ],
+      "fetched": "2026-10-14"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
         "China, Shanghai",
@@ -566,14 +593,9 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Mexico-City/Acceleration-Center---DAT-Assurance----AI--Experience-Associate_740851WD-1": {
-      "locations": [
-        "Mexico City",
-        "Queretaro",
-        "Monterrey",
-        "Guadalajara"
-      ],
-      "fetched": "2026-10-01"
+    "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0138283": {
+      "locations": [],
+      "fetched": "2026-10-14"
     },
     "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000003130": {
       "locations": [
@@ -582,26 +604,12 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Gdansk-Poland/Junior-Software-Engineer_R-793923": {
-      "locations": [
-        "Gdansk, Poland",
-        "BIG - Zielinskiego Krakow"
-      ],
-      "fetched": "2026-10-07"
-    },
     "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241": {
       "locations": [
         "Toronto, Ontario",
         "Waterloo, Ontario"
       ],
       "fetched": "2026-10-02"
-    },
-    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Toronto-Ontario/Associate-Software-Engineer_JR00127248-1": {
-      "locations": [
-        "Toronto, Ontario",
-        "Waterloo, Ontario"
-      ],
-      "fetched": "2026-10-08"
     },
     "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Toronto-Ontario/Data-Scientist_JR00128241-1": {
       "locations": [
