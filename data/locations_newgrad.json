@@ -179,6 +179,14 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
+      "locations": [
+        "Athens, Greece",
+        "Thessaloniki, Greece",
+        "Greece"
+      ],
+      "fetched": "2026-10-15"
+    },
     "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
       "locations": [
         "Munich, Germany",
@@ -237,7 +245,7 @@
     },
     "https://careers.n-ix.com/jobs/4994532101?gh_jid=4994532101": {
       "locations": [],
-      "fetched": "2026-10-11"
+      "fetched": "2026-10-15"
     },
     "https://centricsoftware.wd501.myworkdayjobs.com/en-US/centric/job/Toronto-ON/Azure-Cloud-Engineer_JR397": {
       "locations": [
@@ -263,6 +271,10 @@
         "Colombia Remote"
       ],
       "fetched": "2026-10-01"
+    },
+    "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554": {
+      "locations": [],
+      "fetched": "2026-10-15"
     },
     "https://flaschenpost.wd103.myworkdayjobs.com/en-US/flaschenpost/job/Office-Mnster/Junior-Analyst--m-w-d----Category-Management---AI-Enablement_JR1258": {
       "locations": [
@@ -521,6 +533,13 @@
       ],
       "fetched": "2026-10-02"
     },
+    "https://jobs.lever.co/recordpoint/65811c7e-96fc-4c9f-aca9-05a935f3e971": {
+      "locations": [
+        "Sydney, NSW, Australia",
+        "Melbourne, VIC, Australia"
+      ],
+      "fetched": "2026-10-15"
+    },
     "https://jobs.lever.co/sysdig/af7fe5ab-9d5a-453c-8d6b-45772713246c": {
       "locations": [
         "Flexible, Spain",
@@ -562,13 +581,6 @@
       ],
       "fetched": "2026-09-29"
     },
-    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
-      "locations": [
-        "Ontario Remote Work",
-        "British Columbia Remote Work"
-      ],
-      "fetched": "2026-10-14"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
         "China, Shanghai",
@@ -592,6 +604,13 @@
         "Israel, Yokneam"
       ],
       "fetched": "2026-10-08"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-10-15"
     },
     "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0138283": {
       "locations": [],

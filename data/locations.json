@@ -126,12 +126,19 @@
       "locations": [],
       "fetched": "2026-10-13"
     },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": {
+    "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3": {
       "locations": [
         "Aguadilla, Puerto Rico, Puerto Rico",
         "San Juan, Puerto Rico, Puerto Rico"
       ],
-      "fetched": "2026-10-14"
+      "fetched": "2026-10-15"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-10-15"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire-en-actuariat-et-science-des-donnes--Hiver-2027-_JR10027606": {
       "locations": [
@@ -148,13 +155,6 @@
       "fetched": "2026-10-10"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/PRC-Shanghai/AI-Software-Engineering-Graduate-Intern_JR0287917": {
-      "locations": [
-        "PRC, Shanghai",
-        "PRC, Beijing"
-      ],
-      "fetched": "2026-10-10"
-    },
-    "https://intel.wd1.myworkdayjobs.com/en-US/external/job/PRC-Shanghai/Firmware-and-Development-Tools-Intern_JR0287536": {
       "locations": [
         "PRC, Shanghai",
         "PRC, Beijing"
@@ -482,19 +482,19 @@
       ],
       "fetched": "2026-09-22"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948": {
+      "locations": [
+        "UK, Bristol",
+        "Switzerland, Zurich"
+      ],
+      "fetched": "2026-10-15"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301": {
       "locations": [
         "Vietnam, Hanoi",
         "Vietnam, Ho Chi Minh City"
       ],
       "fetched": "2026-10-08"
-    },
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
-      "locations": [
-        "Shanghai (Pudong)",
-        "Suzhou"
-      ],
-      "fetched": "2026-10-10"
     },
     "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186": {
       "locations": [
