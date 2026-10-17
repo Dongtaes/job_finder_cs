@@ -2,7 +2,7 @@
   "locations": {
     "https://20four7va.breezy.hr/p/1b118146b28d-i-cpt-0033-ai-ml-developer": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Aleksandrow-Lodzki-Lodz-Poland/Junior-Control-Software-Engineer_JR00048815": {
       "locations": [
@@ -11,19 +11,6 @@
         "Katowice, Silesian, Poland"
       ],
       "fetched": "2026-10-01"
-    },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
-      "locations": [
-        "Kronberg",
-        "Dusseldorf",
-        "Essen, Schalthaus II",
-        "Dresden",
-        "Stuttgart",
-        "Hamburg",
-        "Munich",
-        "Berlin"
-      ],
-      "fetched": "2026-10-14"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
@@ -207,6 +194,10 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://boards.greenhouse.io/justworks/jobs/8179702?gh_jid=8179702": {
+      "locations": [],
+      "fetched": "2026-10-17"
+    },
     "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1": {
       "locations": [
         "Mirabel",
@@ -218,13 +209,6 @@
       "locations": [
         "Zaventem, VBR, Belgium",
         "Antwerp, VAN, Belgium"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://careers-international-realpagepms.icims.com/jobs/13413/trainer-ii---with-ai-fluency/job": {
-      "locations": [
-        "Manila, Pasig, Philippines",
-        "Cebu City, Philippines"
       ],
       "fetched": "2026-10-08"
     },
@@ -246,17 +230,6 @@
       ],
       "fetched": "2026-10-10"
     },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055": {
-      "locations": [],
-      "fetched": "2026-10-14"
-    },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166": {
-      "locations": [
-        "Ottawa, Ontario, Canada",
-        "Kanata, Ontario, Canada"
-      ],
-      "fetched": "2026-10-14"
-    },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
         "Brazil Remote",
@@ -267,6 +240,22 @@
     "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554": {
       "locations": [],
       "fetched": "2026-10-15"
+    },
+    "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Milano-Sarca/Mulesoft-Developer-Junior_JR105349": {
+      "locations": [],
+      "fetched": "2026-10-17"
+    },
+    "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Milano-Sarca/Salesforce-Developer-Junior_JR105351": {
+      "locations": [],
+      "fetched": "2026-10-17"
+    },
+    "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Roma--Ple-Agricoltura/Junior-Agentic-Developer_JR105272": {
+      "locations": [],
+      "fetched": "2026-10-17"
+    },
+    "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Roma--Ple-Agricoltura/Junior-Agentic-Developer_JR105319": {
+      "locations": [],
+      "fetched": "2026-10-17"
     },
     "https://flaschenpost.wd103.myworkdayjobs.com/en-US/flaschenpost/job/Office-Mnster/Junior-Analyst--m-w-d----Category-Management---AI-Enablement_JR1258": {
       "locations": [
@@ -415,6 +404,14 @@
         "Peru"
       ],
       "fetched": "2026-09-24"
+    },
+    "https://job-boards.greenhouse.io/wongdoody/jobs/7702676003": {
+      "locations": [
+        "Berlin, DE",
+        "Germany (REMOTE)",
+        "Stuttgart, DE"
+      ],
+      "fetched": "2026-10-17"
     },
     "https://job-boards.greenhouse.io/xtillion/jobs/5383270008": {
       "locations": [
@@ -615,6 +612,10 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Warsaw/Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": {
+      "locations": [],
+      "fetched": "2026-10-17"
+    },
     "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241": {
       "locations": [
         "Toronto, Ontario",
@@ -653,47 +654,47 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-13"
+      "fetched": "2026-10-17"
     },
     "https://www.google.com/about/careers/applications/jobs/results/134469159198040774": {
       "locations": [
