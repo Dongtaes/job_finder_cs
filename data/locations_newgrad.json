@@ -1,9 +1,5 @@
 {
   "locations": {
-    "https://20four7va.breezy.hr/p/1b118146b28d-i-cpt-0033-ai-ml-developer": {
-      "locations": [],
-      "fetched": "2026-10-17"
-    },
     "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Aleksandrow-Lodzki-Lodz-Poland/Junior-Control-Software-Engineer_JR00048815": {
       "locations": [
         "Aleksandrow Lodzki, Lodz, Poland",
@@ -11,6 +7,19 @@
         "Katowice, Silesian, Poland"
       ],
       "fetched": "2026-10-01"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
+      "locations": [
+        "Kronberg",
+        "Dusseldorf",
+        "Essen, Schalthaus II",
+        "Dresden",
+        "Stuttgart",
+        "Hamburg",
+        "Munich",
+        "Berlin"
+      ],
+      "fetched": "2026-10-21"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
@@ -54,21 +63,6 @@
         "Ireland, Dublin"
       ],
       "fetched": "2026-10-10"
-    },
-    "https://apply.workable.com/alten-mexico-1/j/BA502694BB/": {
-      "locations": [
-        "Santiago de Querétaro, Mexico",
-        "Puebla, Mexico",
-        "Monterrey, Mexico"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://apply.workable.com/alten-mexico-1/j/F5E6B57FF3/": {
-      "locations": [
-        "Santiago de Querétaro, Mexico",
-        "Puebla, Mexico"
-      ],
-      "fetched": "2026-10-08"
     },
     "https://apply.workable.com/c-serv/j/8CFBEE225D/": {
       "locations": [
@@ -129,15 +123,6 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://apply.workable.com/emerging-travel-group/j/2180D844EF/": {
-      "locations": [
-        "Armenia",
-        "Georgia",
-        "Vietnam",
-        "Thailand"
-      ],
-      "fetched": "2026-10-08"
-    },
     "https://apply.workable.com/emerging-travel-group/j/65CCD0B18E/": {
       "locations": [
         "Georgia",
@@ -148,16 +133,6 @@
       ],
       "fetched": "2026-10-03"
     },
-    "https://apply.workable.com/emerging-travel-group/j/C70ACA3696/": {
-      "locations": [
-        "Cyprus",
-        "Montenegro",
-        "Poland",
-        "Portugal",
-        "Thailand"
-      ],
-      "fetched": "2026-10-08"
-    },
     "https://apply.workable.com/european-dynamics/j/20BADA7218/": {
       "locations": [
         "Thessaloniki, Greece",
@@ -165,6 +140,21 @@
         "Cyprus"
       ],
       "fetched": "2026-10-08"
+    },
+    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
+      "locations": [
+        "Athens, Greece",
+        "Thessaloniki, Greece",
+        "Greece"
+      ],
+      "fetched": "2026-10-21"
+    },
+    "https://apply.workable.com/european-dynamics/j/D53EAA65D5/": {
+      "locations": [
+        "Athens, Greece",
+        "Thessaloniki, Greece"
+      ],
+      "fetched": "2026-10-21"
     },
     "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
       "locations": [
@@ -194,9 +184,23 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://boards.greenhouse.io/justworks/jobs/8179702?gh_jid=8179702": {
-      "locations": [],
-      "fetched": "2026-10-17"
+    "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/EMEA---Poland---Krakw---Lubomirskiego/Full-Stack-Software-Development-Engineer_26WD100347": {
+      "locations": [
+        "EMEA - Poland - Kraków - Lubomirskiego"
+      ],
+      "fetched": "2026-10-21"
+    },
+    "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
+      "locations": [
+        "GYEONGGI-DO (Seoul)"
+      ],
+      "fetched": "2026-10-21"
+    },
+    "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-I_R56762": {
+      "locations": [
+        "GYEONGGI-DO (Seoul)"
+      ],
+      "fetched": "2026-10-21"
     },
     "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1": {
       "locations": [
@@ -205,12 +209,12 @@
       ],
       "fetched": "2026-10-10"
     },
-    "https://careers-bdobelgium.icims.com/jobs/1760/software-%28erp%29-implementation-junior-consultant-%282026%29/job": {
+    "https://careers-bdobelgium.icims.com/jobs/1760/software-%28erp%29-implementation-junior-consultant-%28start-asap%29/job": {
       "locations": [
         "Zaventem, VBR, Belgium",
         "Antwerp, VAN, Belgium"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-10-21"
     },
     "https://careers-personifyhealth.icims.com/jobs/4814/site-reliability-engineer-i/job": {
       "locations": [
@@ -237,25 +241,46 @@
       ],
       "fetched": "2026-10-01"
     },
-    "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554": {
-      "locations": [],
-      "fetched": "2026-10-19"
-    },
     "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Milano-Sarca/Mulesoft-Developer-Junior_JR105349": {
-      "locations": [],
-      "fetched": "2026-10-17"
+      "locations": [
+        "Milano (Sarca)",
+        "Roma  (P.le Agricoltura)",
+        "Napoli  (Centro direz.C1 Torre Saverio)",
+        "Treviolo (Piave)"
+      ],
+      "fetched": "2026-10-21"
     },
     "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Milano-Sarca/Salesforce-Developer-Junior_JR105351": {
-      "locations": [],
-      "fetched": "2026-10-17"
+      "locations": [
+        "Milano (Sarca)",
+        "Roma  (P.le Agricoltura)",
+        "Napoli  (Centro direz.C1 Torre Saverio)",
+        "Treviolo (Piave)"
+      ],
+      "fetched": "2026-10-21"
     },
     "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Roma--Ple-Agricoltura/Junior-Agentic-Developer_JR105272": {
-      "locations": [],
-      "fetched": "2026-10-17"
+      "locations": [
+        "Roma  (P.le Agricoltura)",
+        "Cagliari (Unione Sarda)",
+        "Napoli  (Centro direz.C1 Torre Saverio)",
+        "Firenze (Torre Degli Agli)"
+      ],
+      "fetched": "2026-10-21"
     },
     "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Roma--Ple-Agricoltura/Junior-Agentic-Developer_JR105319": {
-      "locations": [],
-      "fetched": "2026-10-17"
+      "locations": [
+        "Roma  (P.le Agricoltura)",
+        "Milano (Bassi)",
+        "Palermo (Reg. Siciliana)",
+        "Bologna (Marconi)",
+        "Padova (C.so Stati Uniti)",
+        "Genova (Col)",
+        "Bari (La Marchesa)",
+        "Torino (C.so Mortara)",
+        "Napoli  (Centro direz.C1 Torre Saverio)"
+      ],
+      "fetched": "2026-10-21"
     },
     "https://flaschenpost.wd103.myworkdayjobs.com/en-US/flaschenpost/job/Office-Mnster/Junior-Analyst--m-w-d----Category-Management---AI-Enablement_JR1258": {
       "locations": [
@@ -291,14 +316,6 @@
         "Malaysia, Kulim"
       ],
       "fetched": "2026-10-10"
-    },
-    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Sofia-Bulgaria/Proposal-Developer-1---IQL-Laboratories_R1562623": {
-      "locations": [
-        "Sofia, Bulgaria",
-        "Centurion, South Africa",
-        "Bratislava, Slovakia"
-      ],
-      "fetched": "2026-10-07"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999603101": {
       "locations": [
@@ -453,12 +470,12 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://jobs.ashbyhq.com/nelly/f596c6e1-7c20-4dc9-a6d4-00800129711c": {
+    "https://jobs.ashbyhq.com/mollie/ff439d94-cfb5-4523-8e99-a19edcb56ed6": {
       "locations": [
-        "Hamburg, Germany",
-        "Berlin, Germany"
+        "Lisbon, Portugal",
+        "Amsterdam, Netherlands"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-10-21"
     },
     "https://jobs.ashbyhq.com/obrio/9f1f4adb-f78d-403c-8ecb-1512d5f2bc13": {
       "locations": [
@@ -479,16 +496,6 @@
       ],
       "fetched": "2026-10-04"
     },
-    "https://jobs.ashbyhq.com/scale%20army%20careers/db536f20-02d6-43f0-80cc-c605e0247798": {
-      "locations": [
-        "Egypt",
-        "Argentina",
-        "Ethiopia",
-        "South Africa",
-        "Nigeria"
-      ],
-      "fetched": "2026-09-24"
-    },
     "https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56": {
       "locations": [
         "Remote - Canada, Canada",
@@ -496,7 +503,7 @@
         "Remote - Mexico, Mexico",
         "Remote - Brazil, Brazil"
       ],
-      "fetched": "2026-09-20"
+      "fetched": "2026-10-21"
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
@@ -505,14 +512,6 @@
     "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/11764": {
       "locations": [],
       "fetched": "2026-10-18"
-    },
-    "https://jobs.lever.co/binance/88fe7933-859b-47e7-a1a0-29c5e14de573": {
-      "locations": [
-        "Asia",
-        "Hong Kong",
-        "Taiwan, Taipei"
-      ],
-      "fetched": "2026-10-08"
     },
     "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
       "locations": [
@@ -570,6 +569,14 @@
       ],
       "fetched": "2026-09-29"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-10-21"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
         "China, Shanghai",
@@ -601,10 +608,6 @@
       ],
       "fetched": "2026-10-15"
     },
-    "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0138283": {
-      "locations": [],
-      "fetched": "2026-10-18"
-    },
     "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000003130": {
       "locations": [
         "Noida, India",
@@ -613,29 +616,11 @@
       "fetched": "2026-10-08"
     },
     "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Warsaw/Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": {
-      "locations": [],
-      "fetched": "2026-10-17"
-    },
-    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241": {
       "locations": [
-        "Toronto, Ontario",
-        "Waterloo, Ontario"
+        "Warsaw",
+        "Poznan"
       ],
-      "fetched": "2026-10-02"
-    },
-    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Toronto-Ontario/Data-Scientist_JR00128241-1": {
-      "locations": [
-        "Toronto, Ontario",
-        "Waterloo, Ontario"
-      ],
-      "fetched": "2026-10-02"
-    },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Data-Scientist-III---Financial-Crimes-Network-Analytics--ATH-5556-_R_1514553-1": {
-      "locations": [
-        "Toronto, Ontario",
-        "Markham, Ontario"
-      ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-10-21"
     },
     "https://tiaa.wd1.myworkdayjobs.com/en-US/search/job/Mumbai-India/Analyst---Data-Engineering_R260500232-1": {
       "locations": [
@@ -654,47 +639,47 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-17"
+      "fetched": "2026-10-21"
     },
     "https://www.google.com/about/careers/applications/jobs/results/134469159198040774": {
       "locations": [
@@ -744,13 +729,6 @@
         "Hong Kong",
         "Singapore",
         "Hong Kong, Singapore"
-      ],
-      "fetched": "2026-10-03"
-    },
-    "https://www.vectra.ai/about/jobs?gh_jid=8226353": {
-      "locations": [
-        "EMEA - Dublin, Ireland Office",
-        "Dublin ,Ireland"
       ],
       "fetched": "2026-10-03"
     }
