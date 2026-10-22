@@ -141,20 +141,21 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
-      "locations": [
-        "Athens, Greece",
-        "Thessaloniki, Greece",
-        "Greece"
-      ],
-      "fetched": "2026-10-21"
-    },
     "https://apply.workable.com/european-dynamics/j/D53EAA65D5/": {
       "locations": [
         "Athens, Greece",
         "Thessaloniki, Greece"
       ],
       "fetched": "2026-10-21"
+    },
+    "https://apply.workable.com/fioneer/j/0280755AB1/": {
+      "locations": [
+        "Walldorf, Germany",
+        "Munich, Germany",
+        "Berlin, Germany",
+        "Potsdam, Germany"
+      ],
+      "fetched": "2026-10-22"
     },
     "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
       "locations": [
@@ -165,6 +166,15 @@
         "Cluj-Napoca, Romania"
       ],
       "fetched": "2026-09-24"
+    },
+    "https://apply.workable.com/fioneer/j/BCEE6D9E88/": {
+      "locations": [
+        "Walldorf, Germany",
+        "Munich, Germany",
+        "Berlin, Germany",
+        "Potsdam, Germany"
+      ],
+      "fetched": "2026-10-22"
     },
     "https://apply.workable.com/lucidya/j/8120FF802B/": {
       "locations": [
@@ -234,12 +244,52 @@
       ],
       "fetched": "2026-10-10"
     },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055": {
+      "locations": [
+        "Kanata, Ontario, Canada",
+        "Saint-Laurent, Quebec, Canada",
+        "Calgary, Alberta, Canada",
+        "Montreal, Quebec, Canada",
+        "Vancouver, British Columbia, Canada",
+        "Ottawa, Ontario, Canada"
+      ],
+      "fetched": "2026-10-22"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139": {
+      "locations": [
+        "Kanata, Ontario, Canada",
+        "Saint-Laurent, Quebec, Canada",
+        "Calgary, Alberta, Canada",
+        "Toronto, Ontario, Canada",
+        "Montreal, Quebec, Canada",
+        "Vancouver, British Columbia, Canada",
+        "Ottawa, Ontario, Canada"
+      ],
+      "fetched": "2026-10-22"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Ottawa-Ontario-Canada/Software-Developer-II--Full-Time----Canada_2029337": {
+      "locations": [
+        "Ottawa, Ontario, Canada",
+        "Saint-Laurent, Quebec, Canada",
+        "Kanata, Ontario, Canada",
+        "Calgary, Alberta, Canada",
+        "Toronto, Ontario, Canada",
+        "Montreal, Quebec, Canada"
+      ],
+      "fetched": "2026-10-22"
+    },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
         "Brazil Remote",
         "Colombia Remote"
       ],
       "fetched": "2026-10-01"
+    },
+    "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/ITA---BA---BARI/Graduate-Academy---Full-Stack---AI-Assisted-Development_51592179": {
+      "locations": [
+        "ITA - BA - BARI"
+      ],
+      "fetched": "2026-10-22"
     },
     "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Milano-Sarca/Mulesoft-Developer-Junior_JR105349": {
       "locations": [
@@ -309,6 +359,27 @@
         "Las Rozas, Madrid, Spain"
       ],
       "fetched": "2026-09-25"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217809": {
+      "locations": [
+        "Chennai, Tamil Nadu, India",
+        "Bengaluru, Karnātaka, India"
+      ],
+      "fetched": "2026-10-22"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217809-2": {
+      "locations": [
+        "Chennai, Tamil Nadu, India",
+        "Bengaluru, Karnātaka, India"
+      ],
+      "fetched": "2026-10-22"
+    },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217809-1": {
+      "locations": [
+        "Chennai, Tamil Nadu, India",
+        "Bengaluru, Karnātaka, India"
+      ],
+      "fetched": "2026-10-22"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Penang/Graduate-Talent--Software-Application-Development-Engineer-_JR0287836": {
       "locations": [
@@ -413,6 +484,22 @@
       ],
       "fetched": "2026-10-11"
     },
+    "https://job-boards.greenhouse.io/geotab/jobs/5418735008": {
+      "locations": [
+        "Oakville",
+        "Toronto",
+        "Waterloo",
+        "Oakville, Ontario - Canada"
+      ],
+      "fetched": "2026-10-22"
+    },
+    "https://job-boards.greenhouse.io/rhombuspower/jobs/7808664003": {
+      "locations": [
+        "New Delhi, India",
+        "New Delhi, Delhi, India"
+      ],
+      "fetched": "2026-10-22"
+    },
     "https://job-boards.greenhouse.io/sezzle/jobs/8001111003": {
       "locations": [
         "Bogota, Colombia",
@@ -429,13 +516,6 @@
         "Stuttgart, DE"
       ],
       "fetched": "2026-10-17"
-    },
-    "https://job-boards.greenhouse.io/xtillion/jobs/5383270008": {
-      "locations": [
-        "San Juan",
-        "San Juan, Puerto Rico"
-      ],
-      "fetched": "2026-10-11"
     },
     "https://jobs.ashbyhq.com/docebo/8db6d80e-2327-45a7-bfd3-6967d30083ab": {
       "locations": [
@@ -487,15 +567,6 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://jobs.ashbyhq.com/salmon-group/c86be88e-8dbe-4953-b66e-15a01e181434": {
-      "locations": [
-        "Kazakhstan",
-        "Armenia",
-        "Serbia",
-        "Georgia"
-      ],
-      "fetched": "2026-10-04"
-    },
     "https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56": {
       "locations": [
         "Remote - Canada, Canada",
@@ -507,11 +578,11 @@
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
-      "fetched": "2026-10-18"
+      "fetched": "2026-10-22"
     },
     "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/11764": {
       "locations": [],
-      "fetched": "2026-10-18"
+      "fetched": "2026-10-22"
     },
     "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
       "locations": [
@@ -608,12 +679,23 @@
       ],
       "fetched": "2026-10-15"
     },
+    "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/": {
+      "locations": [],
+      "fetched": "2026-10-22"
+    },
     "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000003130": {
       "locations": [
         "Noida, India",
         "Hyderabad, India"
       ],
       "fetched": "2026-10-08"
+    },
+    "https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203": {
+      "locations": [
+        "Sydney",
+        "Baulkham Hills, Sydney"
+      ],
+      "fetched": "2026-10-22"
     },
     "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Warsaw/Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": {
       "locations": [
@@ -712,15 +794,6 @@
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [
         "Amsterdam"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://www.suvoda.com/careers/job-openings?gh_jid=8655889002": {
-      "locations": [
-        "Bucharest",
-        "Bucharest, Romania",
-        "Iasi, Romania",
-        "Remote - Romania"
       ],
       "fetched": "2026-10-08"
     },

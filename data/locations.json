@@ -1,12 +1,5 @@
 {
   "locations": {
-    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409": {
-      "locations": [
-        "Assago, Via del Mulino 11a",
-        "Roma"
-      ],
-      "fetched": "2026-10-08"
-    },
     "https://apply.workable.com/fioneer/j/44D612236D/": {
       "locations": [
         "Munich, Germany",
@@ -28,19 +21,17 @@
       ],
       "fetched": "2026-10-19"
     },
-    "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://borgwarner.wd5.myworkdayjobs.com/en-US/borgwarner_careers/job/Viana-do-Castelo-II---Portugal/NVH-Testing-Engineering-Intern_R2026-3130": {
+    "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1": {
       "locations": [
-        "Viana do Castelo II - Portugal"
+        "VALBONNE (Sophia)"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-10-22"
+    },
+    "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811-1": {
+      "locations": [
+        "VALBONNE (Sophia)"
+      ],
+      "fetched": "2026-10-22"
     },
     "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": {
       "locations": [
@@ -59,12 +50,6 @@
         "Montreal (St. Laurent)"
       ],
       "fetched": "2026-10-10"
-    },
-    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Tax-Intern---Tax-Technology---AI-Enablement_123617": {
-      "locations": [
-        "Montreal (St. Laurent)"
-      ],
-      "fetched": "2026-09-24"
     },
     "https://careers-bdobelgium.icims.com/jobs/2021/internship-deals-%26-data-analytics-advisor-bruxelles-%28f%c3%a9vrier-2027%29/job": {
       "locations": [
@@ -142,18 +127,18 @@
     },
     "https://gamebreaking-studios-inc.breezy.hr/p/2acb81097cb5-latin-america-software-engineering-intern": {
       "locations": [],
-      "fetched": "2026-10-18"
+      "fetched": "2026-10-22"
     },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
       "fetched": "2026-10-21"
     },
-    "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3": {
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": {
       "locations": [
         "Aguadilla, Puerto Rico, Puerto Rico",
         "San Juan, Puerto Rico, Puerto Rico"
       ],
-      "fetched": "2026-10-18"
+      "fetched": "2026-10-22"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/PRC-Shanghai/AI-GPU-Arch-Perf-Optimization-Intern_JR0287915": {
       "locations": [
@@ -182,6 +167,28 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8901885002": {
+      "locations": [
+        "Bristol",
+        "Cambridge",
+        "London",
+        "Bristol, UK",
+        "Cambridge, UK",
+        "London, UK"
+      ],
+      "fetched": "2026-10-22"
+    },
+    "https://job-boards.greenhouse.io/graphcore/jobs/8894738002": {
+      "locations": [
+        "Bristol",
+        "Cambridge",
+        "London",
+        "Bristol, UK",
+        "Cambridge, UK",
+        "London, UK"
+      ],
+      "fetched": "2026-10-22"
+    },
     "https://job-boards.greenhouse.io/monzo/jobs/8232726": {
       "locations": [
         "Cardiff, London",
@@ -203,13 +210,6 @@
         "Peru"
       ],
       "fetched": "2026-10-08"
-    },
-    "https://job-boards.greenhouse.io/xtillion/jobs/5436823008": {
-      "locations": [
-        "San Juan",
-        "San Juan, Puerto Rico"
-      ],
-      "fetched": "2026-10-02"
     },
     "https://jobs.ashbyhq.com/heidihealth.com.au/6e7f0482-3ac0-4805-9124-ff638de04a7e": {
       "locations": [
@@ -431,6 +431,14 @@
       ],
       "fetched": "2026-10-06"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210": {
+      "locations": [
+        "Germany, Munich",
+        "France, Courbevoie",
+        "Germany, Wuerselen"
+      ],
+      "fetched": "2026-10-22"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025": {
       "locations": [
         "Switzerland, Zurich",
@@ -580,7 +588,7 @@
     },
     "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8827778002": {
       "locations": [],
-      "fetched": "2026-10-18"
+      "fetched": "2026-10-22"
     },
     "https://www.gonitro.com/about/careers/8267425?gh_jid=8267425": {
       "locations": [
@@ -719,6 +727,12 @@
         "Paris"
       ],
       "fetched": "2026-10-08"
+    },
+    "https://www.metacareers.com/jobs/1476285977740386": {
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "fetched": "2026-10-22"
     },
     "https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002": {
       "locations": [
