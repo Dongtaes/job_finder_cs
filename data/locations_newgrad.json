@@ -64,62 +64,10 @@
       ],
       "fetched": "2026-10-10"
     },
-    "https://apply.workable.com/c-serv/j/8CFBEE225D/": {
-      "locations": [
-        "Bengaluru, India",
-        "Hyderabad, India",
-        "Gurugram, India"
-      ],
-      "fetched": "2026-10-02"
-    },
     "https://apply.workable.com/capgemini-insurance/j/8F4EE0B2C5/": {
       "locations": [
         "Pune, India",
         "Hyderabad, India"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://apply.workable.com/chaingpt/j/A50FF1150F/": {
-      "locations": [
-        "South Africa",
-        "Nigeria",
-        "Kenya",
-        "Egypt",
-        "Morocco",
-        "Ghana"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://apply.workable.com/chaingpt/j/AB4912BB25/": {
-      "locations": [
-        "Argentina",
-        "Brazil",
-        "Colombia",
-        "Mexico",
-        "Chile",
-        "Uruguay"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://apply.workable.com/chaingpt/j/B97342EDDA/": {
-      "locations": [
-        "South Africa",
-        "Nigeria",
-        "Kenya",
-        "Egypt",
-        "Ghana",
-        "Morocco"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://apply.workable.com/chaingpt/j/DAEE9DFB86/": {
-      "locations": [
-        "Poland",
-        "Romania",
-        "Serbia",
-        "Portugal",
-        "Spain",
-        "Ukraine"
       ],
       "fetched": "2026-10-08"
     },
@@ -157,16 +105,6 @@
       ],
       "fetched": "2026-10-22"
     },
-    "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
-      "locations": [
-        "Munich, Germany",
-        "Walldorf, Germany",
-        "Belgrade, Serbia",
-        "Berlin, Germany",
-        "Cluj-Napoca, Romania"
-      ],
-      "fetched": "2026-09-24"
-    },
     "https://apply.workable.com/fioneer/j/BCEE6D9E88/": {
       "locations": [
         "Walldorf, Germany",
@@ -183,6 +121,41 @@
         "Al Khobar, Saudi Arabia"
       ],
       "fetched": "2026-10-16"
+    },
+    "https://apply.workable.com/moomoo/j/3AE982BFD0/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-10-23"
+    },
+    "https://apply.workable.com/moomoo/j/5840F6A350/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-10-23"
+    },
+    "https://apply.workable.com/moomoo/j/A947A0EEA6/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-10-23"
+    },
+    "https://apply.workable.com/moomoo/j/AFC271F7AE/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-10-23"
+    },
+    "https://apply.workable.com/moomoo/j/EA926D35D8/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-10-23"
     },
     "https://apply.workable.com/supportyourapp/j/2D5D2ED023/": {
       "locations": [
@@ -235,7 +208,7 @@
     },
     "https://careers.n-ix.com/jobs/4994532101?gh_jid=4994532101": {
       "locations": [],
-      "fetched": "2026-10-19"
+      "fetched": "2026-10-23"
     },
     "https://centricsoftware.wd501.myworkdayjobs.com/en-US/centric/job/Toronto-ON/Azure-Cloud-Engineer_JR397": {
       "locations": [
@@ -290,6 +263,13 @@
         "ITA - BA - BARI"
       ],
       "fetched": "2026-10-22"
+    },
+    "https://edenpeople.wd3.myworkdayjobs.com/en-US/edenred_careers/job/Germany---Kleinostheim/RPG--SQL-Developer-for-Power-i--all-genders-_JR021432": {
+      "locations": [
+        "Germany - Kleinostheim",
+        "Germany - Frankfurt"
+      ],
+      "fetched": "2026-10-23"
     },
     "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Milano-Sarca/Mulesoft-Developer-Junior_JR105349": {
       "locations": [
@@ -672,6 +652,14 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Tel-Aviv/Software-Developer_JR2028112": {
+      "locations": [
+        "Israel, Tel Aviv",
+        "Israel, Raanana",
+        "Israel, Yokneam"
+      ],
+      "fetched": "2026-10-23"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611": {
       "locations": [
         "Taiwan, Taipei",
@@ -719,49 +707,19 @@
       ],
       "fetched": "2026-10-19"
     },
-    "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
-      "locations": [],
-      "fetched": "2026-10-21"
+    "https://www.axiomlaw.com/careers/lawyers/available-positions/8901836002?gh_jid=8901836002": {
+      "locations": [
+        "Singapore - Insourcing",
+        "APAC - Singapore - Singapore"
+      ],
+      "fetched": "2026-10-23"
     },
-    "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
-      "locations": [],
-      "fetched": "2026-10-21"
-    },
-    "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
-      "locations": [],
-      "fetched": "2026-10-21"
+    "https://www.google.com/about/careers/applications/jobs/results/133363303903568582": {
+      "locations": [
+        "Tel Aviv, Israel",
+        "Haifa, Israel"
+      ],
+      "fetched": "2026-10-23"
     },
     "https://www.google.com/about/careers/applications/jobs/results/134469159198040774": {
       "locations": [
