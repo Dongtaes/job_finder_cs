@@ -32,13 +32,6 @@
       ],
       "fetched": "2026-10-11"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Stockholm/Junior-Data-Engineer-Microsoft-Fabric---Azure_R00362624": {
-      "locations": [
-        "Stockholm",
-        "Gothenburg"
-      ],
-      "fetched": "2026-10-10"
-    },
     "https://airliquidehr.wd3.myworkdayjobs.com/en-US/airliquideexternalcareer/job/1-Powerhouse-HO---Sales---IM-BOS/SFE-Data-Analyst_R10086432": {
       "locations": [
         "1 Powerhouse HO - Sales - IM-BOS",
@@ -220,13 +213,6 @@
       ],
       "fetched": "2026-10-21"
     },
-    "https://careers-personifyhealth.icims.com/jobs/4814/site-reliability-engineer-i/job": {
-      "locations": [
-        "Tuzla, BIH",
-        "Sarajevo, BIH"
-      ],
-      "fetched": "2026-10-08"
-    },
     "https://careers-personifyhealth.icims.com/jobs/4879/devops-engineer-i/job": {
       "locations": [
         "Tuzla, BIH",
@@ -234,39 +220,12 @@
       ],
       "fetched": "2026-10-24"
     },
-    "https://careers.n-ix.com/jobs/4994532101?gh_jid=4994532101": {
-      "locations": [],
-      "fetched": "2026-10-23"
-    },
     "https://centricsoftware.wd501.myworkdayjobs.com/en-US/centric/job/Toronto-ON/Azure-Cloud-Engineer_JR397": {
       "locations": [
         "Toronto, ON",
         "Montreal, QC"
       ],
       "fetched": "2026-10-10"
-    },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055": {
-      "locations": [
-        "Kanata, Ontario, Canada",
-        "Saint-Laurent, Quebec, Canada",
-        "Calgary, Alberta, Canada",
-        "Montreal, Quebec, Canada",
-        "Vancouver, British Columbia, Canada",
-        "Ottawa, Ontario, Canada"
-      ],
-      "fetched": "2026-10-22"
-    },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139": {
-      "locations": [
-        "Kanata, Ontario, Canada",
-        "Saint-Laurent, Quebec, Canada",
-        "Calgary, Alberta, Canada",
-        "Toronto, Ontario, Canada",
-        "Montreal, Quebec, Canada",
-        "Vancouver, British Columbia, Canada",
-        "Ottawa, Ontario, Canada"
-      ],
-      "fetched": "2026-10-22"
     },
     "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Ottawa-Ontario-Canada/Software-Developer-II--Full-Time----Canada_2029337": {
       "locations": [
@@ -279,16 +238,21 @@
       ],
       "fetched": "2026-10-22"
     },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Vancouver-British-Columbia-Canada/Software-Developer-Full-Stack---Backend-II--Full-Time----Canada_2025999": {
+      "locations": [
+        "Vancouver, British Columbia, Canada",
+        "Kanata, Ontario, Canada",
+        "Calgary, Alberta, Canada",
+        "Toronto, Ontario, Canada"
+      ],
+      "fetched": "2026-10-26"
+    },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
         "Brazil Remote",
         "Colombia Remote"
       ],
       "fetched": "2026-10-01"
-    },
-    "https://dentsuaegis.wd3.myworkdayjobs.com/en-US/dan_global/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132487": {
-      "locations": [],
-      "fetched": "2026-10-24"
     },
     "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/ITA---BA---BARI/Graduate-Academy---Full-Stack---AI-Assisted-Development_51592179": {
       "locations": [
@@ -382,7 +346,7 @@
         "Sant Cugat del Valles, Barcelona, Spain",
         "Las Rozas, Madrid, Spain"
       ],
-      "fetched": "2026-09-25"
+      "fetched": "2026-10-26"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Penang/Graduate-Talent--Software-Application-Development-Engineer-_JR0287836": {
       "locations": [
@@ -580,11 +544,11 @@
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
-      "fetched": "2026-10-22"
+      "fetched": "2026-10-26"
     },
     "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/11764": {
       "locations": [],
-      "fetched": "2026-10-22"
+      "fetched": "2026-10-26"
     },
     "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
       "locations": [
@@ -622,7 +586,7 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
       "locations": [
         "Berlin - Mittelstrasse",
         "Frankfurt - Friedrich",
@@ -630,7 +594,7 @@
         "Hamburg - Brandstwiete",
         "Düsseldorf - Ko Quartier"
       ],
-      "fetched": "2026-09-29"
+      "fetched": "2026-10-26"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566": {
       "locations": [
@@ -681,14 +645,7 @@
     },
     "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/": {
       "locations": [],
-      "fetched": "2026-10-22"
-    },
-    "https://r1rcm.wd1.myworkdayjobs.com/en-US/r1rcm/job/Noida-India/Software-Engineer-I_R260000003130": {
-      "locations": [
-        "Noida, India",
-        "Hyderabad, India"
-      ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-10-26"
     },
     "https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203": {
       "locations": [
@@ -710,6 +667,20 @@
         "Poznan"
       ],
       "fetched": "2026-10-21"
+    },
+    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241": {
+      "locations": [
+        "Toronto, Ontario",
+        "Waterloo, Ontario"
+      ],
+      "fetched": "2026-10-26"
+    },
+    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced/job/Toronto-Ontario/Data-Scientist_JR00128241-1": {
+      "locations": [
+        "Toronto, Ontario",
+        "Waterloo, Ontario"
+      ],
+      "fetched": "2026-10-26"
     },
     "https://tiaa.wd1.myworkdayjobs.com/en-US/search/job/Mumbai-India/Analyst---Data-Engineering_R260500232-1": {
       "locations": [
