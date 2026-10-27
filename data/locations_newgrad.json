@@ -75,6 +75,14 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
+      "locations": [
+        "Athens, Greece",
+        "Thessaloniki, Greece",
+        "Greece"
+      ],
+      "fetched": "2026-10-27"
+    },
     "https://apply.workable.com/european-dynamics/j/D53EAA65D5/": {
       "locations": [
         "Athens, Greece",
@@ -348,6 +356,10 @@
       ],
       "fetched": "2026-10-26"
     },
+    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Bengaluru-Karntaka-India/Graduate-Software-Engineer_1210218-2": {
+      "locations": [],
+      "fetched": "2026-10-27"
+    },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Penang/Graduate-Talent--Software-Application-Development-Engineer-_JR0287836": {
       "locations": [
         "Malaysia, Penang",
@@ -533,6 +545,13 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://jobs.ashbyhq.com/sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f": {
+      "locations": [
+        "Melbourne Office, Australia",
+        "Sydney Office, Australia"
+      ],
+      "fetched": "2026-10-27"
+    },
     "https://jobs.ashbyhq.com/voldex/00b44f87-5b37-47fe-95df-b33a8fe14b56": {
       "locations": [
         "Remote - Canada, Canada",
@@ -628,14 +647,6 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Tel-Aviv/Software-Developer_JR2028112": {
-      "locations": [
-        "Israel, Tel Aviv",
-        "Israel, Raanana",
-        "Israel, Yokneam"
-      ],
-      "fetched": "2026-10-23"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611": {
       "locations": [
         "Taiwan, Taipei",
@@ -687,7 +698,7 @@
         "Mumbai, India",
         "Pune, IND"
       ],
-      "fetched": "2026-09-26"
+      "fetched": "2026-10-27"
     },
     "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Chennai-India/Engr-II-Data-Science_R-1102771": {
       "locations": [
