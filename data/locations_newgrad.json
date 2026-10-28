@@ -99,6 +99,16 @@
       ],
       "fetched": "2026-10-22"
     },
+    "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
+      "locations": [
+        "Munich, Germany",
+        "Walldorf, Germany",
+        "Belgrade, Serbia",
+        "Berlin, Germany",
+        "Cluj-Napoca, Romania"
+      ],
+      "fetched": "2026-10-28"
+    },
     "https://apply.workable.com/fioneer/j/BCEE6D9E88/": {
       "locations": [
         "Walldorf, Germany",
@@ -137,13 +147,6 @@
       ],
       "fetched": "2026-10-23"
     },
-    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
-      "locations": [
-        "Hong Kong",
-        "Shenzhen, China"
-      ],
-      "fetched": "2026-10-24"
-    },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
         "Hong Kong",
@@ -171,6 +174,13 @@
         "Shenzhen, China"
       ],
       "fetched": "2026-10-23"
+    },
+    "https://apply.workable.com/moomoo/j/E7E3E62EA2/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-10-28"
     },
     "https://apply.workable.com/moomoo/j/EA926D35D8/": {
       "locations": [
@@ -528,23 +538,6 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://jobs.ashbyhq.com/mollie/ff439d94-cfb5-4523-8e99-a19edcb56ed6": {
-      "locations": [
-        "Lisbon, Portugal",
-        "Amsterdam, Netherlands"
-      ],
-      "fetched": "2026-10-21"
-    },
-    "https://jobs.ashbyhq.com/obrio/9f1f4adb-f78d-403c-8ecb-1512d5f2bc13": {
-      "locations": [
-        "Remote – Ukraine, Ukraine",
-        "Warsaw (Office), Poland",
-        "Remote – Poland, Poland",
-        "Kyiv (Office), Ukraine",
-        "Lviv (Office), Ukraine"
-      ],
-      "fetched": "2026-10-08"
-    },
     "https://jobs.ashbyhq.com/sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f": {
       "locations": [
         "Melbourne Office, Australia",
@@ -615,6 +608,13 @@
       ],
       "fetched": "2026-10-26"
     },
+    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
+      "locations": [
+        "Gatineau, Canada",
+        "Ottawa, Canada"
+      ],
+      "fetched": "2026-10-28"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566": {
       "locations": [
         "China, Shanghai",
@@ -665,19 +665,21 @@
       ],
       "fetched": "2026-10-22"
     },
-    "https://rbc.wd3.myworkdayjobs.com/en-US/externalprivatepostingstudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669": {
-      "locations": [
-        "TORONTO, Ontario, Canada",
-        "VANCOUVER, British Columbia, Canada"
-      ],
-      "fetched": "2026-10-24"
-    },
     "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Warsaw/Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": {
       "locations": [
         "Warsaw",
         "Poznan"
       ],
       "fetched": "2026-10-21"
+    },
+    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Pune-India/SAP-ABAP-Developer_R26-5730": {
+      "locations": [
+        "Pune, India",
+        "Chennai, India",
+        "India New Delhi (Noida)",
+        "Bengaluru, India"
+      ],
+      "fetched": "2026-10-28"
     },
     "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241": {
       "locations": [
@@ -724,47 +726,47 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     },
     "https://www.google.com/about/careers/applications/jobs/results/133363303903568582": {
       "locations": [
@@ -773,12 +775,12 @@
       ],
       "fetched": "2026-10-23"
     },
-    "https://www.google.com/about/careers/applications/jobs/results/75076499224306374": {
+    "https://www.google.com/about/careers/applications/jobs/results/139608513574773446": {
       "locations": [
-        "Gurugram, Haryana, India",
-        "Hyderabad, Telangana, India"
+        "Tel Aviv, Israel",
+        "Haifa, Israel"
       ],
-      "fetched": "2026-10-12"
+      "fetched": "2026-10-28"
     },
     "https://www.observe.ai/position?gh_jid=5432596008": {
       "locations": [
@@ -803,7 +805,7 @@
     },
     "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5228738007": {
       "locations": [],
-      "fetched": "2026-10-24"
+      "fetched": "2026-10-28"
     }
   }
 }
