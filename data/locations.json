@@ -90,14 +90,14 @@
     },
     "https://gamebreaking-studios-inc.breezy.hr/p/2acb81097cb5-latin-america-software-engineering-intern": {
       "locations": [],
-      "fetched": "2026-10-26"
+      "fetched": "2026-10-30"
     },
-    "https://heinz.wd1.myworkdayjobs.com/en-US/kraftheinz_careers/job/Nijmegen/Data-Analyst-Intern_R-108008-1": {
+    "https://heinz.wd1.myworkdayjobs.com/en-US/kraftheinz_careers/job/Nijmegen/Data-Analyst-Intern_R-108038": {
       "locations": [
         "Nijmegen",
         "Amsterdam"
       ],
-      "fetched": "2026-10-28"
+      "fetched": "2026-10-30"
     },
     "https://heinz.wd1.myworkdayjobs.com/en-US/kraftheinz_careers_ur/job/Nijmegen/Data-Analyst-Intern_R-108008-2": {
       "locations": [],
@@ -193,6 +193,22 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33": {
+      "locations": [
+        "Brussels, Belgium",
+        "London, United Kingdom",
+        "London OR Brussels, United Kingdom"
+      ],
+      "fetched": "2026-10-30"
+    },
+    "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313": {
+      "locations": [
+        "Brussels, Belgium",
+        "London, United Kingdom",
+        "London OR Brussels, United Kingdom"
+      ],
+      "fetched": "2026-10-30"
+    },
     "https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e": {
       "locations": [
         "Paris, France",
@@ -272,6 +288,13 @@
         "Eindhoven"
       ],
       "fetched": "2026-10-25"
+    },
+    "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348": {
+      "locations": [
+        "Waterloo, Ontario",
+        "Toronto, Ontario"
+      ],
+      "fetched": "2026-10-30"
     },
     "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Munich---Mllerstrasse/Praktikant-in-Quantitative-Investments--m-w-d-_R_370852": {
       "locations": [
@@ -442,17 +465,6 @@
       ],
       "fetched": "2026-10-22"
     },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942": {
-      "locations": [
-        "Germany, Remote",
-        "France, Courbevoie",
-        "Netherlands, Remote",
-        "Germany, Munich",
-        "France, Remote",
-        "Germany, Berlin"
-      ],
-      "fetched": "2026-10-28"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025": {
       "locations": [
         "Switzerland, Zurich",
@@ -518,15 +530,6 @@
         "Switzerland, Zurich"
       ],
       "fetched": "2026-10-15"
-    },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939": {
-      "locations": [
-        "UK, Remote",
-        "UK, Bristol",
-        "UK, Belfast",
-        "UK, Reading"
-      ],
-      "fetched": "2026-10-28"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301": {
       "locations": [
@@ -605,7 +608,7 @@
     },
     "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8827778002": {
       "locations": [],
-      "fetched": "2026-10-26"
+      "fetched": "2026-10-30"
     },
     "https://www.gonitro.com/about/careers/8312590?gh_jid=8312590": {
       "locations": [

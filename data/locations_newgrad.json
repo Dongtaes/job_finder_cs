@@ -13,20 +13,13 @@
       ],
       "fetched": "2026-10-21"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Torino/Full-Stack-Developer---Data-Platform-Junior_R00367526": {
-      "locations": [],
-      "fetched": "2026-10-29"
-    },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Madrid-Castellana-85/Junior-M365-Developer--SharePoint---SPFx---React-_R00368037": {
       "locations": [
-        "Bologna",
-        "Padova",
-        "Roma",
-        "Cagliari",
-        "Torino",
-        "Napoli"
+        "Madrid, Castellana 85",
+        "Malaga, I+D6 - South Building",
+        "Barcelona, La Rotonda"
       ],
-      "fetched": "2026-10-11"
+      "fetched": "2026-10-30"
     },
     "https://airliquidehr.wd3.myworkdayjobs.com/en-US/airliquideexternalcareer/job/1-Powerhouse-HO---Sales---IM-BOS/SFE-Data-Analyst_R10086432": {
       "locations": [
@@ -53,16 +46,6 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://apply.workable.com/emerging-travel-group/j/65CCD0B18E/": {
-      "locations": [
-        "Georgia",
-        "Armenia",
-        "Poland",
-        "Vietnam",
-        "Bulgaria"
-      ],
-      "fetched": "2026-10-03"
-    },
     "https://apply.workable.com/european-dynamics/j/20BADA7218/": {
       "locations": [
         "Thessaloniki, Greece",
@@ -87,16 +70,6 @@
       ],
       "fetched": "2026-10-22"
     },
-    "https://apply.workable.com/fioneer/j/2FD9B23C22/": {
-      "locations": [
-        "Munich, Germany",
-        "Walldorf, Germany",
-        "Belgrade, Serbia",
-        "Berlin, Germany",
-        "Cluj-Napoca, Romania"
-      ],
-      "fetched": "2026-10-28"
-    },
     "https://apply.workable.com/fioneer/j/BCEE6D9E88/": {
       "locations": [
         "Walldorf, Germany",
@@ -113,6 +86,13 @@
         "Al Khobar, Saudi Arabia"
       ],
       "fetched": "2026-10-16"
+    },
+    "https://apply.workable.com/moomoo/j/10A30F877D/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-10-30"
     },
     "https://apply.workable.com/moomoo/j/389E02254B/": {
       "locations": [
@@ -135,13 +115,6 @@
       ],
       "fetched": "2026-10-23"
     },
-    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
-      "locations": [
-        "Hong Kong",
-        "Shenzhen, China"
-      ],
-      "fetched": "2026-10-29"
-    },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
         "Hong Kong",
@@ -155,6 +128,13 @@
         "Shenzhen, China"
       ],
       "fetched": "2026-10-24"
+    },
+    "https://apply.workable.com/moomoo/j/A947A0EEA6/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-10-30"
     },
     "https://apply.workable.com/moomoo/j/AFC271F7AE/": {
       "locations": [
@@ -186,12 +166,6 @@
         "Romania"
       ],
       "fetched": "2026-10-08"
-    },
-    "https://autodesk.wd1.myworkdayjobs.com/en-US/ext/job/EMEA---Poland---Krakw---Lubomirskiego/Full-Stack-Software-Development-Engineer_26WD100347": {
-      "locations": [
-        "EMEA - Poland - Kraków - Lubomirskiego"
-      ],
-      "fetched": "2026-10-21"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
       "locations": [
@@ -233,14 +207,17 @@
       ],
       "fetched": "2026-10-10"
     },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Vancouver-British-Columbia-Canada/Software-Developer-Full-Stack---Backend-II--Full-Time----Canada_2025999": {
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139": {
       "locations": [
-        "Vancouver, British Columbia, Canada",
         "Kanata, Ontario, Canada",
+        "Saint-Laurent, Quebec, Canada",
         "Calgary, Alberta, Canada",
-        "Toronto, Ontario, Canada"
+        "Toronto, Ontario, Canada",
+        "Montreal, Quebec, Canada",
+        "Vancouver, British Columbia, Canada",
+        "Ottawa, Ontario, Canada"
       ],
-      "fetched": "2026-10-26"
+      "fetched": "2026-10-30"
     },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
@@ -248,12 +225,6 @@
         "Colombia Remote"
       ],
       "fetched": "2026-10-01"
-    },
-    "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/ITA---BA---BARI/Graduate-Academy---Full-Stack---AI-Assisted-Development_51592179": {
-      "locations": [
-        "ITA - BA - BARI"
-      ],
-      "fetched": "2026-10-22"
     },
     "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR37744": {
       "locations": [
@@ -528,11 +499,11 @@
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
-      "fetched": "2026-10-26"
+      "fetched": "2026-10-30"
     },
     "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/11764": {
       "locations": [],
-      "fetched": "2026-10-26"
+      "fetched": "2026-10-30"
     },
     "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
       "locations": [
@@ -618,13 +589,12 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Raanana/Networking-Software-Architect_JR2024815": {
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556": {
       "locations": [
-        "Israel, Raanana",
         "Israel, Tel Aviv",
-        "Israel, Yokneam"
+        "Israel, Beer Sheva"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-10-30"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611": {
       "locations": [
@@ -635,7 +605,7 @@
     },
     "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/": {
       "locations": [],
-      "fetched": "2026-10-26"
+      "fetched": "2026-10-30"
     },
     "https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203": {
       "locations": [
@@ -659,6 +629,13 @@
         "Bengaluru, India"
       ],
       "fetched": "2026-10-28"
+    },
+    "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1": {
+      "locations": [
+        "Gdansk, Poland",
+        "BIG - Zielinskiego Krakow"
+      ],
+      "fetched": "2026-10-30"
     },
     "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Toronto-Ontario/Data-Scientist_JR00128241": {
       "locations": [
@@ -761,6 +738,10 @@
       ],
       "fetched": "2026-10-28"
     },
+    "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002": {
+      "locations": [],
+      "fetched": "2026-10-30"
+    },
     "https://www.observe.ai/position?gh_jid=5432596008": {
       "locations": [
         "Bengaluru",
@@ -781,10 +762,6 @@
         "Hong Kong, Singapore"
       ],
       "fetched": "2026-10-03"
-    },
-    "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5228738007": {
-      "locations": [],
-      "fetched": "2026-10-28"
     }
   }
 }
