@@ -101,11 +101,14 @@
     },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
-      "fetched": "2026-10-29"
+      "fetched": "2026-11-02"
     },
-    "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/TRC-Amsterdam---Treasury-Center/Internship---Financial-Markets---Quantitative-Analytics_REQ-10123872": {
-      "locations": [],
-      "fetched": "2026-10-31"
+    "https://hpe.wd5.myworkdayjobs.com/en-US/wfmathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275": {
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "fetched": "2026-11-02"
     },
     "https://intel.wd1.myworkdayjobs.com/en-US/external/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692": {
       "locations": [
@@ -152,14 +155,6 @@
         "London, UK"
       ],
       "fetched": "2026-10-22"
-    },
-    "https://job-boards.greenhouse.io/monzo/jobs/8232726": {
-      "locations": [
-        "Cardiff, London",
-        "Remote (UK)",
-        "London"
-      ],
-      "fetched": "2026-10-31"
     },
     "https://job-boards.greenhouse.io/sezzle/jobs/7906408003": {
       "locations": [
@@ -294,6 +289,13 @@
       ],
       "fetched": "2026-11-01"
     },
+    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786": {
+      "locations": [
+        "Ulm",
+        "Stuttgart"
+      ],
+      "fetched": "2026-11-02"
+    },
     "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Munich---Mllerstrasse/Praktikant-in-Quantitative-Investments--m-w-d-_R_370852": {
       "locations": [
         "Munich - Müllerstrasse",
@@ -349,7 +351,7 @@
         "China, Shanghai",
         "China, Beijing"
       ],
-      "fetched": "2026-10-02"
+      "fetched": "2026-11-02"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784": {
       "locations": [
@@ -363,7 +365,7 @@
         "China, Shanghai",
         "China, Beijing"
       ],
-      "fetched": "2026-10-02"
+      "fetched": "2026-11-02"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546": {
       "locations": [
@@ -429,13 +431,11 @@
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
       "locations": [
-        "Switzerland, Zurich",
+        "Germany, Munich",
         "France, Courbevoie",
-        "UK, Bristol",
-        "Germany, Wuerselen",
-        "Germany, Munich"
+        "Germany, Wuerselen"
       ],
-      "fetched": "2026-10-02"
+      "fetched": "2026-11-02"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949": {
       "locations": [
