@@ -120,19 +120,19 @@
       ],
       "fetched": "2026-10-24"
     },
-    "https://apply.workable.com/moomoo/j/3AE982BFD0/": {
-      "locations": [
-        "Hong Kong",
-        "Shenzhen, China"
-      ],
-      "fetched": "2026-11-02"
-    },
     "https://apply.workable.com/moomoo/j/5840F6A350/": {
       "locations": [
         "Hong Kong",
         "Shenzhen, China"
       ],
       "fetched": "2026-10-23"
+    },
+    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-11-03"
     },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
@@ -218,22 +218,6 @@
         "Montreal, QC"
       ],
       "fetched": "2026-10-10"
-    },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Full-Time----Canada_2024055": {
-      "locations": [],
-      "fetched": "2026-11-02"
-    },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139": {
-      "locations": [
-        "Kanata, Ontario, Canada",
-        "Saint-Laurent, Quebec, Canada",
-        "Calgary, Alberta, Canada",
-        "Toronto, Ontario, Canada",
-        "Montreal, Quebec, Canada",
-        "Vancouver, British Columbia, Canada",
-        "Ottawa, Ontario, Canada"
-      ],
-      "fetched": "2026-10-30"
     },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
@@ -490,11 +474,11 @@
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
-      "fetched": "2026-10-30"
+      "fetched": "2026-11-03"
     },
     "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/11764": {
       "locations": [],
-      "fetched": "2026-10-30"
+      "fetched": "2026-11-03"
     },
     "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
       "locations": [
@@ -573,7 +557,7 @@
     },
     "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/": {
       "locations": [],
-      "fetched": "2026-10-30"
+      "fetched": "2026-11-03"
     },
     "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer---iOS_R0138550-1": {
       "locations": [
@@ -690,7 +674,7 @@
     },
     "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002": {
       "locations": [],
-      "fetched": "2026-10-30"
+      "fetched": "2026-11-03"
     },
     "https://www.observe.ai/position?gh_jid=5432596008": {
       "locations": [
@@ -708,10 +692,9 @@
     "https://www.tower-research.com/open-positions/?gh_jid=8245433": {
       "locations": [
         "Hong Kong",
-        "Singapore",
         "Hong Kong, Singapore"
       ],
-      "fetched": "2026-10-03"
+      "fetched": "2026-11-03"
     }
   }
 }
