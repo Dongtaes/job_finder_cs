@@ -1,5 +1,12 @@
 {
   "locations": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bratislava/Junior-Software-Engineer---Pega-Career-Path_R00299753": {
+      "locations": [
+        "Bratislava",
+        "Kosice"
+      ],
+      "fetched": "2026-11-04"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
       "locations": [
         "Kronberg",
@@ -13,14 +20,6 @@
       ],
       "fetched": "2026-10-21"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Torino/Full-Stack-Developer---Data-Platform-Junior_R00367526": {
-      "locations": [
-        "Torino",
-        "Roma",
-        "Assago, Via del Mulino 11a"
-      ],
-      "fetched": "2026-11-01"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
       "locations": [
         "Bologna",
@@ -31,14 +30,6 @@
         "Napoli"
       ],
       "fetched": "2026-10-31"
-    },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Madrid-Castellana-85/Junior-M365-Developer--SharePoint---SPFx---React-_R00368037": {
-      "locations": [
-        "Madrid, Castellana 85",
-        "Malaga, I+D6 - South Building",
-        "Barcelona, La Rotonda"
-      ],
-      "fetched": "2026-10-30"
     },
     "https://airliquidehr.wd3.myworkdayjobs.com/en-US/airliquideexternalcareer/job/1-Powerhouse-HO---Sales---IM-BOS/SFE-Data-Analyst_R10086432": {
       "locations": [
@@ -205,6 +196,10 @@
       ],
       "fetched": "2026-10-21"
     },
+    "https://careers-personifyhealth.icims.com/jobs/4841/site-reliability-engineer-i/job": {
+      "locations": [],
+      "fetched": "2026-11-04"
+    },
     "https://careers-personifyhealth.icims.com/jobs/4879/devops-engineer-i/job": {
       "locations": [
         "Tuzla, BIH",
@@ -253,6 +248,20 @@
         "Treviolo (Piave)"
       ],
       "fetched": "2026-11-02"
+    },
+    "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Roma--Ple-Agricoltura/Junior-Agentic-Developer_JR105319": {
+      "locations": [
+        "Roma  (P.le Agricoltura)",
+        "Milano (Bassi)",
+        "Palermo (Reg. Siciliana)",
+        "Bologna (Marconi)",
+        "Padova (C.so Stati Uniti)",
+        "Genova (Col)",
+        "Bari (La Marchesa)",
+        "Torino (C.so Mortara)",
+        "Napoli  (Centro direz.C1 Torre Saverio)"
+      ],
+      "fetched": "2026-11-04"
     },
     "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Torino-Cso-Mortara/Junior-Product-Developer-L68-99---Torino_JR105449": {
       "locations": [
@@ -437,7 +446,7 @@
         "Biassono, Italy, Italy",
         "Milan, Italy, Italy"
       ],
-      "fetched": "2026-10-04"
+      "fetched": "2026-11-04"
     },
     "https://jobs.ashbyhq.com/hirehangar/3c708fbc-3ef1-437f-b45b-7277ed2e3adf": {
       "locations": [
@@ -495,28 +504,7 @@
       ],
       "fetched": "2026-10-15"
     },
-    "https://jobs.lever.co/sysdig/af7fe5ab-9d5a-453c-8d6b-45772713246c": {
-      "locations": [
-        "Flexible, Spain",
-        "Flexible - Costa Rica"
-      ],
-      "fetched": "2026-10-14"
-    },
-    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006656": {
-      "locations": [
-        "Ulm",
-        "Stuttgart"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Duales-Studium-Wirtschaftsinformatik-Schwerpunkt-Data-Science---Knstliche-Intelligenz-in-Kooperation-mit-der-Dualen-Hochschule-Baden-Wrttemberg-2027--m-w-d-x-_R0006810": {
-      "locations": [
-        "Ulm",
-        "Stuttgart"
-      ],
-      "fetched": "2026-10-08"
-    },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
       "locations": [
         "Berlin - Mittelstrasse",
         "Frankfurt - Friedrich",
@@ -524,7 +512,7 @@
         "Hamburg - Brandstwiete",
         "Düsseldorf - Ko Quartier"
       ],
-      "fetched": "2026-11-02"
+      "fetched": "2026-11-04"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
       "locations": [
@@ -554,6 +542,13 @@
         "Taiwan, Hsinchu"
       ],
       "fetched": "2026-10-15"
+    },
+    "https://oldmutual.wd3.myworkdayjobs.com/en-US/old_mutual_careers/job/Johannesburg/OM-Bank---Data-Analyst_JR-84987": {
+      "locations": [
+        "Johannesburg",
+        "Cape Town"
+      ],
+      "fetched": "2026-11-04"
     },
     "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/": {
       "locations": [],
@@ -589,15 +584,6 @@
         "Poznan"
       ],
       "fetched": "2026-10-21"
-    },
-    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Pune-India/SAP-ABAP-Developer_R26-5730": {
-      "locations": [
-        "Pune, India",
-        "Chennai, India",
-        "India New Delhi (Noida)",
-        "Bengaluru, India"
-      ],
-      "fetched": "2026-10-28"
     },
     "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
       "locations": [
