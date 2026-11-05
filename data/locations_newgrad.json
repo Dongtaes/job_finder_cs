@@ -1,12 +1,5 @@
 {
   "locations": {
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bratislava/Junior-Software-Engineer---Pega-Career-Path_R00299753": {
-      "locations": [
-        "Bratislava",
-        "Kosice"
-      ],
-      "fetched": "2026-11-04"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
       "locations": [
         "Kronberg",
@@ -30,6 +23,14 @@
         "Napoli"
       ],
       "fetched": "2026-10-31"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Madrid-Castellana-85/Junior-M365-Developer--SharePoint---SPFx---React-_R00368037": {
+      "locations": [
+        "Madrid, Castellana 85",
+        "Malaga, I+D6 - South Building",
+        "Barcelona, La Rotonda"
+      ],
+      "fetched": "2026-11-05"
     },
     "https://airliquidehr.wd3.myworkdayjobs.com/en-US/airliquideexternalcareer/job/1-Powerhouse-HO---Sales---IM-BOS/SFE-Data-Analyst_R10086432": {
       "locations": [
@@ -111,19 +112,19 @@
       ],
       "fetched": "2026-10-24"
     },
+    "https://apply.workable.com/moomoo/j/3AE982BFD0/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-11-05"
+    },
     "https://apply.workable.com/moomoo/j/5840F6A350/": {
       "locations": [
         "Hong Kong",
         "Shenzhen, China"
       ],
       "fetched": "2026-10-23"
-    },
-    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
-      "locations": [
-        "Hong Kong",
-        "Shenzhen, China"
-      ],
-      "fetched": "2026-11-03"
     },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
@@ -196,10 +197,6 @@
       ],
       "fetched": "2026-10-21"
     },
-    "https://careers-personifyhealth.icims.com/jobs/4841/site-reliability-engineer-i/job": {
-      "locations": [],
-      "fetched": "2026-11-04"
-    },
     "https://careers-personifyhealth.icims.com/jobs/4879/devops-engineer-i/job": {
       "locations": [
         "Tuzla, BIH",
@@ -220,6 +217,12 @@
         "Colombia Remote"
       ],
       "fetched": "2026-11-01"
+    },
+    "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/ITA---BA---BARI/Graduate-Academy---Full-Stack---AI-Assisted-Development_51592179": {
+      "locations": [
+        "ITA - BA - BARI"
+      ],
+      "fetched": "2026-11-05"
     },
     "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR37744": {
       "locations": [
@@ -286,12 +289,6 @@
       ],
       "fetched": "2026-10-29"
     },
-    "https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/UK--London--New-Oxford-Street/Programming--Statistics---Data-Science--Multiple-Roles--Industrial-Placement--2027_446656": {
-      "locations": [
-        "UK – London – New Oxford Street"
-      ],
-      "fetched": "2026-10-25"
-    },
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
       "locations": [
         "Sant Cugat del Valles, Barcelona, Spain",
@@ -305,13 +302,6 @@
         "Las Rozas, Madrid, Spain"
       ],
       "fetched": "2026-10-26"
-    },
-    "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Malaysia-Penang/Graduate-Talent--Software-Application-Development-Engineer-_JR0287836": {
-      "locations": [
-        "Malaysia, Penang",
-        "Malaysia, Kulim"
-      ],
-      "fetched": "2026-10-10"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999603101": {
       "locations": [
@@ -381,33 +371,12 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://job-boards.greenhouse.io/encora10/jobs/5249306007": {
+    "https://job-boards.greenhouse.io/exadelinc/jobs/6242285004": {
       "locations": [
-        "Campinas",
-        "Costa Rica"
+        "Americas",
+        "Canada"
       ],
-      "fetched": "2026-10-11"
-    },
-    "https://job-boards.greenhouse.io/encora10/jobs/5262806007": {
-      "locations": [
-        "Campinas",
-        "Peru"
-      ],
-      "fetched": "2026-10-11"
-    },
-    "https://job-boards.greenhouse.io/encora10/jobs/5262807007": {
-      "locations": [
-        "Campinas",
-        "Colombia"
-      ],
-      "fetched": "2026-10-11"
-    },
-    "https://job-boards.greenhouse.io/encora10/jobs/5262808007": {
-      "locations": [
-        "Campinas",
-        "Bolivia"
-      ],
-      "fetched": "2026-10-11"
+      "fetched": "2026-11-05"
     },
     "https://job-boards.greenhouse.io/rhombuspower/jobs/7808664003": {
       "locations": [
@@ -504,7 +473,14 @@
       ],
       "fetched": "2026-10-15"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
+    "https://lifeworks.wd3.myworkdayjobs.com/en-US/external/job/Toronto-Ontario-Canada/System-Analyst_R-22736": {
+      "locations": [
+        "Toronto, Ontario, Canada",
+        "Montreal, Quebec, Canada"
+      ],
+      "fetched": "2026-11-05"
+    },
+    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
       "locations": [
         "Berlin - Mittelstrasse",
         "Frankfurt - Friedrich",
@@ -512,7 +488,7 @@
         "Hamburg - Brandstwiete",
         "Düsseldorf - Ko Quartier"
       ],
-      "fetched": "2026-11-04"
+      "fetched": "2026-11-05"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
       "locations": [
@@ -554,13 +530,6 @@
       "locations": [],
       "fetched": "2026-11-03"
     },
-    "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer---iOS_R0138550-1": {
-      "locations": [
-        "Bangalore, Karnataka, India",
-        "Chennai, Tamil Nadu, India"
-      ],
-      "fetched": "2026-11-01"
-    },
     "https://pwc.wd3.myworkdayjobs.com/en-US/global_experienced_careers/job/Warszawa/Cloud-Security-Engineer--Wiz-----Managed-Services-Operations_770736WD-1": {
       "locations": [
         "Warszawa",
@@ -578,12 +547,17 @@
       ],
       "fetched": "2026-10-22"
     },
-    "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Warsaw/Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284": {
+    "https://vhr-jazz.wd1.myworkdayjobs.com/en-US/jazzpharmaceuticals/job/UK---Home-Based/AI-Data-Science-Analyst_R040303-1": {
       "locations": [
-        "Warsaw",
-        "Poznan"
+        "UK - Home-Based, United Kingdom"
       ],
-      "fetched": "2026-10-21"
+      "fetched": "2026-11-05"
+    },
+    "https://vhr-jazz.wd1.myworkdayjobs.com/en-US/jazzpharmaceuticals/job/UK---Home-Based/AI-Data-Science-Analyst_R040305-1": {
+      "locations": [
+        "UK - Home-Based, United Kingdom"
+      ],
+      "fetched": "2026-11-05"
     },
     "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
       "locations": [
@@ -602,47 +576,47 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-05"
     },
     "https://www.google.com/about/careers/applications/jobs/results/133363303903568582": {
       "locations": [
