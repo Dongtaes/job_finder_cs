@@ -65,30 +65,20 @@
       ],
       "fetched": "2026-10-08"
     },
+    "https://apply.workable.com/european-dynamics/j/97BD796FE1/": {
+      "locations": [
+        "Athens, Greece",
+        "Thessaloniki, Greece",
+        "Greece"
+      ],
+      "fetched": "2026-11-06"
+    },
     "https://apply.workable.com/european-dynamics/j/D53EAA65D5/": {
       "locations": [
         "Athens, Greece",
         "Thessaloniki, Greece"
       ],
       "fetched": "2026-10-21"
-    },
-    "https://apply.workable.com/fioneer/j/0280755AB1/": {
-      "locations": [
-        "Walldorf, Germany",
-        "Munich, Germany",
-        "Berlin, Germany",
-        "Potsdam, Germany"
-      ],
-      "fetched": "2026-10-22"
-    },
-    "https://apply.workable.com/fioneer/j/BCEE6D9E88/": {
-      "locations": [
-        "Walldorf, Germany",
-        "Munich, Germany",
-        "Berlin, Germany",
-        "Potsdam, Germany"
-      ],
-      "fetched": "2026-10-22"
     },
     "https://apply.workable.com/lucidya/j/8120FF802B/": {
       "locations": [
@@ -126,19 +116,19 @@
       ],
       "fetched": "2026-10-23"
     },
+    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-11-06"
+    },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
         "Hong Kong",
         "Shenzhen, China"
       ],
       "fetched": "2026-10-24"
-    },
-    "https://apply.workable.com/moomoo/j/8B0263D75A/": {
-      "locations": [
-        "Hong Kong",
-        "Shenzhen, China"
-      ],
-      "fetched": "2026-11-01"
     },
     "https://apply.workable.com/moomoo/j/A947A0EEA6/": {
       "locations": [
@@ -266,12 +256,6 @@
       ],
       "fetched": "2026-11-04"
     },
-    "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Torino-Cso-Mortara/Junior-Product-Developer-L68-99---Torino_JR105449": {
-      "locations": [
-        "Torino (C.so Mortara)"
-      ],
-      "fetched": "2026-10-29"
-    },
     "https://flaschenpost.wd103.myworkdayjobs.com/en-US/flaschenpost/job/Office-Mnster/Junior-Analyst--m-w-d----Category-Management---AI-Enablement_JR1258": {
       "locations": [
         "Office Münster",
@@ -331,20 +315,6 @@
       ],
       "fetched": "2026-10-10"
     },
-    "https://job-boards.greenhouse.io/affirm/jobs/7807506003": {
-      "locations": [
-        "Remote Poland",
-        "Remote Spain"
-      ],
-      "fetched": "2026-10-25"
-    },
-    "https://job-boards.greenhouse.io/affirm/jobs/7807508003": {
-      "locations": [
-        "Remote Poland",
-        "Remote Spain"
-      ],
-      "fetched": "2026-10-08"
-    },
     "https://job-boards.greenhouse.io/axon/jobs/8001665003": {
       "locations": [
         "Australia-Remote",
@@ -377,6 +347,13 @@
         "Canada"
       ],
       "fetched": "2026-11-05"
+    },
+    "https://job-boards.greenhouse.io/externaljobboards/jobs/6247176004": {
+      "locations": [
+        "Americas",
+        "United States, Brazil, Columbia, Chile, Canada"
+      ],
+      "fetched": "2026-11-06"
     },
     "https://job-boards.greenhouse.io/rhombuspower/jobs/7808664003": {
       "locations": [
@@ -632,6 +609,13 @@
       ],
       "fetched": "2026-10-28"
     },
+    "https://www.google.com/about/careers/applications/jobs/results/93868335938052806": {
+      "locations": [
+        "Waterloo, ON, Canada",
+        "Montreal, QC, Canada"
+      ],
+      "fetched": "2026-11-06"
+    },
     "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002": {
       "locations": [],
       "fetched": "2026-11-03"
@@ -655,6 +639,13 @@
         "Hong Kong, Singapore"
       ],
       "fetched": "2026-11-03"
+    },
+    "https://zalando.wd3.myworkdayjobs.com/en-US/zalandositewd/job/Dortmund/Junior-Software-Engineer--all-genders-_2725547-2": {
+      "locations": [
+        "Dortmund",
+        "Berlin"
+      ],
+      "fetched": "2026-11-06"
     }
   }
 }

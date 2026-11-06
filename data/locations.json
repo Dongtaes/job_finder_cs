@@ -1,12 +1,5 @@
 {
   "locations": {
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434": {
-      "locations": [
-        "Warsaw",
-        "Krakow"
-      ],
-      "fetched": "2026-11-05"
-    },
     "https://aimco.wd10.myworkdayjobs.com/en-US/aimcocareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891": {
       "locations": [
         "Edmonton",
@@ -45,12 +38,6 @@
         "VALBONNE (Sophia)"
       ],
       "fetched": "2026-10-22"
-    },
-    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1": {
-      "locations": [
-        "Montreal (St. Laurent)"
-      ],
-      "fetched": "2026-10-11"
     },
     "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1": {
       "locations": [
@@ -104,7 +91,13 @@
     },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
-      "fetched": "2026-11-02"
+      "fetched": "2026-11-06"
+    },
+    "https://intel.wd1.myworkdayjobs.com/en-US/external/job/PRC-Shanghai/AI-Software-Engineering-Intern_JR0288896": {
+      "locations": [
+        "CHN - Minhang, China"
+      ],
+      "fetched": "2026-11-06"
     },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101": {
       "locations": [
@@ -356,12 +349,12 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern--Linux-Yocto_R-10066617": {
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
       "locations": [
         "Shanghai (Pudong)",
         "Suzhou"
       ],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-06"
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
@@ -553,12 +546,12 @@
       ],
       "fetched": "2026-10-08"
     },
-    "https://www.metacareers.com/jobs/1694337262064234": {
+    "https://www.metacareers.com/jobs/1139996808441103": {
       "locations": [
         "Zurich, Switzerland",
         "London, United Kingdom"
       ],
-      "fetched": "2026-10-28"
+      "fetched": "2026-11-06"
     },
     "https://www.metacareers.com/jobs/2082008865811696": {
       "locations": [
