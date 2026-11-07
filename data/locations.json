@@ -7,18 +7,6 @@
       ],
       "fetched": "2026-10-29"
     },
-    "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--January-2027-_JR7061": {
-      "locations": [
-        "Toronto - Bay St",
-        "Calgary - 8th Ave SW",
-        "Halifax - Mumford Rd",
-        "Montreal - 1000 Rue De La Gauchetière Ouest",
-        "Vancouver",
-        "Oakville",
-        "Ottawa - Kent St"
-      ],
-      "fetched": "2026-10-19"
-    },
     "https://bitmovin.com/careers/8916523002?gh_jid=8916523002": {
       "locations": [],
       "fetched": "2026-11-05"
@@ -93,12 +81,6 @@
       "locations": [],
       "fetched": "2026-11-06"
     },
-    "https://intel.wd1.myworkdayjobs.com/en-US/external/job/PRC-Shanghai/AI-Software-Engineering-Intern_JR0288896": {
-      "locations": [
-        "CHN - Minhang, China"
-      ],
-      "fetched": "2026-11-06"
-    },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101": {
       "locations": [
         "Hong Kong SAR",
@@ -136,13 +118,6 @@
         "London, UK"
       ],
       "fetched": "2026-10-22"
-    },
-    "https://job-boards.greenhouse.io/sezzle/jobs/7906408003": {
-      "locations": [
-        "Bogota, Colombia",
-        "Peru"
-      ],
-      "fetched": "2026-10-08"
     },
     "https://job-boards.greenhouse.io/sezzle/jobs/7906563003": {
       "locations": [
@@ -249,26 +224,12 @@
       ],
       "fetched": "2026-10-14"
     },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262": {
-      "locations": [
-        "China, Shanghai",
-        "China, Beijing"
-      ],
-      "fetched": "2026-11-02"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784": {
       "locations": [
         "China, Shanghai",
         "China, Beijing"
       ],
       "fetched": "2026-10-26"
-    },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Performance-Software-Intern---2027_JR2025966": {
-      "locations": [
-        "China, Shanghai",
-        "China, Beijing"
-      ],
-      "fetched": "2026-11-02"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546": {
       "locations": [
@@ -284,6 +245,14 @@
       ],
       "fetched": "2026-10-14"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": {
+      "locations": [
+        "China, Shenzhen",
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-11-07"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210": {
       "locations": [
         "Germany, Munich",
@@ -294,10 +263,9 @@
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025": {
       "locations": [
-        "Switzerland, Zurich",
-        "Germany, Munich"
+        "Switzerland, Zurich"
       ],
-      "fetched": "2026-10-07"
+      "fetched": "2026-11-07"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
       "locations": [
@@ -319,21 +287,14 @@
         "Taiwan, Taipei",
         "Taiwan, Hsinchu"
       ],
-      "fetched": "2026-10-07"
+      "fetched": "2026-11-07"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030": {
       "locations": [
         "Taiwan, Taipei",
         "Taiwan, Hsinchu"
       ],
-      "fetched": "2026-10-07"
-    },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181": {
-      "locations": [
-        "Taiwan, Taipei",
-        "Taiwan, Hsinchu"
-      ],
-      "fetched": "2026-11-01"
+      "fetched": "2026-11-07"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948": {
       "locations": [
@@ -426,7 +387,7 @@
     },
     "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8827778002": {
       "locations": [],
-      "fetched": "2026-11-03"
+      "fetched": "2026-11-07"
     },
     "https://www.gonitro.com/about/careers/8312590?gh_jid=8312590": {
       "locations": [
