@@ -36,7 +36,7 @@
         "Indonesia, Jakarta",
         "Philippines, Taguig City"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/Ireland-Limerick/FY27-Software-Engineering-Graduate-Opportunities_R265823": {
       "locations": [
@@ -51,7 +51,7 @@
         "Pune, India",
         "Hyderabad, India"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://apply.workable.com/european-dynamics/j/20BADA7218/": {
       "locations": [
@@ -59,7 +59,7 @@
         "Athens, Greece",
         "Cyprus"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://apply.workable.com/european-dynamics/j/D53EAA65D5/": {
       "locations": [
@@ -104,19 +104,19 @@
       ],
       "fetched": "2026-10-23"
     },
-    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
-      "locations": [
-        "Hong Kong",
-        "Shenzhen, China"
-      ],
-      "fetched": "2026-11-06"
-    },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
         "Hong Kong",
         "Shenzhen, China"
       ],
       "fetched": "2026-10-24"
+    },
+    "https://apply.workable.com/moomoo/j/8B0263D75A/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-11-08"
     },
     "https://apply.workable.com/moomoo/j/A947A0EEA6/": {
       "locations": [
@@ -147,7 +147,7 @@
         "Czechia",
         "Romania"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
       "locations": [
@@ -319,7 +319,7 @@
         "Home Based - APAC",
         "Home based - EMEA"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://job-boards.greenhouse.io/dvtrading/jobs/4719984005": {
       "locations": [
@@ -327,7 +327,7 @@
         "London",
         "Dubai, Dubai, United Arab Emirates"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://job-boards.greenhouse.io/exadelinc/jobs/6242285004": {
       "locations": [
@@ -391,29 +391,26 @@
     },
     "https://jobs.ashbyhq.com/hirehangar/3c708fbc-3ef1-437f-b45b-7277ed2e3adf": {
       "locations": [
-        "Panama - Panama City, Panama",
-        "Parugauy - Asuncion, Paraguay",
-        "Ecuador - Guayaquil, Ecuador",
-        "Bolivia - Santa Cruz de la Sierra, Bolivia",
-        "Mexico - Monterrey, Mexico",
-        "Egypt - Cairo, Egypt",
-        "Philippines - Davao City, Philippines",
-        "South Africa - Johannesburg, South Africa",
-        "Yemen - Sana'a, Yemen",
-        "Columbia - Bogotá, Colombia",
-        "Columbia - Medellín, Colombia",
-        "Chile - Santiago, Chile",
-        "Uruguay - Montevideo, Uruguay",
-        "Peru - Lima, Peru",
-        "Dominican Republic - Santo Domingo, Dominican Republic",
-        "Nicaragua - Managua, Nicaragua",
-        "Jamaica - Kingston, Jamaica",
-        "Argentina - Buenos Aires, Argentina",
-        "Honduras - Tegucigalpa, Honduras",
-        "South Africa - Cape Town, South Africa",
-        "Mexico - Mexico City, Mexico"
+        "Panama",
+        "Paraguay",
+        "Ecuador",
+        "Egypt",
+        "Yemen",
+        "Colombia",
+        "Chile",
+        "Uruguay",
+        "Peru",
+        "Dominican Republic",
+        "Philippines",
+        "Nicaragua",
+        "Jamaica",
+        "Argentina",
+        "Bolivia",
+        "Honduras",
+        "South Africa",
+        "Mexico"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://jobs.ashbyhq.com/sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f": {
       "locations": [
@@ -452,7 +449,7 @@
       ],
       "fetched": "2026-11-05"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
       "locations": [
         "Berlin - Mittelstrasse",
         "Frankfurt - Friedrich",
@@ -460,7 +457,7 @@
         "Hamburg - Brandstwiete",
         "Düsseldorf - Ko Quartier"
       ],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-08"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
       "locations": [
@@ -633,13 +630,13 @@
         "Bengaluru",
         "Hyderabad, Telangana, India"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [
         "Amsterdam"
       ],
-      "fetched": "2026-10-08"
+      "fetched": "2026-11-08"
     },
     "https://www.tower-research.com/open-positions/?gh_jid=8245433": {
       "locations": [
