@@ -13,6 +13,17 @@
       ],
       "fetched": "2026-10-21"
     },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1": {
+      "locations": [
+        "Bologna",
+        "Padova",
+        "Roma",
+        "Cagliari",
+        "Torino",
+        "Napoli"
+      ],
+      "fetched": "2026-11-09"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Madrid-Castellana-85/Junior-M365-Developer--SharePoint---SPFx---React-_R00368037": {
       "locations": [
         "Madrid, Castellana 85",
@@ -52,6 +63,14 @@
         "Hyderabad, India"
       ],
       "fetched": "2026-11-08"
+    },
+    "https://apply.workable.com/devpro/j/7745313D29/": {
+      "locations": [
+        "Wrocław, Poland",
+        "Sofia, Bulgaria",
+        "Porto, Portugal"
+      ],
+      "fetched": "2026-11-09"
     },
     "https://apply.workable.com/european-dynamics/j/20BADA7218/": {
       "locations": [
@@ -103,6 +122,13 @@
         "Shenzhen, China"
       ],
       "fetched": "2026-10-23"
+    },
+    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-11-09"
     },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
@@ -350,6 +376,16 @@
       ],
       "fetched": "2026-11-07"
     },
+    "https://job-boards.greenhouse.io/hootsuite/jobs/8359647": {
+      "locations": [
+        "British Columbia",
+        "Ontario",
+        "Toronto",
+        "Vancouver",
+        "Toronto, Ontario, Canada, Vancouver, British Columbia, Canada"
+      ],
+      "fetched": "2026-11-09"
+    },
     "https://job-boards.greenhouse.io/rhombuspower/jobs/7808664003": {
       "locations": [
         "New Delhi, India",
@@ -373,6 +409,13 @@
         "Stuttgart, DE"
       ],
       "fetched": "2026-10-17"
+    },
+    "https://jobs.ashbyhq.com/Sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f": {
+      "locations": [
+        "Melbourne Office, Australia",
+        "Sydney Office, Australia"
+      ],
+      "fetched": "2026-11-09"
     },
     "https://jobs.ashbyhq.com/canals/f5be2674-0d4b-406d-bc29-be5e657b8ac5": {
       "locations": [
@@ -412,12 +455,13 @@
       ],
       "fetched": "2026-11-08"
     },
-    "https://jobs.ashbyhq.com/sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f": {
+    "https://jobs.ashbyhq.com/jellyfishcareers/c93a9385-8e36-4a1b-9717-aff41dd61296": {
       "locations": [
-        "Melbourne Office, Australia",
-        "Sydney Office, Australia"
+        "Cape Town, South Africa",
+        "Johannesburg, South Africa",
+        "Durban, South Africa"
       ],
-      "fetched": "2026-10-27"
+      "fetched": "2026-11-09"
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
@@ -449,7 +493,7 @@
       ],
       "fetched": "2026-11-05"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
       "locations": [
         "Berlin - Mittelstrasse",
         "Frankfurt - Friedrich",
@@ -457,7 +501,7 @@
         "Hamburg - Brandstwiete",
         "Düsseldorf - Ko Quartier"
       ],
-      "fetched": "2026-11-08"
+      "fetched": "2026-11-09"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
       "locations": [
@@ -499,27 +543,11 @@
       ],
       "fetched": "2026-10-22"
     },
-    "https://rbs.wd3.myworkdayjobs.com/en-US/rbs/job/Bengaluru/AI-ML-Trainee---6-Month-Fixed-Term-Contract---2025-2026-Graduates_R-00287403": {
-      "locations": [
-        "Bengaluru",
-        "Chennai",
-        "Gurugram"
-      ],
-      "fetched": "2026-11-07"
-    },
     "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1": {
       "locations": [
         "Gdansk, Poland",
         "BIG - Zielinskiego Krakow"
       ],
-      "fetched": "2026-11-07"
-    },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/London-Ontario/Associate-Software-Engineer_R_1520502": {
-      "locations": [],
-      "fetched": "2026-11-07"
-    },
-    "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1508642": {
-      "locations": [],
       "fetched": "2026-11-07"
     },
     "https://vhr-jazz.wd1.myworkdayjobs.com/en-US/jazzpharmaceuticals/job/UK---Home-Based/AI-Data-Science-Analyst_R040303-1": {
@@ -551,47 +579,47 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.google.com/about/careers/applications/jobs/results/133363303903568582": {
       "locations": [

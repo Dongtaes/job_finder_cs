@@ -9,11 +9,20 @@
     },
     "https://bitmovin.com/careers/8916523002?gh_jid=8916523002": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://bitmovin.com/careers/8916614002?gh_jid=8916614002": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
+    },
+    "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002": {
+      "locations": [
+        "Hong Kong",
+        "Japan",
+        "Singapore",
+        "Hong Kong, Singapore, Japan"
+      ],
+      "fetched": "2026-11-09"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1": {
       "locations": [
@@ -81,6 +90,14 @@
       "locations": [],
       "fetched": "2026-11-06"
     },
+    "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": {
+      "locations": [
+        "Quebec, Quebec",
+        "Montreal, Quebec",
+        "Vancouver, British Columbia"
+      ],
+      "fetched": "2026-11-09"
+    },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101": {
       "locations": [
         "Hong Kong SAR",
@@ -119,6 +136,23 @@
       ],
       "fetched": "2026-10-22"
     },
+    "https://job-boards.greenhouse.io/hootsuite/jobs/8359242": {
+      "locations": [
+        "Alberta",
+        "British Columbia",
+        "Vancouver",
+        "Alberta, British Columbia"
+      ],
+      "fetched": "2026-11-09"
+    },
+    "https://job-boards.greenhouse.io/hootsuite/jobs/8360176": {
+      "locations": [
+        "Toronto",
+        "Vancouver",
+        "Vancouver, BC, Toronto, ON"
+      ],
+      "fetched": "2026-11-09"
+    },
     "https://job-boards.greenhouse.io/sezzle/jobs/7906563003": {
       "locations": [
         "Bogota, Colombia",
@@ -126,37 +160,46 @@
       ],
       "fetched": "2026-11-08"
     },
-    "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33": {
+    "https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33": {
       "locations": [
         "Brussels, Belgium",
         "London, United Kingdom",
         "London OR Brussels, United Kingdom"
       ],
-      "fetched": "2026-10-30"
+      "fetched": "2026-11-09"
     },
-    "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313": {
+    "https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313": {
       "locations": [
         "Brussels, Belgium",
         "London, United Kingdom",
         "London OR Brussels, United Kingdom"
       ],
-      "fetched": "2026-10-30"
+      "fetched": "2026-11-09"
     },
-    "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24": {
+    "https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24": {
       "locations": [
         "Brussels, Belgium",
         "London, United Kingdom",
         "London OR Brussels, United Kingdom"
       ],
-      "fetched": "2026-10-31"
+      "fetched": "2026-11-09"
     },
-    "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7": {
+    "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7": {
       "locations": [
         "Brussels, Belgium",
         "London, United Kingdom",
         "London OR Brussels, United Kingdom"
       ],
-      "fetched": "2026-10-31"
+      "fetched": "2026-11-09"
+    },
+    "https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97": {
+      "locations": [
+        "Paris, France",
+        "Zurich, Switzerland",
+        "Warsaw, Poland",
+        "London, United Kingdom"
+      ],
+      "fetched": "2026-11-09"
     },
     "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b": {
       "locations": [
@@ -238,6 +281,14 @@
       ],
       "fetched": "2026-10-23"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-11-09"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596": {
       "locations": [
         "China, Shanghai",
@@ -252,6 +303,13 @@
         "China, Beijing"
       ],
       "fetched": "2026-11-07"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172": {
+      "locations": [
+        "China, Shenzhen",
+        "China, Shanghai"
+      ],
+      "fetched": "2026-11-09"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210": {
       "locations": [
@@ -282,20 +340,6 @@
       ],
       "fetched": "2026-10-21"
     },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971": {
-      "locations": [
-        "Taiwan, Taipei",
-        "Taiwan, Hsinchu"
-      ],
-      "fetched": "2026-11-07"
-    },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030": {
-      "locations": [
-        "Taiwan, Taipei",
-        "Taiwan, Hsinchu"
-      ],
-      "fetched": "2026-11-07"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948": {
       "locations": [
         "UK, Bristol",
@@ -319,71 +363,71 @@
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/sector-data-analyst-intern-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadel.com/careers/details/software-engineer-intern-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-europe/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.citadelsecurities.com/careers/details/software-engineer-intern-asia/": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8827778002": {
       "locations": [],
@@ -506,7 +550,7 @@
     },
     "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124": {
       "locations": [],
-      "fetched": "2026-11-05"
+      "fetched": "2026-11-09"
     },
     "https://www.tower-research.com/open-positions/?gh_jid=8168634": {
       "locations": [
