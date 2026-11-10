@@ -55,7 +55,7 @@
         "Ireland, Cork",
         "Ireland, Dublin"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://apply.workable.com/capgemini-insurance/j/8F4EE0B2C5/": {
       "locations": [
@@ -123,13 +123,6 @@
       ],
       "fetched": "2026-10-23"
     },
-    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
-      "locations": [
-        "Hong Kong",
-        "Shenzhen, China"
-      ],
-      "fetched": "2026-11-09"
-    },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
         "Hong Kong",
@@ -187,13 +180,6 @@
       ],
       "fetched": "2026-10-21"
     },
-    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1": {
-      "locations": [
-        "Mirabel",
-        "Montreal - 8585 Cote-De-Liesse, QC, Canada"
-      ],
-      "fetched": "2026-10-10"
-    },
     "https://careers-bdobelgium.icims.com/jobs/1760/software-%28erp%29-implementation-junior-consultant-%28start-asap%29/job": {
       "locations": [
         "Zaventem, VBR, Belgium",
@@ -213,7 +199,7 @@
         "Toronto, ON",
         "Montreal, QC"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
@@ -287,6 +273,10 @@
       ],
       "fetched": "2026-10-29"
     },
+    "https://genesys.wd1.myworkdayjobs.com/en-US/genesys/job/Toronto-Flexible/Associate-Software-Developer_JR112811": {
+      "locations": [],
+      "fetched": "2026-11-10"
+    },
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
       "locations": [
         "Sant Cugat del Valles, Barcelona, Spain",
@@ -302,32 +292,29 @@
       "fetched": "2026-10-26"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999603101": {
-      "locations": [
-        "EMEA",
-        "Warsaw, Poland"
-      ],
-      "fetched": "2026-10-10"
+      "locations": [],
+      "fetched": "2026-11-10"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999979101": {
       "locations": [
         "EMEA",
         "Warsaw, Poland"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999980101": {
       "locations": [
         "EMEA",
         "Prague, Czechia"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999981101": {
       "locations": [
         "EMEA",
         "Lisbon, Portugal"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://job-boards.greenhouse.io/axon/jobs/8001665003": {
       "locations": [
@@ -493,7 +480,7 @@
       ],
       "fetched": "2026-11-05"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
       "locations": [
         "Berlin - Mittelstrasse",
         "Frankfurt - Friedrich",
@@ -501,7 +488,7 @@
         "Hamburg - Brandstwiete",
         "Düsseldorf - Ko Quartier"
       ],
-      "fetched": "2026-11-09"
+      "fetched": "2026-11-10"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
       "locations": [
@@ -536,6 +523,12 @@
       "locations": [],
       "fetched": "2026-11-07"
     },
+    "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Bangalore-SDC---DLF-Cyber-City---Gurugram/AES-Salesforce-CGRE-Cloud-Developer---Associate_772689WD": {
+      "locations": [
+        "Bangalore (SDC) - DLF Cyber City - Gurugram"
+      ],
+      "fetched": "2026-11-10"
+    },
     "https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203": {
       "locations": [
         "Sydney",
@@ -549,18 +542,6 @@
         "BIG - Zielinskiego Krakow"
       ],
       "fetched": "2026-11-07"
-    },
-    "https://vhr-jazz.wd1.myworkdayjobs.com/en-US/jazzpharmaceuticals/job/UK---Home-Based/AI-Data-Science-Analyst_R040303-1": {
-      "locations": [
-        "UK - Home-Based, United Kingdom"
-      ],
-      "fetched": "2026-11-05"
-    },
-    "https://vhr-jazz.wd1.myworkdayjobs.com/en-US/jazzpharmaceuticals/job/UK---Home-Based/AI-Data-Science-Analyst_R040305-1": {
-      "locations": [
-        "UK - Home-Based, United Kingdom"
-      ],
-      "fetched": "2026-11-05"
     },
     "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
       "locations": [
@@ -652,13 +633,6 @@
     "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002": {
       "locations": [],
       "fetched": "2026-11-07"
-    },
-    "https://www.observe.ai/position?gh_jid=5432596008": {
-      "locations": [
-        "Bengaluru",
-        "Hyderabad, Telangana, India"
-      ],
-      "fetched": "2026-11-08"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [

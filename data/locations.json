@@ -7,6 +7,13 @@
       ],
       "fetched": "2026-10-29"
     },
+    "https://apply.workable.com/helical/j/88990169F9/": {
+      "locations": [
+        "London, United Kingdom",
+        "Luxembourg"
+      ],
+      "fetched": "2026-11-10"
+    },
     "https://bitmovin.com/careers/8916523002?gh_jid=8916523002": {
       "locations": [],
       "fetched": "2026-11-09"
@@ -46,7 +53,7 @@
       "locations": [
         "Montreal (St. Laurent)"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://careers-international-realpagepms.icims.com/jobs/14422/intern-%28technical-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job": {
       "locations": [
@@ -55,13 +62,49 @@
       ],
       "fetched": "2026-11-08"
     },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111": {
+      "locations": [
+        "Kanata, Ontario, Canada",
+        "Saint-Laurent, Quebec, Canada",
+        "Calgary, Alberta, Canada",
+        "Toronto, Ontario, Canada",
+        "Montreal, Quebec, Canada",
+        "Ottawa, Ontario, Canada"
+      ],
+      "fetched": "2026-11-10"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136": {
+      "locations": [
+        "Kanata, Ontario, Canada",
+        "Saint-Laurent, Quebec, Canada",
+        "Calgary, Alberta, Canada",
+        "Toronto, Ontario, Canada",
+        "Montreal, Quebec, Canada",
+        "Vancouver, British Columbia, Canada",
+        "Ottawa, Ontario, Canada"
+      ],
+      "fetched": "2026-11-10"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208": {
+      "locations": [
+        "Kanata, Ontario, Canada",
+        "Saint-Laurent, Quebec, Canada",
+        "Calgary, Alberta, Canada",
+        "Toronto, Ontario, Canada",
+        "Montreal, Quebec, Canada",
+        "Vancouver, British Columbia, Canada",
+        "Halifax, Nova Scotia, Canada",
+        "Ottawa, Ontario, Canada"
+      ],
+      "fetched": "2026-11-10"
+    },
     "https://clio.wd3.myworkdayjobs.com/en-US/cliocareersite/job/Toronto/Software-Developer--Co-op_REQ-1577": {
       "locations": [
         "Toronto",
         "Vancouver",
         "Calgary"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://fticonsulting.wd108.myworkdayjobs.com/en-US/fticonsultingcareers/job/Frankfurt-Germany/Praktikant--m-w-d--Data---AI_JR261104": {
       "locations": [
@@ -88,7 +131,7 @@
     },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
-      "fetched": "2026-11-06"
+      "fetched": "2026-11-10"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": {
       "locations": [
@@ -220,7 +263,7 @@
         "Iasi Office, Romania",
         "Berlin Office, Germany"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436": {
       "locations": [
@@ -455,9 +498,10 @@
     },
     "https://www.google.com/about/careers/applications/jobs/results/109976286780105414": {
       "locations": [
-        "Bengaluru, Karnataka, India"
+        "Bengaluru, Karnataka, India",
+        "Hyderabad, Telangana, India"
       ],
-      "fetched": "2026-10-10"
+      "fetched": "2026-11-10"
     },
     "https://www.google.com/about/careers/applications/jobs/results/111285665542349510": {
       "locations": [
