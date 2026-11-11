@@ -1,12 +1,5 @@
 {
   "locations": {
-    "https://aimco.wd10.myworkdayjobs.com/en-US/aimcocareers/job/Edmonton/Student--Quantitative-Analytics---Reporting--Fall-2026-_JR100891": {
-      "locations": [
-        "Edmonton",
-        "Calgary"
-      ],
-      "fetched": "2026-10-29"
-    },
     "https://apply.workable.com/helical/j/88990169F9/": {
       "locations": [
         "London, United Kingdom",
@@ -113,7 +106,7 @@
         "Munchen, Germany",
         "Dusseldorf, Germany"
       ],
-      "fetched": "2026-10-11"
+      "fetched": "2026-11-11"
     },
     "https://heinz.wd1.myworkdayjobs.com/en-US/kraftheinz_careers/job/Nijmegen/Data-Analyst-Intern_R-108038": {
       "locations": [
@@ -178,15 +171,6 @@
         "London, UK"
       ],
       "fetched": "2026-10-22"
-    },
-    "https://job-boards.greenhouse.io/hootsuite/jobs/8359242": {
-      "locations": [
-        "Alberta",
-        "British Columbia",
-        "Vancouver",
-        "Alberta, British Columbia"
-      ],
-      "fetched": "2026-11-09"
     },
     "https://job-boards.greenhouse.io/hootsuite/jobs/8360176": {
       "locations": [
@@ -296,6 +280,13 @@
       ],
       "fetched": "2026-10-17"
     },
+    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786": {
+      "locations": [
+        "Ulm",
+        "Stuttgart"
+      ],
+      "fetched": "2026-11-11"
+    },
     "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Munich---Mllerstrasse/Praktikant-in-Quantitative-Investments--m-w-d-_R_370852": {
       "locations": [
         "Munich - Müllerstrasse",
@@ -397,12 +388,12 @@
       ],
       "fetched": "2026-11-08"
     },
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
+    "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer-Intern_R0138921": {
       "locations": [
-        "Shanghai (Pudong)",
-        "Suzhou"
+        "Bangalore, Karnataka, India",
+        "Chennai, Tamil Nadu, India"
       ],
-      "fetched": "2026-11-06"
+      "fetched": "2026-11-11"
     },
     "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-asia/": {
       "locations": [],
@@ -474,14 +465,7 @@
     },
     "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8827778002": {
       "locations": [],
-      "fetched": "2026-11-07"
-    },
-    "https://www.gonitro.com/about/careers/8312590?gh_jid=8312590": {
-      "locations": [
-        "Dublin, Ireland",
-        "Porto, Portugal"
-      ],
-      "fetched": "2026-10-24"
+      "fetched": "2026-11-11"
     },
     "https://www.google.com/about/careers/applications/jobs/results/104551723757904582": {
       "locations": [
@@ -530,10 +514,6 @@
       ],
       "fetched": "2026-11-08"
     },
-    "https://www.jumptrading.com/hr/job?gh_jid=8010307": {
-      "locations": [],
-      "fetched": "2026-11-08"
-    },
     "https://www.jumptrading.com/hr/job?gh_jid=8027860": {
       "locations": [],
       "fetched": "2026-11-08"
@@ -555,14 +535,6 @@
       "fetched": "2026-11-08"
     },
     "https://www.jumptrading.com/hr/job?gh_jid=8027938": {
-      "locations": [],
-      "fetched": "2026-11-08"
-    },
-    "https://www.jumptrading.com/hr/job?gh_jid=8050772": {
-      "locations": [],
-      "fetched": "2026-11-08"
-    },
-    "https://www.jumptrading.com/hr/job?gh_jid=8059384": {
       "locations": [],
       "fetched": "2026-11-08"
     },

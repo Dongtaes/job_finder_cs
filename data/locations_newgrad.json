@@ -32,6 +32,14 @@
       ],
       "fetched": "2026-11-05"
     },
+    "https://acronis.wd502.myworkdayjobs.com/en-US/acronis_careers/job/Brazil---Remote/Software-Support-Specialist-with-Spanish-Portuguese---LATAM_R-101358": {
+      "locations": [
+        "Brazil - Remote",
+        "El Salvador - Remote",
+        "Argentina - Remote"
+      ],
+      "fetched": "2026-11-11"
+    },
     "https://acronis.wd502.myworkdayjobs.com/en-US/acronis_careers/job/Bulgaria/Junior-Cloud-Services-Advisor_R-101277": {
       "locations": [
         "Bulgaria",
@@ -86,6 +94,28 @@
         "Thessaloniki, Greece"
       ],
       "fetched": "2026-10-21"
+    },
+    "https://apply.workable.com/gramian/j/1F240D31D3/": {
+      "locations": [
+        "India",
+        "Japan",
+        "South Korea",
+        "Taiwan",
+        "Hong Kong",
+        "Pakistan"
+      ],
+      "fetched": "2026-11-11"
+    },
+    "https://apply.workable.com/gramian/j/6DDDE36228/": {
+      "locations": [
+        "Malaysia",
+        "Singapore",
+        "Philippines",
+        "Indonesia",
+        "Vietnam",
+        "Thailand"
+      ],
+      "fetched": "2026-11-11"
     },
     "https://apply.workable.com/lucidya/j/8120FF802B/": {
       "locations": [
@@ -169,12 +199,6 @@
       "fetched": "2026-11-08"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
-      "locations": [
-        "GYEONGGI-DO (Seoul)"
-      ],
-      "fetched": "2026-10-21"
-    },
-    "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-I_R56762": {
       "locations": [
         "GYEONGGI-DO (Seoul)"
       ],
@@ -273,9 +297,16 @@
       ],
       "fetched": "2026-10-29"
     },
-    "https://genesys.wd1.myworkdayjobs.com/en-US/genesys/job/Toronto-Flexible/Associate-Software-Developer_JR112811": {
-      "locations": [],
-      "fetched": "2026-11-10"
+    "https://genesys.wd1.myworkdayjobs.com/en-US/2_genesys_jobs/job/Toronto-Flexible/Associate-Software-Developer_JR112811-2": {
+      "locations": [
+        "Toronto (Flexible)",
+        "Newfoundland, Canada",
+        "New Brunswick, Canada",
+        "Ontario, Canada",
+        "Virtual Office (Prince Edward Island)",
+        "Nova Scotia, Canada"
+      ],
+      "fetched": "2026-11-11"
     },
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
       "locations": [
@@ -290,10 +321,6 @@
         "Las Rozas, Madrid, Spain"
       ],
       "fetched": "2026-10-26"
-    },
-    "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999603101": {
-      "locations": [],
-      "fetched": "2026-11-10"
     },
     "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4999979101": {
       "locations": [
@@ -452,11 +479,11 @@
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
-      "fetched": "2026-11-07"
+      "fetched": "2026-11-11"
     },
     "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/11764": {
       "locations": [],
-      "fetched": "2026-11-07"
+      "fetched": "2026-11-11"
     },
     "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
       "locations": [
@@ -480,7 +507,7 @@
       ],
       "fetched": "2026-11-05"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
       "locations": [
         "Berlin - Mittelstrasse",
         "Frankfurt - Friedrich",
@@ -488,7 +515,7 @@
         "Hamburg - Brandstwiete",
         "Düsseldorf - Ko Quartier"
       ],
-      "fetched": "2026-11-10"
+      "fetched": "2026-11-11"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
       "locations": [
@@ -521,7 +548,34 @@
     },
     "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/": {
       "locations": [],
-      "fetched": "2026-11-07"
+      "fetched": "2026-11-11"
+    },
+    "https://paystand.com/job-listing/?gh_jid=7919857003": {
+      "locations": [
+        "Guadalajara",
+        "Hermosillo",
+        "Mexico",
+        "Guadalajara, Jalisco, Mexico"
+      ],
+      "fetched": "2026-11-11"
+    },
+    "https://paystand.com/job-listing/?gh_jid=7919858003": {
+      "locations": [
+        "Guadalajara",
+        "Hermosillo",
+        "Mexico",
+        "Hermosillo, Sonora, Mexico"
+      ],
+      "fetched": "2026-11-11"
+    },
+    "https://paystand.com/job-listing/?gh_jid=8199622003": {
+      "locations": [
+        "Guadalajara",
+        "Hermosillo",
+        "Mexico",
+        "Ciudad de México"
+      ],
+      "fetched": "2026-11-11"
     },
     "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Bangalore-SDC---DLF-Cyber-City---Gurugram/AES-Salesforce-CGRE-Cloud-Developer---Associate_772689WD": {
       "locations": [
@@ -616,13 +670,6 @@
       ],
       "fetched": "2026-10-28"
     },
-    "https://www.google.com/about/careers/applications/jobs/results/90617818789094086": {
-      "locations": [
-        "Tel Aviv, Israel",
-        "Haifa, Israel"
-      ],
-      "fetched": "2026-11-07"
-    },
     "https://www.google.com/about/careers/applications/jobs/results/93868335938052806": {
       "locations": [
         "Waterloo, ON, Canada",
@@ -632,7 +679,7 @@
     },
     "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002": {
       "locations": [],
-      "fetched": "2026-11-07"
+      "fetched": "2026-11-11"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [
