@@ -11,10 +11,6 @@
       "locations": [],
       "fetched": "2026-11-09"
     },
-    "https://bitmovin.com/careers/8916614002?gh_jid=8916614002": {
-      "locations": [],
-      "fetched": "2026-11-09"
-    },
     "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002": {
       "locations": [
         "Hong Kong",
@@ -172,6 +168,15 @@
       ],
       "fetched": "2026-10-22"
     },
+    "https://job-boards.greenhouse.io/hootsuite/jobs/8359242": {
+      "locations": [
+        "Alberta",
+        "British Columbia",
+        "Vancouver",
+        "Alberta, British Columbia"
+      ],
+      "fetched": "2026-11-12"
+    },
     "https://job-boards.greenhouse.io/hootsuite/jobs/8360176": {
       "locations": [
         "Toronto",
@@ -294,12 +299,83 @@
       ],
       "fetched": "2026-10-28"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002": {
+      "locations": [
+        "China, Beijing",
+        "China, Shanghai"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2025559": {
+      "locations": [
+        "China, Beijing",
+        "China, Shanghai",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern---2027_JR2024122": {
+      "locations": [
+        "China, Beijing",
+        "China, Shanghai"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258": {
+      "locations": [
+        "China, Beijing",
+        "China, Shanghai"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177": {
+      "locations": [
+        "China, Beijing",
+        "China, Shanghai"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Computing-Software-Development-Intern---2027_JR2026164": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Computing-Software-Development-Intern--LLM-Inference---2027_JR2026173": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Computing-Software-Intern--GPU-Kernel-Libraries---2027_JR2026170": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/AI-Developer-Technology-Intern--Robotics---2027_JR2024054-1": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-11-12"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181": {
       "locations": [
         "China, Shanghai",
         "China, Beijing"
       ],
       "fetched": "2026-10-14"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-11-12"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784": {
       "locations": [
@@ -315,6 +391,13 @@
       ],
       "fetched": "2026-10-23"
     },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Performance-Software-Intern--Deep-Learning-Libraries---2027_JR2026171": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing"
+      ],
+      "fetched": "2026-11-12"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Reinforcement-Learning-Intern---2027_JR2029243-1": {
       "locations": [
         "China, Shanghai",
@@ -322,6 +405,14 @@
         "China, Shenzhen"
       ],
       "fetched": "2026-11-09"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-11-12"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596": {
       "locations": [
@@ -359,20 +450,47 @@
       ],
       "fetched": "2026-11-07"
     },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
-      "locations": [
-        "Germany, Munich",
-        "France, Courbevoie",
-        "Germany, Wuerselen"
-      ],
-      "fetched": "2026-11-02"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949": {
       "locations": [
         "Switzerland, Zurich",
         "UK, Bristol"
       ],
       "fetched": "2026-10-21"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/APAC-Ecommerce-Backend-Intern---2027_JR2027030": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Software-CAD-Engineer--VLSI--RDSS-Intern-_JR2026181": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783": {
+      "locations": [
+        "Taiwan, Taipei",
+        "Taiwan, Hsinchu"
+      ],
+      "fetched": "2026-11-12"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948": {
       "locations": [
@@ -387,6 +505,10 @@
         "Vietnam, Ho Chi Minh City"
       ],
       "fetched": "2026-11-08"
+    },
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
+      "locations": [],
+      "fetched": "2026-11-12"
     },
     "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer-Intern_R0138921": {
       "locations": [
@@ -516,27 +638,27 @@
     },
     "https://www.jumptrading.com/hr/job?gh_jid=8027860": {
       "locations": [],
-      "fetched": "2026-11-08"
+      "fetched": "2026-11-12"
     },
     "https://www.jumptrading.com/hr/job?gh_jid=8027898": {
       "locations": [],
-      "fetched": "2026-11-08"
+      "fetched": "2026-11-12"
     },
     "https://www.jumptrading.com/hr/job?gh_jid=8027900": {
       "locations": [],
-      "fetched": "2026-11-08"
+      "fetched": "2026-11-12"
     },
     "https://www.jumptrading.com/hr/job?gh_jid=8027922": {
       "locations": [],
-      "fetched": "2026-11-08"
+      "fetched": "2026-11-12"
     },
     "https://www.jumptrading.com/hr/job?gh_jid=8027923": {
       "locations": [],
-      "fetched": "2026-11-08"
+      "fetched": "2026-11-12"
     },
     "https://www.jumptrading.com/hr/job?gh_jid=8027938": {
       "locations": [],
-      "fetched": "2026-11-08"
+      "fetched": "2026-11-12"
     },
     "https://www.metacareers.com/jobs/1139996808441103": {
       "locations": [

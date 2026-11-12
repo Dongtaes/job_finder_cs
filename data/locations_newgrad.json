@@ -1,5 +1,16 @@
 {
   "locations": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/Junior-Consultant-fr-AI-Powered-Enterprise-Netzwerke--all-genders-_R00353632": {
+      "locations": [
+        "Kronberg",
+        "Stuttgart",
+        "Hamburg",
+        "Dusseldorf",
+        "Munich",
+        "Berlin"
+      ],
+      "fetched": "2026-11-12"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/XMLNAME--Junior--AI-Native-Software-Engineer---all-genders-_R00359893-1": {
       "locations": [
         "Kronberg",
@@ -95,6 +106,13 @@
       ],
       "fetched": "2026-10-21"
     },
+    "https://apply.workable.com/goliathgroup/j/299B760582/": {
+      "locations": [
+        "Guildford, United Kingdom",
+        "Hattem, Netherlands"
+      ],
+      "fetched": "2026-11-12"
+    },
     "https://apply.workable.com/gramian/j/1F240D31D3/": {
       "locations": [
         "India",
@@ -153,6 +171,13 @@
       ],
       "fetched": "2026-10-23"
     },
+    "https://apply.workable.com/moomoo/j/6DFF218F5E/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-11-12"
+    },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
         "Hong Kong",
@@ -197,6 +222,16 @@
         "Romania"
       ],
       "fetched": "2026-11-08"
+    },
+    "https://apply.workable.com/workmotion/j/35E0CA29BF/": {
+      "locations": [
+        "Spain",
+        "Portugal",
+        "Bulgaria",
+        "United Kingdom",
+        "Ireland"
+      ],
+      "fetched": "2026-11-12"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
       "locations": [
@@ -369,27 +404,6 @@
       ],
       "fetched": "2026-11-08"
     },
-    "https://job-boards.greenhouse.io/exadelinc/jobs/6242285004": {
-      "locations": [
-        "Americas",
-        "Canada"
-      ],
-      "fetched": "2026-11-05"
-    },
-    "https://job-boards.greenhouse.io/externaljobboards/jobs/6247176004": {
-      "locations": [
-        "Americas",
-        "United States, Brazil, Columbia, Chile, Canada"
-      ],
-      "fetched": "2026-11-06"
-    },
-    "https://job-boards.greenhouse.io/externaljobboards/jobs/6250408004": {
-      "locations": [
-        "Americas",
-        "United States, Brazil, Columbia, Chile, Canada"
-      ],
-      "fetched": "2026-11-07"
-    },
     "https://job-boards.greenhouse.io/hootsuite/jobs/8359647": {
       "locations": [
         "British Columbia",
@@ -481,10 +495,6 @@
       "locations": [],
       "fetched": "2026-11-11"
     },
-    "https://jobs.dayforcehcm.com/en-US/signanthealth/candidateportal/jobs/11764": {
-      "locations": [],
-      "fetched": "2026-11-11"
-    },
     "https://jobs.lever.co/ion/6f66cbb4-c882-4234-b84e-68baea56e1ea": {
       "locations": [
         "Noida",
@@ -507,7 +517,7 @@
       ],
       "fetched": "2026-11-05"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
       "locations": [
         "Berlin - Mittelstrasse",
         "Frankfurt - Friedrich",
@@ -515,7 +525,7 @@
         "Hamburg - Brandstwiete",
         "Düsseldorf - Ko Quartier"
       ],
-      "fetched": "2026-11-11"
+      "fetched": "2026-11-12"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731": {
       "locations": [
@@ -524,6 +534,13 @@
       ],
       "fetched": "2026-10-28"
     },
+    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
+      "locations": [
+        "Ontario Remote Work",
+        "British Columbia Remote Work"
+      ],
+      "fetched": "2026-11-12"
+    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566": {
       "locations": [
         "China, Shanghai",
@@ -531,6 +548,22 @@
         "China, Shenzhen"
       ],
       "fetched": "2026-10-21"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-11-12"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Software-Engineering---China_JR2024111": {
+      "locations": [
+        "China, Shanghai",
+        "China, Beijing",
+        "China, Shenzhen"
+      ],
+      "fetched": "2026-11-12"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556": {
       "locations": [
@@ -589,6 +622,13 @@
         "Baulkham Hills, Sydney"
       ],
       "fetched": "2026-10-22"
+    },
+    "https://simcorp.wd3.myworkdayjobs.com/en-US/simcorp_jobs/job/Pistoia/Sofia-Developer_R-212998": {
+      "locations": [
+        "Pistoia",
+        "Trieste"
+      ],
+      "fetched": "2026-11-12"
     },
     "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1": {
       "locations": [
