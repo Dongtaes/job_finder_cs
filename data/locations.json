@@ -1,5 +1,29 @@
 {
   "locations": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331": {
+      "locations": [
+        "Assago, Via del Mulino 11a",
+        "Roma",
+        "Torino, Via Nizza 262 int. 57/59"
+      ],
+      "fetched": "2026-11-14"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Front-end-Developer-Intern---Sitecore---AI-Academy_R00371676": {
+      "locations": [
+        "Assago, Via del Mulino 11a",
+        "Roma",
+        "Cagliari, Piazzetta l'Unione Sarda 24"
+      ],
+      "fetched": "2026-11-14"
+    },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Front-end-Developer-Intern---Sitecore---AI-Academy_R00371679": {
+      "locations": [
+        "Assago, Via del Mulino 11a",
+        "Roma",
+        "Cagliari, Piazzetta l'Unione Sarda 24"
+      ],
+      "fetched": "2026-11-14"
+    },
     "https://apply.workable.com/helical/j/88990169F9/": {
       "locations": [
         "London, United Kingdom",
@@ -19,6 +43,10 @@
         "Hong Kong, Singapore, Japan"
       ],
       "fetched": "2026-11-09"
+    },
+    "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159": {
+      "locations": [],
+      "fetched": "2026-11-14"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1": {
       "locations": [
@@ -120,7 +148,7 @@
     },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
-      "fetched": "2026-11-10"
+      "fetched": "2026-11-14"
     },
     "https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592": {
       "locations": [
@@ -130,21 +158,14 @@
       ],
       "fetched": "2026-11-09"
     },
-    "https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101": {
-      "locations": [
-        "Hong Kong SAR",
-        "Kuala Lumpur, Malaysia"
-      ],
-      "fetched": "2026-10-28"
-    },
     "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
       "locations": [
         "Hong Kong SAR",
         "Kuala Lumpur Tech Office",
-        "Remote General",
+        "Remote Non-EU",
         "APAC - Remote"
       ],
-      "fetched": "2026-10-14"
+      "fetched": "2026-11-14"
     },
     "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8901885002": {
       "locations": [
@@ -364,11 +385,8 @@
       "fetched": "2026-11-12"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181": {
-      "locations": [
-        "China, Shanghai",
-        "China, Beijing"
-      ],
-      "fetched": "2026-10-14"
+      "locations": [],
+      "fetched": "2026-11-14"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262": {
       "locations": [
@@ -415,11 +433,8 @@
       "fetched": "2026-11-12"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596": {
-      "locations": [
-        "China, Shanghai",
-        "China, Shenzhen"
-      ],
-      "fetched": "2026-10-14"
+      "locations": [],
+      "fetched": "2026-11-14"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": {
       "locations": [
@@ -449,13 +464,6 @@
         "Switzerland, Zurich"
       ],
       "fetched": "2026-11-07"
-    },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949": {
-      "locations": [
-        "Switzerland, Zurich",
-        "UK, Bristol"
-      ],
-      "fetched": "2026-10-21"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971": {
       "locations": [
@@ -492,23 +500,12 @@
       ],
       "fetched": "2026-11-12"
     },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/UK-Bristol/Data-Processing-Developer-Technology-Intern---2027_JR2027948": {
-      "locations": [
-        "UK, Bristol",
-        "Switzerland, Zurich"
-      ],
-      "fetched": "2026-10-15"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Vietnam-Hanoi/AI-Research-Intern--TAO-Multi-Modal-Model-Development---2026_JR2021301": {
       "locations": [
         "Vietnam, Hanoi",
         "Vietnam, Ho Chi Minh City"
       ],
       "fetched": "2026-11-08"
-    },
-    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Software-Intern---Linux-Yocto_R-10066605-1": {
-      "locations": [],
-      "fetched": "2026-11-12"
     },
     "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer-Intern_R0138921": {
       "locations": [
@@ -517,9 +514,9 @@
       ],
       "fetched": "2026-11-11"
     },
-    "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe-2/": {
+    "https://saputo.wd5.myworkdayjobs.com/en-US/saputo_external_careers/job/Georgetown-ON/Intern--Trade-Promotion-Management-Business-and-Data-Analyst_JR68377-1": {
       "locations": [],
-      "fetched": "2026-11-13"
+      "fetched": "2026-11-14"
     },
     "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002": {
       "locations": [],
