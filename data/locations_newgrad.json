@@ -179,13 +179,6 @@
       ],
       "fetched": "2026-10-24"
     },
-    "https://apply.workable.com/moomoo/j/3AE982BFD0/": {
-      "locations": [
-        "Hong Kong",
-        "Shenzhen, China"
-      ],
-      "fetched": "2026-11-16"
-    },
     "https://apply.workable.com/moomoo/j/5840F6A350/": {
       "locations": [
         "Hong Kong",
@@ -213,6 +206,13 @@
         "Shenzhen, China"
       ],
       "fetched": "2026-11-08"
+    },
+    "https://apply.workable.com/moomoo/j/A947A0EEA6/": {
+      "locations": [
+        "Hong Kong",
+        "Shenzhen, China"
+      ],
+      "fetched": "2026-11-17"
     },
     "https://apply.workable.com/moomoo/j/AFC271F7AE/": {
       "locations": [
@@ -275,6 +275,12 @@
         "Colombia Remote"
       ],
       "fetched": "2026-11-01"
+    },
+    "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/ITA---BA---BARI/Graduate-Academy---Full-Stack---AI-Assisted-Development_51592179": {
+      "locations": [
+        "ITA - BA - BARI"
+      ],
+      "fetched": "2026-11-17"
     },
     "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR37744": {
       "locations": [
@@ -399,7 +405,7 @@
         "Germany (REMOTE)",
         "Stuttgart, DE"
       ],
-      "fetched": "2026-10-17"
+      "fetched": "2026-11-17"
     },
     "https://jobs.ashbyhq.com/Sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f": {
       "locations": [
@@ -449,13 +455,6 @@
         "Pune"
       ],
       "fetched": "2026-11-02"
-    },
-    "https://jobs.lever.co/recordpoint/65811c7e-96fc-4c9f-aca9-05a935f3e971": {
-      "locations": [
-        "Sydney, NSW, Australia",
-        "Melbourne, VIC, Australia"
-      ],
-      "fetched": "2026-11-15"
     },
     "https://lifeworks.wd3.myworkdayjobs.com/en-US/external/job/Toronto-Ontario-Canada/System-Analyst_R-22736": {
       "locations": [
