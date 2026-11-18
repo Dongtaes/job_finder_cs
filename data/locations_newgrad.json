@@ -43,14 +43,6 @@
       ],
       "fetched": "2026-11-09"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Madrid-Castellana-85/Junior-M365-Developer--SharePoint---SPFx---React-_R00368037": {
-      "locations": [
-        "Madrid, Castellana 85",
-        "Malaga, I+D6 - South Building",
-        "Barcelona, La Rotonda"
-      ],
-      "fetched": "2026-11-05"
-    },
     "https://acronis.wd502.myworkdayjobs.com/en-US/acronis_careers/job/Brazil---Remote/Software-Support-Specialist-with-Spanish-Portuguese---LATAM_R-101358": {
       "locations": [
         "Brazil - Remote",
@@ -83,6 +75,10 @@
         "Ireland, Dublin"
       ],
       "fetched": "2026-11-10"
+    },
+    "https://app.dover.io/apply/job/036ca45f-e7a6-4652-915f-0c545a49d3ba/": {
+      "locations": [],
+      "fetched": "2026-11-18"
     },
     "https://apply.workable.com/capgemini-insurance/j/8F4EE0B2C5/": {
       "locations": [
@@ -240,7 +236,7 @@
     },
     "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R267160": {
       "locations": [],
-      "fetched": "2026-11-14"
+      "fetched": "2026-11-18"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
       "locations": [
@@ -269,18 +265,32 @@
       ],
       "fetched": "2026-11-10"
     },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Hyderabad-India/Software-Engineer_2025113-1": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
+    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Vancouver-British-Columbia-Canada/Software-Developer-Full-Stack---Backend-II--Full-Time----Canada_2025999": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
+    "https://clarivate.wd3.myworkdayjobs.com/en-US/clarivate_careers/job/IND---Bangalore-DRG/Software-Engineer_JREQ136475": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
         "Brazil Remote",
         "Colombia Remote"
       ],
       "fetched": "2026-11-01"
-    },
-    "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/ITA---BA---BARI/Graduate-Academy---Full-Stack---AI-Assisted-Development_51592179": {
-      "locations": [
-        "ITA - BA - BARI"
-      ],
-      "fetched": "2026-11-17"
     },
     "https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR37744": {
       "locations": [
@@ -332,20 +342,6 @@
       ],
       "fetched": "2026-11-14"
     },
-    "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
-      "locations": [
-        "Sant Cugat del Valles, Barcelona, Spain",
-        "Las Rozas, Madrid, Spain"
-      ],
-      "fetched": "2026-10-25"
-    },
-    "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788": {
-      "locations": [
-        "Sant Cugat del Valles, Barcelona, Spain",
-        "Las Rozas, Madrid, Spain"
-      ],
-      "fetched": "2026-10-26"
-    },
     "https://job-boards.eu.greenhouse.io/imc/jobs/4667814101": {
       "locations": [
         "Amsterdam",
@@ -379,16 +375,6 @@
         "Dubai, Dubai, United Arab Emirates"
       ],
       "fetched": "2026-11-08"
-    },
-    "https://job-boards.greenhouse.io/hootsuite/jobs/8359647": {
-      "locations": [
-        "British Columbia",
-        "Ontario",
-        "Toronto",
-        "Vancouver",
-        "Toronto, Ontario, Canada, Vancouver, British Columbia, Canada"
-      ],
-      "fetched": "2026-11-09"
     },
     "https://job-boards.greenhouse.io/sezzle/jobs/8001111003": {
       "locations": [
@@ -465,7 +451,7 @@
     },
     "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
       "locations": [],
-      "fetched": "2026-11-14"
+      "fetched": "2026-11-18"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
       "locations": [
@@ -543,11 +529,11 @@
       ],
       "fetched": "2026-11-11"
     },
-    "https://pwc.wd3.myworkdayjobs.com/en-US/crm_experienced_careers_site/job/Bangalore-SDC---DLF-Cyber-City---Gurugram/AES-Salesforce-CGRE-Cloud-Developer---Associate_772689WD": {
+    "https://raisingthevillage.breezy.hr/p/2a602b3650ea01-data-engineer": {
       "locations": [
-        "Bangalore (SDC) - DLF Cyber City - Gurugram"
+        "Mbarara, UG"
       ],
-      "fetched": "2026-11-10"
+      "fetched": "2026-11-18"
     },
     "https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203": {
       "locations": [
@@ -556,13 +542,6 @@
       ],
       "fetched": "2026-10-22"
     },
-    "https://rbs.wd3.myworkdayjobs.com/en-US/rbs/job/Chennai/Data---Analytics-Analyst-I-B7_R-00287833-1": {
-      "locations": [
-        "Chennai",
-        "Gurugram"
-      ],
-      "fetched": "2026-11-15"
-    },
     "https://simcorp.wd3.myworkdayjobs.com/en-US/simcorp_jobs/job/Pistoia/Sofia-Developer_R-212998": {
       "locations": [
         "Pistoia",
@@ -570,12 +549,13 @@
       ],
       "fetched": "2026-11-12"
     },
-    "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Gdansk-Poland/Junior-Software-Engineer---SA_R-799312-1": {
-      "locations": [
-        "Gdansk, Poland",
-        "BIG - Zielinskiego Krakow"
-      ],
-      "fetched": "2026-11-07"
+    "https://vhr-jazz.wd1.myworkdayjobs.com/en-US/jazzpharmaceuticals/job/UK---Home-Based/AI-Data-Science-Analyst_R040303-1": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
+    "https://vhr-jazz.wd1.myworkdayjobs.com/en-US/jazzpharmaceuticals/job/UK---Home-Based/AI-Data-Science-Analyst_R040305-1": {
+      "locations": [],
+      "fetched": "2026-11-18"
     },
     "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
       "locations": [
@@ -632,7 +612,7 @@
     },
     "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5228738007": {
       "locations": [],
-      "fetched": "2026-11-14"
+      "fetched": "2026-11-18"
     }
   }
 }

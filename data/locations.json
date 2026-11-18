@@ -24,6 +24,14 @@
       ],
       "fetched": "2026-11-14"
     },
+    "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Front-end-Developer-Intern---Sitecore---AI-Academy_R00371685-1": {
+      "locations": [
+        "Assago, Via del Mulino 11a",
+        "Roma",
+        "Cagliari, Piazzetta l'Unione Sarda 24"
+      ],
+      "fetched": "2026-11-18"
+    },
     "https://apply.workable.com/helical/j/88990169F9/": {
       "locations": [
         "London, United Kingdom",
@@ -46,7 +54,7 @@
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159": {
       "locations": [],
-      "fetched": "2026-11-14"
+      "fetched": "2026-11-18"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1": {
       "locations": [
@@ -65,12 +73,6 @@
         "Montreal (St. Laurent)"
       ],
       "fetched": "2026-11-08"
-    },
-    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-dveloppeur-de-matriel-de-formation--simulateur-de-vol-----Training-Material-Developer--Flight-Simulator--_123991": {
-      "locations": [
-        "Montreal (St. Laurent)"
-      ],
-      "fetched": "2026-11-10"
     },
     "https://careers-international-realpagepms.icims.com/jobs/14422/intern-%28technical-internship%29-%7c-software%2c-analytics-%26-ai-for-property-management-operations/job": {
       "locations": [
@@ -123,6 +125,18 @@
       ],
       "fetched": "2026-11-10"
     },
+    "https://criteo.wd3.myworkdayjobs.com/en-US/criteo_career_site/job/Grenoble/Software-Engineer-Intern---Backend-or-Fullstack_r13375": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
+    "https://criteo.wd3.myworkdayjobs.com/en-US/criteo_career_site/job/Paris/Machine-Learning-Engineer-Intern_r14933": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
+    "https://criteo.wd3.myworkdayjobs.com/en-US/criteo_career_site/job/Paris/Software-Engineer-Intern---Front-End-or-Fullstack_r16311": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
     "https://fticonsulting.wd108.myworkdayjobs.com/en-US/fticonsultingcareers/job/Frankfurt-Germany/Praktikant--m-w-d--Data---AI_JR261104": {
       "locations": [
         "Frankfurt, Germany",
@@ -148,16 +162,7 @@
     },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
-      "fetched": "2026-11-14"
-    },
-    "https://job-boards.eu.greenhouse.io/bybit/jobs/4974605101": {
-      "locations": [
-        "Hong Kong SAR",
-        "Kuala Lumpur Tech Office",
-        "Remote Non-EU",
-        "APAC - Remote"
-      ],
-      "fetched": "2026-11-14"
+      "fetched": "2026-11-18"
     },
     "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8901885002": {
       "locations": [
@@ -204,6 +209,14 @@
         "London OR Brussels, United Kingdom"
       ],
       "fetched": "2026-11-09"
+    },
+    "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03": {
+      "locations": [
+        "London, United Kingdom",
+        "Brussels, Belgium",
+        "London OR Brussels, United Kingdom"
+      ],
+      "fetched": "2026-11-18"
     },
     "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7": {
       "locations": [
@@ -281,6 +294,10 @@
       ],
       "fetched": "2026-11-11"
     },
+    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-Software-Engineering---AI-Defect-Analysis--m-w-d-x-_R0007055": {
+      "locations": [],
+      "fetched": "2026-11-18"
+    },
     "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Munich---Mllerstrasse/Praktikant-in-Quantitative-Investments--m-w-d-_R_370852": {
       "locations": [
         "Munich - Müllerstrasse",
@@ -354,7 +371,7 @@
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181": {
       "locations": [],
-      "fetched": "2026-11-14"
+      "fetched": "2026-11-18"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262": {
       "locations": [
@@ -402,7 +419,11 @@
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596": {
       "locations": [],
-      "fetched": "2026-11-14"
+      "fetched": "2026-11-18"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488": {
+      "locations": [],
+      "fetched": "2026-11-18"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": {
       "locations": [
@@ -475,24 +496,9 @@
       ],
       "fetched": "2026-11-08"
     },
-    "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer-Intern_R0138921": {
-      "locations": [
-        "Bangalore, Karnataka, India",
-        "Chennai, Tamil Nadu, India"
-      ],
-      "fetched": "2026-11-11"
-    },
     "https://saputo.wd5.myworkdayjobs.com/en-US/saputo_external_careers/job/Georgetown-ON/Intern--Trade-Promotion-Management-Business-and-Data-Analyst_JR68377-1": {
       "locations": [],
-      "fetched": "2026-11-14"
-    },
-    "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002": {
-      "locations": [],
-      "fetched": "2026-11-17"
-    },
-    "https://www.coveo.com/fr/compagnie/carrieres/postes-ouverts?gh_jid=8827778002": {
-      "locations": [],
-      "fetched": "2026-11-15"
+      "fetched": "2026-11-18"
     },
     "https://www.google.com/about/careers/applications/jobs/results/104551723757904582": {
       "locations": [
@@ -528,11 +534,12 @@
       ],
       "fetched": "2026-11-08"
     },
-    "https://www.google.com/about/careers/applications/jobs/results/85430979253936838": {
+    "https://www.google.com/about/careers/applications/jobs/results/135021615204180678": {
       "locations": [
-        "Taipei, Taiwan"
+        "Taipei, Taiwan",
+        "New Taipei, Banqiao District, New Taipei City, Taiwan"
       ],
-      "fetched": "2026-11-17"
+      "fetched": "2026-11-18"
     },
     "https://www.google.com/about/careers/applications/jobs/results/88486192428786374": {
       "locations": [
