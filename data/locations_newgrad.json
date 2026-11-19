@@ -1,5 +1,9 @@
 {
   "locations": {
+    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bratislava/Junior-Software-Engineer---Pega-Career-Path_R00299753": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/Junior-Consultant-fr-AI-Powered-Enterprise-Netzwerke--all-genders-_R00353632": {
       "locations": [
         "Kronberg",
@@ -10,15 +14,6 @@
         "Berlin"
       ],
       "fetched": "2026-11-12"
-    },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Sydney-International-House-3-Sussex-St/CyberCX---Microsoft-Cloud-Engineer_R00350805-1": {
-      "locations": [
-        "Sydney, International House, 3 Sussex St",
-        "Perth",
-        "Brisbane",
-        "Adelaide"
-      ],
-      "fetched": "2026-11-15"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/Data---AI-Strategy-Analyst---Consultant--She-He-They----ICH-Europe_R00307697-1": {
       "locations": [
@@ -80,12 +75,75 @@
       "locations": [],
       "fetched": "2026-11-18"
     },
+    "https://app.dover.io/apply/job/061b3c96-479a-4b09-b323-6f4e3226743f/": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://app.dover.io/apply/job/106f5f19-65f2-4524-955f-75f2405fba48/": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://app.dover.io/apply/job/1bfd9de0-e5df-49e7-b775-9de951a00526/": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://app.dover.io/apply/job/2ffd88dc-b743-4746-8a17-41c62918efb0/": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://app.dover.io/apply/job/926aa209-0f66-40de-aff2-677a4040e9ff/": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://app.dover.io/apply/job/9491b558-9ba1-47ba-988f-b412f38aeae1/": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://app.dover.io/apply/job/e7d57faf-9635-49e3-ac3d-a88e726cb921/": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://apply.workable.com/capgemini-insurance/j/271DC1DC80/": {
+      "locations": [
+        "Pune, India",
+        "Hyderabad, India"
+      ],
+      "fetched": "2026-11-19"
+    },
+    "https://apply.workable.com/capgemini-insurance/j/4AA6157597/": {
+      "locations": [
+        "Hyderabad, India",
+        "Pune, India"
+      ],
+      "fetched": "2026-11-19"
+    },
     "https://apply.workable.com/capgemini-insurance/j/8F4EE0B2C5/": {
       "locations": [
         "Pune, India",
         "Hyderabad, India"
       ],
       "fetched": "2026-11-08"
+    },
+    "https://apply.workable.com/capgemini-insurance/j/981B712B42/": {
+      "locations": [
+        "Pune, India",
+        "Hyderabad, India"
+      ],
+      "fetched": "2026-11-19"
+    },
+    "https://apply.workable.com/capgemini-insurance/j/CDD63E3635/": {
+      "locations": [
+        "Pune, India",
+        "Hyderabad, India"
+      ],
+      "fetched": "2026-11-19"
+    },
+    "https://apply.workable.com/capgemini-insurance/j/D8CA30AB85/": {
+      "locations": [
+        "Hyderabad, India",
+        "Pune, India"
+      ],
+      "fetched": "2026-11-19"
     },
     "https://apply.workable.com/devpro/j/7745313D29/": {
       "locations": [
@@ -224,6 +282,61 @@
       ],
       "fetched": "2026-10-23"
     },
+    "https://apply.workable.com/toloka-ai/j/8AD43B34CA/": {
+      "locations": [
+        "France",
+        "Paris, France",
+        "Marseille, France",
+        "Lyon, France",
+        "Toulouse, France",
+        "Nice, France"
+      ],
+      "fetched": "2026-11-19"
+    },
+    "https://apply.workable.com/toloka-ai/j/CD2A44BEA3/": {
+      "locations": [
+        "Finland",
+        "Helsinki, Finland",
+        "Espoo, Finland",
+        "Tampere, Finland",
+        "Vantaa, Finland",
+        "Oulu, Finland"
+      ],
+      "fetched": "2026-11-19"
+    },
+    "https://apply.workable.com/toloka-ai/j/D7E7035067/": {
+      "locations": [
+        "Netherlands",
+        "Amsterdam, Netherlands",
+        "Rotterdam, Netherlands",
+        "The Hague, Netherlands",
+        "Utrecht, Netherlands",
+        "Eindhoven, Netherlands"
+      ],
+      "fetched": "2026-11-19"
+    },
+    "https://apply.workable.com/toloka-ai/j/E8A08BE0E3/": {
+      "locations": [
+        "Austria",
+        "Vienna, Austria",
+        "Graz, Austria",
+        "Linz, Austria",
+        "Salzburg, Austria",
+        "Innsbruck, Austria"
+      ],
+      "fetched": "2026-11-19"
+    },
+    "https://apply.workable.com/toloka-ai/j/F7B034FE4A/": {
+      "locations": [
+        "Italy",
+        "Rome, Italy",
+        "Milan, Italy",
+        "Naples, Italy",
+        "Turin, Italy",
+        "Palermo, Italy"
+      ],
+      "fetched": "2026-11-19"
+    },
     "https://apply.workable.com/workmotion/j/35E0CA29BF/": {
       "locations": [
         "Spain",
@@ -233,6 +346,18 @@
         "Ireland"
       ],
       "fetched": "2026-11-12"
+    },
+    "https://bitdeer.breezy.hr/p/57f4a6737b1c-sre-monitoring-platform-software-engineer": {
+      "locations": [
+        "Penang, Malaysia"
+      ],
+      "fetched": "2026-11-19"
+    },
+    "https://bitdeer.breezy.hr/p/7b4941057fd1-ai-engineering-graduate-talent-trainee": {
+      "locations": [
+        "Singapore"
+      ],
+      "fetched": "2026-11-19"
     },
     "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R267160": {
       "locations": [],
@@ -270,18 +395,6 @@
       "fetched": "2026-11-18"
     },
     "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139": {
-      "locations": [],
-      "fetched": "2026-11-18"
-    },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166": {
-      "locations": [],
-      "fetched": "2026-11-18"
-    },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Vancouver-British-Columbia-Canada/Software-Developer-Full-Stack---Backend-II--Full-Time----Canada_2025999": {
-      "locations": [],
-      "fetched": "2026-11-18"
-    },
-    "https://clarivate.wd3.myworkdayjobs.com/en-US/clarivate_careers/job/IND---Bangalore-DRG/Software-Engineer_JREQ136475": {
       "locations": [],
       "fetched": "2026-11-18"
     },
@@ -342,6 +455,21 @@
       ],
       "fetched": "2026-11-14"
     },
+    "https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/UK--London--New-Oxford-Street/Customer-Experience-and-AI--Multiple-Roles--Industrial-Placement--UK-2027_447044-1": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Mexico-City-Mexico/Proposal-Developer_R1576495": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
+    "https://job-boards.anz.greenhouse.io/quantium/jobs/4005587201": {
+      "locations": [
+        "Melbourne",
+        "Sydney"
+      ],
+      "fetched": "2026-11-19"
+    },
     "https://job-boards.eu.greenhouse.io/imc/jobs/4667814101": {
       "locations": [
         "Amsterdam",
@@ -359,6 +487,13 @@
       ],
       "fetched": "2026-10-25"
     },
+    "https://job-boards.greenhouse.io/beauhurst/jobs/8375802002": {
+      "locations": [
+        "London",
+        "Nottingham"
+      ],
+      "fetched": "2026-11-19"
+    },
     "https://job-boards.greenhouse.io/canonical/jobs/8130859": {
       "locations": [
         "Home Based - Worldwide",
@@ -375,6 +510,16 @@
         "Dubai, Dubai, United Arab Emirates"
       ],
       "fetched": "2026-11-08"
+    },
+    "https://job-boards.greenhouse.io/hootsuite/jobs/8359647": {
+      "locations": [
+        "British Columbia",
+        "Ontario",
+        "Toronto",
+        "Vancouver",
+        "Toronto, Ontario, Canada, Vancouver, British Columbia, Canada"
+      ],
+      "fetched": "2026-11-19"
     },
     "https://job-boards.greenhouse.io/sezzle/jobs/8001111003": {
       "locations": [
@@ -425,7 +570,7 @@
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
-      "fetched": "2026-11-15"
+      "fetched": "2026-11-19"
     },
     "https://jobs.lever.co/Clearer/0e02e9d3-c9ee-4bdf-bd0d-7410f4319bad": {
       "locations": [
@@ -442,6 +587,10 @@
       ],
       "fetched": "2026-11-02"
     },
+    "https://jobs.smartrecruiters.com/Playtech/744000162022600-cloud-security-engineer?oga=true": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
     "https://lifeworks.wd3.myworkdayjobs.com/en-US/external/job/Toronto-Ontario-Canada/System-Analyst_R-22736": {
       "locations": [
         "Toronto, Ontario, Canada",
@@ -449,9 +598,9 @@
       ],
       "fetched": "2026-11-05"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
       "locations": [],
-      "fetched": "2026-11-18"
+      "fetched": "2026-11-19"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
       "locations": [
@@ -498,9 +647,13 @@
       ],
       "fetched": "2026-11-15"
     },
+    "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Leuven/ML-Model-Security---Privacy-Architect--m-f-d-_R-10060435": {
+      "locations": [],
+      "fetched": "2026-11-19"
+    },
     "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/": {
       "locations": [],
-      "fetched": "2026-11-15"
+      "fetched": "2026-11-19"
     },
     "https://paystand.com/job-listing/?gh_jid=7919857003": {
       "locations": [
@@ -528,6 +681,10 @@
         "Ciudad de México"
       ],
       "fetched": "2026-11-11"
+    },
+    "https://prometeia.wd3.myworkdayjobs.com/en-US/prometeia_external_career_portal/job/Milano---Brera/Junior-Cloud-Native-Engineer_JR100158-1": {
+      "locations": [],
+      "fetched": "2026-11-19"
     },
     "https://raisingthevillage.breezy.hr/p/2a602b3650ea01-data-engineer": {
       "locations": [
@@ -559,11 +716,12 @@
     },
     "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
       "locations": [
-        "Quebec, Canada - Remote",
-        "Argentina - Remote",
-        "Ontario, Canada - Remote"
+        "Ontario - Remote",
+        "Nova Scotia, Canada - Remote",
+        "Ontario, Canada - Remote",
+        "Argentina - Remote"
       ],
-      "fetched": "2026-10-19"
+      "fetched": "2026-11-19"
     },
     "https://www.axiomlaw.com/careers/lawyers/available-positions/8901836002?gh_jid=8901836002": {
       "locations": [
@@ -595,7 +753,7 @@
     },
     "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002": {
       "locations": [],
-      "fetched": "2026-11-15"
+      "fetched": "2026-11-19"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [
