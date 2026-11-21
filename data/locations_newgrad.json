@@ -158,7 +158,7 @@
         "Athens, Greece",
         "Thessaloniki, Greece"
       ],
-      "fetched": "2026-10-21"
+      "fetched": "2026-11-21"
     },
     "https://apply.workable.com/fidus/j/530C9AAB54/": {
       "locations": [
@@ -202,6 +202,13 @@
         "Thailand"
       ],
       "fetched": "2026-11-11"
+    },
+    "https://apply.workable.com/helical/j/0564F473EC/": {
+      "locations": [
+        "London, United Kingdom",
+        "Luxembourg"
+      ],
+      "fetched": "2026-11-21"
     },
     "https://apply.workable.com/lucidya/j/8120FF802B/": {
       "locations": [
@@ -285,59 +292,21 @@
       ],
       "fetched": "2026-11-20"
     },
-    "https://apply.workable.com/toloka-ai/j/CD2A44BEA3/": {
-      "locations": [
-        "Finland",
-        "Helsinki, Finland",
-        "Espoo, Finland",
-        "Tampere, Finland",
-        "Vantaa, Finland",
-        "Oulu, Finland"
-      ],
-      "fetched": "2026-11-19"
+    "https://apply.workable.com/toloka-ai/j/2055E1FF20/": {
+      "locations": [],
+      "fetched": "2026-11-21"
     },
-    "https://apply.workable.com/toloka-ai/j/D7E7035067/": {
-      "locations": [
-        "Netherlands",
-        "Amsterdam, Netherlands",
-        "Rotterdam, Netherlands",
-        "The Hague, Netherlands",
-        "Utrecht, Netherlands",
-        "Eindhoven, Netherlands"
-      ],
-      "fetched": "2026-11-19"
+    "https://apply.workable.com/toloka-ai/j/60FA7D9BBA/": {
+      "locations": [],
+      "fetched": "2026-11-21"
     },
-    "https://apply.workable.com/toloka-ai/j/E8A08BE0E3/": {
-      "locations": [
-        "Austria",
-        "Vienna, Austria",
-        "Graz, Austria",
-        "Linz, Austria",
-        "Salzburg, Austria",
-        "Innsbruck, Austria"
-      ],
-      "fetched": "2026-11-19"
+    "https://apply.workable.com/toloka-ai/j/A588FDC16E/": {
+      "locations": [],
+      "fetched": "2026-11-21"
     },
-    "https://apply.workable.com/toloka-ai/j/F7B034FE4A/": {
-      "locations": [
-        "Italy",
-        "Rome, Italy",
-        "Milan, Italy",
-        "Naples, Italy",
-        "Turin, Italy",
-        "Palermo, Italy"
-      ],
-      "fetched": "2026-11-19"
-    },
-    "https://apply.workable.com/workmotion/j/35E0CA29BF/": {
-      "locations": [
-        "Spain",
-        "Portugal",
-        "Bulgaria",
-        "United Kingdom",
-        "Ireland"
-      ],
-      "fetched": "2026-11-12"
+    "https://apply.workable.com/toloka-ai/j/A6B57A5096/": {
+      "locations": [],
+      "fetched": "2026-11-21"
     },
     "https://bitdeer.breezy.hr/p/57f4a6737b1c-sre-monitoring-platform-software-engineer": {
       "locations": [
@@ -356,17 +325,15 @@
       "fetched": "2026-11-18"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
-      "locations": [
-        "GYEONGGI-DO (Seoul)"
-      ],
-      "fetched": "2026-10-21"
+      "locations": [],
+      "fetched": "2026-11-21"
     },
     "https://careers-bdobelgium.icims.com/jobs/1760/software-%28erp%29-implementation-junior-consultant-%28start-asap%29/job": {
       "locations": [
         "Zaventem, VBR, Belgium",
         "Antwerp, VAN, Belgium"
       ],
-      "fetched": "2026-10-21"
+      "fetched": "2026-11-21"
     },
     "https://careers-personifyhealth.icims.com/jobs/4879/devops-engineer-i/job": {
       "locations": [
@@ -462,6 +429,10 @@
     "https://hubinternational.wd1.myworkdayjobs.com/en-US/hubinternational/job/Toronto-ON/Software-Developer_R0039600-1": {
       "locations": [],
       "fetched": "2026-11-20"
+    },
+    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Mexico-City-Mexico/Proposal-Developer_R1568594": {
+      "locations": [],
+      "fetched": "2026-11-21"
     },
     "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Mexico-City-Mexico/Proposal-Developer_R1576495": {
       "locations": [],
@@ -594,9 +565,9 @@
       ],
       "fetched": "2026-11-05"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
       "locations": [],
-      "fetched": "2026-11-20"
+      "fetched": "2026-11-21"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
       "locations": [
@@ -606,12 +577,8 @@
       "fetched": "2026-11-12"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Developer-Technology-Engineer---New-College-Graduate-2027_JR2023566": {
-      "locations": [
-        "China, Shanghai",
-        "China, Beijing",
-        "China, Shenzhen"
-      ],
-      "fetched": "2026-10-21"
+      "locations": [],
+      "fetched": "2026-11-21"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Deep-Learning-and-High-Performance-Computing-Engineering---China_JR2024107": {
       "locations": [
@@ -635,6 +602,14 @@
         "Israel, Beer Sheva"
       ],
       "fetched": "2026-10-30"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Tel-Aviv/Software-Developer_JR2028112": {
+      "locations": [],
+      "fetched": "2026-11-21"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Palestine-Rawabi/Software-QA-Engineer--DOCA-Host_JR2029966": {
+      "locations": [],
+      "fetched": "2026-11-21"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Taiwan-Taipei/PCB-Design-EDA-and-AI-Engineer---New-College-Graduate-2027_JR2027611": {
       "locations": [
@@ -751,6 +726,10 @@
       ],
       "fetched": "2026-11-06"
     },
+    "https://www.mako.com/opportunities/job-listing/8654611002?gh_jid=8654611002": {
+      "locations": [],
+      "fetched": "2026-11-21"
+    },
     "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002": {
       "locations": [],
       "fetched": "2026-11-19"
@@ -767,6 +746,10 @@
         "Hong Kong, Singapore"
       ],
       "fetched": "2026-11-03"
+    },
+    "https://zalando.wd3.myworkdayjobs.com/en-US/zalandositewd/job/Dortmund/Junior-Software-Engineer--all-genders-_2725547-2": {
+      "locations": [],
+      "fetched": "2026-11-21"
     }
   }
 }
