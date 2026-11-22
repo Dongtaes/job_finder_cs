@@ -65,7 +65,7 @@
     },
     "https://app.dover.io/apply/job/036ca45f-e7a6-4652-915f-0c545a49d3ba/": {
       "locations": [],
-      "fetched": "2026-11-18"
+      "fetched": "2026-11-22"
     },
     "https://app.dover.io/apply/job/061b3c96-479a-4b09-b323-6f4e3226743f/": {
       "locations": [],
@@ -281,32 +281,25 @@
       ],
       "fetched": "2026-10-23"
     },
-    "https://apply.workable.com/toloka-ai/j/18859A56BB/": {
-      "locations": [
-        "Germany",
-        "Berlin, Germany",
-        "Hamburg, Germany",
-        "Munich, Germany",
-        "Cologne, Germany",
-        "Frankfurt am Main, Germany"
-      ],
-      "fetched": "2026-11-20"
-    },
-    "https://apply.workable.com/toloka-ai/j/2055E1FF20/": {
+    "https://apply.workable.com/toloka-ai/j/4FF71F7E80/": {
       "locations": [],
-      "fetched": "2026-11-21"
+      "fetched": "2026-11-22"
+    },
+    "https://apply.workable.com/toloka-ai/j/53376C6223/": {
+      "locations": [],
+      "fetched": "2026-11-22"
     },
     "https://apply.workable.com/toloka-ai/j/60FA7D9BBA/": {
       "locations": [],
       "fetched": "2026-11-21"
     },
-    "https://apply.workable.com/toloka-ai/j/A588FDC16E/": {
+    "https://apply.workable.com/toloka-ai/j/63B3CC18DA/": {
       "locations": [],
-      "fetched": "2026-11-21"
+      "fetched": "2026-11-22"
     },
-    "https://apply.workable.com/toloka-ai/j/A6B57A5096/": {
+    "https://apply.workable.com/toloka-ai/j/B7D5AE4E5B/": {
       "locations": [],
-      "fetched": "2026-11-21"
+      "fetched": "2026-11-22"
     },
     "https://bitdeer.breezy.hr/p/57f4a6737b1c-sre-monitoring-platform-software-engineer": {
       "locations": [
@@ -322,7 +315,7 @@
     },
     "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R267160": {
       "locations": [],
-      "fetched": "2026-11-18"
+      "fetched": "2026-11-22"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
       "locations": [],
@@ -351,11 +344,11 @@
     },
     "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Hyderabad-India/Software-Engineer_2025113-1": {
       "locations": [],
-      "fetched": "2026-11-18"
+      "fetched": "2026-11-22"
     },
     "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139": {
       "locations": [],
-      "fetched": "2026-11-18"
+      "fetched": "2026-11-22"
     },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
@@ -668,7 +661,7 @@
         "Sydney",
         "Baulkham Hills, Sydney"
       ],
-      "fetched": "2026-10-22"
+      "fetched": "2026-11-22"
     },
     "https://simcorp.wd3.myworkdayjobs.com/en-US/simcorp_jobs/job/Pistoia/Sofia-Developer_R-212998": {
       "locations": [
