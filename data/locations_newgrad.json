@@ -2,7 +2,7 @@
   "locations": {
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Bratislava/Junior-Software-Engineer---Pega-Career-Path_R00299753": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Kronberg/Junior-Consultant-fr-AI-Powered-Enterprise-Netzwerke--all-genders-_R00353632": {
       "locations": [
@@ -69,31 +69,31 @@
     },
     "https://app.dover.io/apply/job/061b3c96-479a-4b09-b323-6f4e3226743f/": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://app.dover.io/apply/job/106f5f19-65f2-4524-955f-75f2405fba48/": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://app.dover.io/apply/job/1bfd9de0-e5df-49e7-b775-9de951a00526/": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://app.dover.io/apply/job/2ffd88dc-b743-4746-8a17-41c62918efb0/": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://app.dover.io/apply/job/926aa209-0f66-40de-aff2-677a4040e9ff/": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://app.dover.io/apply/job/9491b558-9ba1-47ba-988f-b412f38aeae1/": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://app.dover.io/apply/job/e7d57faf-9635-49e3-ac3d-a88e726cb921/": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://apply.workable.com/capgemini-insurance/j/271DC1DC80/": {
       "locations": [
@@ -244,7 +244,7 @@
         "Hong Kong",
         "Shenzhen, China"
       ],
-      "fetched": "2026-10-23"
+      "fetched": "2026-11-23"
     },
     "https://apply.workable.com/moomoo/j/876883710A/": {
       "locations": [
@@ -272,34 +272,69 @@
         "Hong Kong",
         "Shenzhen, China"
       ],
-      "fetched": "2026-10-23"
+      "fetched": "2026-11-23"
     },
     "https://apply.workable.com/moomoo/j/EA926D35D8/": {
       "locations": [
         "Hong Kong",
         "Shenzhen, China"
       ],
-      "fetched": "2026-10-23"
+      "fetched": "2026-11-23"
     },
-    "https://apply.workable.com/toloka-ai/j/4FF71F7E80/": {
-      "locations": [],
-      "fetched": "2026-11-22"
+    "https://apply.workable.com/toloka-ai/j/1B33833851/": {
+      "locations": [
+        "Mexico",
+        "Mexico City, Mexico",
+        "Guadalajara, Mexico",
+        "Monterrey, Mexico",
+        "Puebla, Mexico",
+        "Tijuana, Mexico"
+      ],
+      "fetched": "2026-11-23"
     },
-    "https://apply.workable.com/toloka-ai/j/53376C6223/": {
-      "locations": [],
-      "fetched": "2026-11-22"
+    "https://apply.workable.com/toloka-ai/j/25404D7AD4/": {
+      "locations": [
+        "Ireland",
+        "Dublin, Ireland",
+        "Cork, Ireland",
+        "Limerick, Ireland",
+        "Galway, Ireland",
+        "Waterford, Ireland"
+      ],
+      "fetched": "2026-11-23"
     },
-    "https://apply.workable.com/toloka-ai/j/60FA7D9BBA/": {
-      "locations": [],
-      "fetched": "2026-11-21"
+    "https://apply.workable.com/toloka-ai/j/8449EE3927/": {
+      "locations": [
+        "Sweden",
+        "Stockholm, Sweden",
+        "Gothenburg, Sweden",
+        "Malmö, Sweden",
+        "Uppsala, Sweden",
+        "Västerås, Sweden"
+      ],
+      "fetched": "2026-11-23"
     },
-    "https://apply.workable.com/toloka-ai/j/63B3CC18DA/": {
-      "locations": [],
-      "fetched": "2026-11-22"
+    "https://apply.workable.com/toloka-ai/j/D1B7CB3655/": {
+      "locations": [
+        "Denmark",
+        "Copenhagen, Denmark",
+        "Aarhus, Denmark",
+        "Odense, Denmark",
+        "Aalborg, Denmark",
+        "Esbjerg, Denmark"
+      ],
+      "fetched": "2026-11-23"
     },
-    "https://apply.workable.com/toloka-ai/j/B7D5AE4E5B/": {
-      "locations": [],
-      "fetched": "2026-11-22"
+    "https://apply.workable.com/toloka-ai/j/EDFDA82864/": {
+      "locations": [
+        "Slovakia",
+        "Bratislava, Slovakia",
+        "Košice, Slovakia",
+        "Prešov, Slovakia",
+        "Žilina, Slovakia",
+        "Nitra, Slovakia"
+      ],
+      "fetched": "2026-11-23"
     },
     "https://bitdeer.breezy.hr/p/57f4a6737b1c-sre-monitoring-platform-software-engineer": {
       "locations": [
@@ -346,10 +381,6 @@
       "locations": [],
       "fetched": "2026-11-22"
     },
-    "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Full-Time----Canada_2024139": {
-      "locations": [],
-      "fetched": "2026-11-22"
-    },
     "https://csgi.wd5.myworkdayjobs.com/en-US/csgcareers/job/Brazil-Remote/Software-Development-Engineer---OpenText-Exstream_32388": {
       "locations": [
         "Brazil Remote",
@@ -370,11 +401,8 @@
       "fetched": "2026-10-24"
     },
     "https://edenpeople.wd3.myworkdayjobs.com/en-US/edenred_careers/job/Germany---Kleinostheim/RPG--SQL-Developer-for-Power-i--all-genders-_JR021432": {
-      "locations": [
-        "Germany - Kleinostheim",
-        "Germany - Frankfurt"
-      ],
-      "fetched": "2026-10-23"
+      "locations": [],
+      "fetched": "2026-11-23"
     },
     "https://eng.wd3.myworkdayjobs.com/en-US/externalcareers/job/Milano-Sarca/Mulesoft-Developer-Junior_JR105349": {
       "locations": [
@@ -409,7 +437,11 @@
     },
     "https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/UK--London--New-Oxford-Street/Customer-Experience-and-AI--Multiple-Roles--Industrial-Placement--UK-2027_447044-1": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
+    },
+    "https://gsk.wd5.myworkdayjobs.com/en-US/gskcareers/job/UK--London--New-Oxford-Street/Engineer-I--Full-Stack-Engineer_451868-1": {
+      "locations": [],
+      "fetched": "2026-11-23"
     },
     "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Sant-Cugat-del-Valles-Barcelona-Spain/GSS-Iberia---Inside-Software-Specialists_3167788-1": {
       "locations": [],
@@ -423,13 +455,9 @@
       "locations": [],
       "fetched": "2026-11-20"
     },
-    "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Mexico-City-Mexico/Proposal-Developer_R1568594": {
-      "locations": [],
-      "fetched": "2026-11-21"
-    },
     "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Mexico-City-Mexico/Proposal-Developer_R1576495": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://job-boards.anz.greenhouse.io/quantium/jobs/4005587201": {
       "locations": [
@@ -530,7 +558,7 @@
     },
     "https://jobs.dayforcehcm.com/en-US/caciltd/candidateportal/jobs/3317": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://jobs.lever.co/Clearer/0e02e9d3-c9ee-4bdf-bd0d-7410f4319bad": {
       "locations": [
@@ -549,7 +577,7 @@
     },
     "https://jobs.smartrecruiters.com/Playtech/744000162022600-cloud-security-engineer?oga=true": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://lifeworks.wd3.myworkdayjobs.com/en-US/external/job/Toronto-Ontario-Canada/System-Analyst_R-22736": {
       "locations": [
@@ -557,6 +585,12 @@
         "Montreal, Quebec, Canada"
       ],
       "fetched": "2026-11-05"
+    },
+    "https://loanbud.breezy.hr/p/c8b039d253af-junior-full-stack-engineer-latam": {
+      "locations": [
+        "Argentina"
+      ],
+      "fetched": "2026-11-23"
     },
     "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
       "locations": [],
@@ -589,17 +623,6 @@
       ],
       "fetched": "2026-11-12"
     },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2026556": {
-      "locations": [
-        "Israel, Tel Aviv",
-        "Israel, Beer Sheva"
-      ],
-      "fetched": "2026-10-30"
-    },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Israel-Tel-Aviv/Software-Developer_JR2028112": {
-      "locations": [],
-      "fetched": "2026-11-21"
-    },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Palestine-Rawabi/Software-QA-Engineer--DOCA-Host_JR2029966": {
       "locations": [],
       "fetched": "2026-11-21"
@@ -613,11 +636,15 @@
     },
     "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Leuven/ML-Model-Security---Privacy-Architect--m-f-d-_R-10060435": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://outpace.in/careers/co/kolkata-mumbai/88.E6D/financial-data-analyst-job-code-172/all/": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
+    },
+    "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Machine-Learning-Engineer--Fraud--Crypto---Debit-Card-_R0139149": {
+      "locations": [],
+      "fetched": "2026-11-23"
     },
     "https://paystand.com/job-listing/?gh_jid=7919857003": {
       "locations": [
@@ -647,8 +674,10 @@
       "fetched": "2026-11-11"
     },
     "https://prometeia.wd3.myworkdayjobs.com/en-US/prometeia_external_career_portal/job/Milano---Brera/Junior-Cloud-Native-Engineer_JR100158-1": {
-      "locations": [],
-      "fetched": "2026-11-19"
+      "locations": [
+        "Milano - Brera, Italy"
+      ],
+      "fetched": "2026-11-23"
     },
     "https://raisingthevillage.breezy.hr/p/2a602b3650ea01-data-engineer": {
       "locations": [
@@ -678,10 +707,6 @@
       "locations": [],
       "fetched": "2026-11-20"
     },
-    "https://sunlife.wd3.myworkdayjobs.com/en-US/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Software-Quality-Engineer-I_JR00129767": {
-      "locations": [],
-      "fetched": "2026-11-20"
-    },
     "https://web.wd1.myworkdayjobs.com/en-US/externalcareersite/job/Quebec-Canada---Remote/Software-Engineer---AI_R15157": {
       "locations": [
         "Ontario - Remote",
@@ -691,19 +716,19 @@
       ],
       "fetched": "2026-11-19"
     },
+    "https://www.asm.com/open-vacancies/?gh_jid=5019681101": {
+      "locations": [
+        "Hwaseong(ASM Korea Ltd.)",
+        "South Korea > Hwaseong"
+      ],
+      "fetched": "2026-11-23"
+    },
     "https://www.axiomlaw.com/careers/lawyers/available-positions/8901836002?gh_jid=8901836002": {
       "locations": [
         "Singapore - Insourcing",
         "APAC - Singapore - Singapore"
       ],
-      "fetched": "2026-10-23"
-    },
-    "https://www.google.com/about/careers/applications/jobs/results/133363303903568582": {
-      "locations": [
-        "Tel Aviv, Israel",
-        "Haifa, Israel"
-      ],
-      "fetched": "2026-10-23"
+      "fetched": "2026-11-23"
     },
     "https://www.google.com/about/careers/applications/jobs/results/139608513574773446": {
       "locations": [
@@ -725,7 +750,7 @@
     },
     "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002": {
       "locations": [],
-      "fetched": "2026-11-19"
+      "fetched": "2026-11-23"
     },
     "https://www.optiver.com/join-us/jobs/8585609002/?gh_jid=8585609002": {
       "locations": [
