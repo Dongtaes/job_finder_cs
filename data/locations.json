@@ -12,10 +12,6 @@
       "locations": [],
       "fetched": "2026-11-23"
     },
-    "https://accenture.wd103.myworkdayjobs.com/en-US/accenturecareers/job/Warsaw/AI-MLOps-Internship-Program--She-He-They-_R00352434": {
-      "locations": [],
-      "fetched": "2026-11-23"
-    },
     "https://accenture.wd103.myworkdayjobs.com/en-US/avanadecareers/job/Assago-Via-del-Mulino-11a/Front-end-Developer-Intern---Sitecore---AI-Academy_R00371676": {
       "locations": [
         "Assago, Via del Mulino 11a",
@@ -39,6 +35,10 @@
         "Cagliari, Piazzetta l'Unione Sarda 24"
       ],
       "fetched": "2026-11-18"
+    },
+    "https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Stuttgart-Area/Praktikum--AI-Softwareentwicklung---d-m-w-_JR10460095": {
+      "locations": [],
+      "fetched": "2026-11-25"
     },
     "https://app.dover.io/apply/job/c45bfc56-9c35-4c95-91a2-7b618adb0b19/": {
       "locations": [],
@@ -64,11 +64,11 @@
     },
     "https://bdo.wd3.myworkdayjobs.com/en-US/bdo/job/Toronto---Bay-St/Co-op-or-Intern--Full-Stack-Developer--January-2027-_JR7057": {
       "locations": [],
-      "fetched": "2026-11-21"
+      "fetched": "2026-11-25"
     },
     "https://bitmovin.com/careers/8916523002?gh_jid=8916523002": {
       "locations": [],
-      "fetched": "2026-11-21"
+      "fetched": "2026-11-25"
     },
     "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002": {
       "locations": [
@@ -221,6 +221,13 @@
       ],
       "fetched": "2026-11-22"
     },
+    "https://job-boards.greenhouse.io/sezzle/jobs/7906408003": {
+      "locations": [
+        "Bogota, Colombia",
+        "Peru"
+      ],
+      "fetched": "2026-11-25"
+    },
     "https://job-boards.greenhouse.io/sezzle/jobs/7906563003": {
       "locations": [
         "Bogota, Colombia",
@@ -284,6 +291,13 @@
       ],
       "fetched": "2026-11-09"
     },
+    "https://jobs.ashbyhq.com/prior-labs/4c1e34d6-b5b9-4b17-94a0-22dc838af20f": {
+      "locations": [
+        "Berlin, Germany",
+        "Freiburg, Germany"
+      ],
+      "fetched": "2026-11-25"
+    },
     "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b": {
       "locations": [
         "Vancouver, British Columbia, Canada",
@@ -344,16 +358,9 @@
       "locations": [],
       "fetched": "2026-11-23"
     },
-    "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/mbti_jobportal/job/Ulm/Praktikant-AI---Data-Engineering--d-m-w-x-_R0006786": {
-      "locations": [
-        "Ulm",
-        "Stuttgart"
-      ],
-      "fetched": "2026-11-11"
-    },
     "https://michelinhr.wd3.myworkdayjobs.com/en-US/michelin/job/Bangkok-MSG-Headquarters/Internship---Data-analyst_R-2022034762": {
       "locations": [],
-      "fetched": "2026-11-21"
+      "fetched": "2026-11-25"
     },
     "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Munich---Mllerstrasse/Praktikant-in-Quantitative-Investments--m-w-d-_R_370852": {
       "locations": [
@@ -496,10 +503,6 @@
         "China, Shanghai"
       ],
       "fetched": "2026-11-09"
-    },
-    "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2028210": {
-      "locations": [],
-      "fetched": "2026-11-22"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025": {
       "locations": [
@@ -660,7 +663,7 @@
     },
     "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124": {
       "locations": [],
-      "fetched": "2026-11-21"
+      "fetched": "2026-11-25"
     },
     "https://www.tower-research.com/open-positions/?gh_jid=8168634": {
       "locations": [
