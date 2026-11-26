@@ -62,7 +62,7 @@
     },
     "https://app.dover.io/apply/job/036ca45f-e7a6-4652-915f-0c545a49d3ba/": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://app.dover.io/apply/job/061b3c96-479a-4b09-b323-6f4e3226743f/": {
       "locations": [],
@@ -264,59 +264,60 @@
       ],
       "fetched": "2026-11-23"
     },
-    "https://apply.workable.com/toloka-ai/j/B40E8CB800/": {
+    "https://apply.workable.com/toloka-ai/j/1B33833851/": {
       "locations": [
-        "Croatia",
-        "Slovenia",
-        "Lithuania",
-        "Latvia",
-        "Estonia"
+        "Mexico",
+        "Mexico City, Mexico",
+        "Guadalajara, Mexico",
+        "Monterrey, Mexico",
+        "Puebla, Mexico",
+        "Tijuana, Mexico"
       ],
-      "fetched": "2026-11-25"
+      "fetched": "2026-11-26"
     },
-    "https://apply.workable.com/toloka-ai/j/D036458EBF/": {
+    "https://apply.workable.com/toloka-ai/j/25404D7AD4/": {
       "locations": [
-        "Austria",
-        "Vienna, Austria",
-        "Graz, Austria",
-        "Linz, Austria",
-        "Salzburg, Austria",
-        "Innsbruck, Austria"
+        "Ireland",
+        "Dublin, Ireland",
+        "Cork, Ireland",
+        "Limerick, Ireland",
+        "Galway, Ireland",
+        "Waterford, Ireland"
       ],
-      "fetched": "2026-11-25"
+      "fetched": "2026-11-26"
     },
-    "https://apply.workable.com/toloka-ai/j/E88E10A552/": {
+    "https://apply.workable.com/toloka-ai/j/D1B7CB3655/": {
       "locations": [
-        "India",
-        "Mumbai, India",
-        "Bengaluru, India",
-        "New Delhi, India",
-        "Hyderabad, India",
-        "Chennai, India"
+        "Denmark",
+        "Copenhagen, Denmark",
+        "Aarhus, Denmark",
+        "Odense, Denmark",
+        "Aalborg, Denmark",
+        "Esbjerg, Denmark"
       ],
-      "fetched": "2026-11-24"
+      "fetched": "2026-11-26"
     },
-    "https://apply.workable.com/toloka-ai/j/E8AA820CE4/": {
+    "https://apply.workable.com/toloka-ai/j/D3446FDFC1/": {
       "locations": [
-        "Poland",
-        "Warsaw, Poland",
-        "Kraków, Poland",
-        "Wrocław, Poland",
-        "Łódź, Poland",
-        "Poznań, Poland"
+        "Spain",
+        "Madrid, Spain",
+        "Barcelona, Spain",
+        "València, Spain",
+        "Seville, Spain",
+        "Zaragoza, Spain"
       ],
-      "fetched": "2026-11-24"
+      "fetched": "2026-11-26"
     },
-    "https://apply.workable.com/toloka-ai/j/EDFDA82864/": {
+    "https://apply.workable.com/toloka-ai/j/DDDF435B17/": {
       "locations": [
-        "Slovakia",
-        "Bratislava, Slovakia",
-        "Košice, Slovakia",
-        "Prešov, Slovakia",
-        "Žilina, Slovakia",
-        "Nitra, Slovakia"
+        "Italy",
+        "Rome, Italy",
+        "Milan, Italy",
+        "Naples, Italy",
+        "Turin, Italy",
+        "Palermo, Italy"
       ],
-      "fetched": "2026-11-25"
+      "fetched": "2026-11-26"
     },
     "https://bitdeer.breezy.hr/p/57f4a6737b1c-sre-monitoring-platform-software-engineer": {
       "locations": [
@@ -332,7 +333,7 @@
     },
     "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R267160": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/GYEONGGI-DO-Seoul/Software-Engineer-II---Innovus_R56761": {
       "locations": [],
@@ -360,8 +361,11 @@
       "fetched": "2026-11-10"
     },
     "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Hyderabad-India/Software-Engineer_2025113-1": {
-      "locations": [],
-      "fetched": "2026-11-22"
+      "locations": [
+        "Hyderabad, India",
+        "Bangalore, India"
+      ],
+      "fetched": "2026-11-26"
     },
     "https://clarivate.wd3.myworkdayjobs.com/en-US/clarivate_careers/job/IND---Bangalore-DRG/Software-Engineer_JREQ136475": {
       "locations": [],
@@ -558,9 +562,9 @@
       ],
       "fetched": "2026-11-05"
     },
-    "https://mmc.wd1.myworkdayjobs.com/en-US/careers/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629": {
+    "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Berlin---Mittelstrasse/XMLNAME-2027-Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_366629-1": {
       "locations": [],
-      "fetched": "2026-11-25"
+      "fetched": "2026-11-26"
     },
     "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300": {
       "locations": [

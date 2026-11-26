@@ -80,16 +80,18 @@
       "fetched": "2026-11-09"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/FELDKIRCHEN-Munich/Intern-Agentic-AI-Workflow-Development---Validation-for-Digital-Design--f-m-d-_R57159": {
-      "locations": [],
-      "fetched": "2026-11-22"
+      "locations": [
+        "FELDKIRCHEN 01 (MUNICH), Germany"
+      ],
+      "fetched": "2026-11-26"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811-1": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire---Dveloppeur-Full-Stack_123907-1": {
       "locations": [
@@ -149,16 +151,19 @@
       "fetched": "2026-11-10"
     },
     "https://criteo.wd3.myworkdayjobs.com/en-US/criteo_career_site/job/Grenoble/Software-Engineer-Intern---Backend-or-Fullstack_r13375": {
-      "locations": [],
-      "fetched": "2026-11-22"
+      "locations": [
+        "Grenoble",
+        "Paris"
+      ],
+      "fetched": "2026-11-26"
     },
     "https://criteo.wd3.myworkdayjobs.com/en-US/criteo_career_site/job/Paris/Machine-Learning-Engineer-Intern_r14933": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://criteo.wd3.myworkdayjobs.com/en-US/criteo_career_site/job/Paris/Software-Engineer-Intern---Front-End-or-Fullstack_r16311": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Hyderabad-Telangana-India/MSFT-AI-Business-Solutions-Technical-Intern_R-71046": {
       "locations": [],
@@ -189,7 +194,7 @@
     },
     "https://helsing.ai/jobs/4941957101?gh_jid=4941957101": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://job-boards.eu.greenhouse.io/straitsx/jobs/4942133101": {
       "locations": [
@@ -435,7 +440,7 @@
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Applied-Deep-Learning-Algorithm-Intern--Autonomous-Driving---2027_JR2027181": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262": {
       "locations": [
@@ -445,11 +450,8 @@
       "fetched": "2026-11-12"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Deep-Learning-Model-and-System-Optimization-Engineering-Intern---2027_JR2027784": {
-      "locations": [
-        "China, Shanghai",
-        "China, Beijing"
-      ],
-      "fetched": "2026-10-26"
+      "locations": [],
+      "fetched": "2026-11-26"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/GPU-Computing-Software-Engineering-Intern--Autonomous-Driving---2027_JR2026546": {
       "locations": [
@@ -483,11 +485,11 @@
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--Deep-Learning---2027_JR2027596": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2027_JR2029488": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": {
       "locations": [
@@ -554,7 +556,7 @@
     },
     "https://saputo.wd5.myworkdayjobs.com/en-US/saputo_external_careers/job/Georgetown-ON/Intern--Trade-Promotion-Management-Business-and-Data-Analyst_JR68377-1": {
       "locations": [],
-      "fetched": "2026-11-22"
+      "fetched": "2026-11-26"
     },
     "https://saputo.wd5.myworkdayjobs.com/en-US/saputo_external_careers/job/Saint-Laurent-QC/Stagiaire--Paie-et-Analyse-de-Donnes_JR68309": {
       "locations": [
